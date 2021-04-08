@@ -1,14 +1,14 @@
 ---
-layout: portfolio
 title: workshop title
-category: science, code or engineering
-age: 8+
-group_size: 6-10
-duration: 2-4 h  
-material_costs: 5 EUR (pro Person)
-school_subject: Nur für Lehrer
-mobile: Ja, Nein oder teilweise
-take_home: Ja oder Nein
+category: science|code|engineering
+attributes:
+  age: 8+
+  group_size: 6-10
+  duration: 2-4 h  
+  material_costs: 5 EUR (pro Person)
+  school_subject: Nur für Lehrer
+  mobile: Ja, Nein oder teilweise
+  take_home: Ja oder Nein
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -43,10 +43,4 @@ image2: Material/Prozess
 
 :::curriculum
 - Lernplanreferenzen für die unterschiedlichen Schularten
-:::
-
-:::info
-
-sd
-
 :::
