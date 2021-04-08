@@ -1,0 +1,34 @@
+---
+title: Calliope programmieren
+category: Code
+attributes:
+  age: 8+
+  class: Ab 4. Klasse
+  group_size: 6-15
+  duration: 60 min  
+  material_costs: 5 EUR (pro Person)
+  school_subject: Informatik
+  mobile: Ja
+  take_home: Nein
+image1: Ergebnis
+image2: Material/Prozess
+---
+:::short_description  
+*_uBit.display.scroll(ManagedString("Hallo")*... Das hier ist eine Programmiersprache. Moment? Sprache? Wer spricht denn da? Und mit wem??? Um euch den Einstieg in das Programmieren zu erleichtern, bieten wir euch in diesem Workshop das Programmieren mit den Calliope mini an, mit denen ihr am Computer einfache bis komplexe Befehlsketten mittels Blöcken verfasst. Es ist wie Lego spielen, nur ist das Ergebnis ein Code, den ein Computer ausführt.   
+:::
+
+:::learning_goals  
+ Schüler:innen werden in diesem Kurs an die komplexe Welt der Programmiersprache, bzw. des Programmierens herangeführt. Die Einheit umfasst sowohl das schreiben eines Codes mit der Calliope-mini-Oberfläche, als auch das austesten von diversen Befehlsketten, die die Schüler:innen selbst programmieren dürfen.      
+:::
+
+:::message  
+Computerprogramme unter anderem machen genau das, was ihr ihnen sagt, das sie machen sollen. Jetzt seid ihr an der Reihe und ebnet die Wege für eine ganz neue Dimension von elektronischer Kommunikation: Ihr sagt dem Computer, was er machen soll und findet heraus, ob er eure Befehle auch umsetzen kann.
+:::  
+
+:::special_notes  
+Auch die Calliope mini können miteinander kommunizieren und stellen damit die einfachste Form der Kommunkation dar. Ihr kennt es besser unter dem Namen Funk.
+:::
+
+:::curriculum  
+**Folgt**   
+:::
