@@ -3,6 +3,7 @@ title: workshop title
 category: science|code|engineering
 attributes:
   age: 8+
+  class: ab 4. Klasse
   group_size: 6-10
   duration: 2-4 h  
   material_costs: 5 EUR (pro Person)
