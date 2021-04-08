@@ -13,12 +13,14 @@ image1: Ergebnis
 image2: Material/Prozess
 ---
 :::short_description
+300 Zeichen
 - knappe Einleitung
 - WAS wird WIE gemacht
 - Ergebnis
 :::
 
 :::learning_goals
+250 Zeichen
 - Alltagsbezug
 - Kompetenzen
 - Phänomene verstehen
@@ -28,6 +30,7 @@ image2: Material/Prozess
 :::
 
 :::message
+250 Zeichen
 - "Umformulierte Lernziele"
 - Alltagsbezug
 - Problemstellung
@@ -35,6 +38,7 @@ image2: Material/Prozess
 :::
 
 :::special_notes
+130 Zeichen
 - Sicherheitshinweise
 - Von Zuhause mitbringen
 - Was kann mit nach Hause mitgenommen werden
