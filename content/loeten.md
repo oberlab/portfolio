@@ -30,5 +30,9 @@ Unsere Platinen gibt es in unterschiedlichten Ausführungen, sowohl Anfänger al
 :::
 
 :::curriculum
-- **kommt noch**
+GS: WG3/4  
+MS: WG5+6, WiB, T7-8  
+FS: WG3/4+5+6, HSU3/4, NT  
+RS: We5-9, Ph8-10  
+GY: NT5+6, Ph8  
 :::
