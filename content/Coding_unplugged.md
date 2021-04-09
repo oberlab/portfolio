@@ -2,11 +2,11 @@
 title: Coding unplugged
 category: Code
 attributes:
-  age: 8+
-  class: Ab 4. Klasse
+  age: 7+
+  class: Ab 3. Klasse
   group_size: 6-14
   duration: 70 min  
-  material_costs: 5 EUR (pro Person)
+  material_costs: 1 EUR (pro Person)
   school_subject: Informatik
   mobile: Ja
   take_home: Nein

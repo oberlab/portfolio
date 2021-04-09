@@ -3,6 +3,7 @@ title: Löten lernen
 category: engineering
 attributes:
   age: 8+
+  class: Ab 2. Klasse
   group_size: 6-10
   duration: 1-2 h  
   material_costs: 5 EUR

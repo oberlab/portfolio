@@ -4,17 +4,17 @@ category: Engineering
 attributes:
   age: 12+
   class: Ab 7. Klasse
-  group_size: 6-8
+  group_size: 6-14
   duration: 60 min  
   material_costs: 5 EUR (pro Person)
-  school_subject: Informatik
+  school_subject: Informatik, Kunst, Chemie, IdiG
   mobile: Ja
   take_home: Ja
 image1: Ergebnis
 image2: Material/Prozess
 ---
 :::short_description  
-Jeder hat schon einmal Texte oder Bilder auf ein Blatt Papier gedruckt. Doch was ist, wenn das Objekt, das man auf ein Papier druckt auf einmal dreidimensional ist und gut an den Schlüsselbund gehängt werden kann? Das klingt nach Science-Fiction, gehört aber inzwischen zur gängigen Praxis in additiver Fertigung. Ihr habt eine Lieblingsfigur oder wollt eurem Haustier ein Namensschild gestalten? In diesem Workshop werdet ihr sowohl ein Objekt eurer Wahl selbst designen und am 3D-Drucker ausdrucken.   
+Jeder hat schon einmal Texte oder Bilder auf ein Blatt Papier gedruckt. Doch was ist, wenn das Objekt, das man auf ein Papier druckt auf einmal dreidimensional ist und gut an den Schlüsselbund gehängt werden kann? Das klingt nach Science-Fiction, gehört aber inzwischen zur gängigen Praxis in additiver Fertigung. Ihr habt eine Lieblingsfigur oder wollt eurem Haustier ein Namensschild gestalten? In diesem Workshop werdet ihr sowohl ein Objekt eurer Wahl selbst designen und am 3D-Drucker ausdrucken.
 :::
 
 :::learning_goals  
@@ -26,7 +26,7 @@ Wenn ihr eine coole Idee für eine Figur oder sogar ein ganzes Modell in eurem K
 :::  
 
 :::special_notes  
-Beim 3D-Druck gibt es quasi keine Grenzen. Lediglich die Druckfläche des Druckers kann einem das Knie brechen. Hierfür eignet es sich ein größeres Objekt in kleinere Einzelteile zu zerlegen.
+Beim 3D-Druck gibt es quasi keine Grenzen. Der Kurs kann angepasst werden, sodass sowohl Anfänger als auch Fortgeschrittene auf ihre Kosten kommen.
 :::
 
 :::curriculum  

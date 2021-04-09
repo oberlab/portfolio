@@ -3,7 +3,7 @@ title: Bau dir deine eigene Cloud
 category: code
 attributes:
   age: 14+
-  class: ab 8. Klasse
+  class: Ab 8. Klasse
   group_size: 6-10
   duration: 6-10 h  
   material_costs: 20 EUR (pro Person)

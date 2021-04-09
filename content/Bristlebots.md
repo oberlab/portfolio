@@ -3,8 +3,8 @@ title: Bristlebots
 category: Science
 attributes:
   age: 8+
-  class: Ab 4. Klasse
-  group_size: 6-10
+  class: Ab 3. Klasse
+  group_size: 6-20
   duration: 45 min  
   material_costs: 5 EUR (pro Person)
   school_subject: Natur und Technik
@@ -18,11 +18,11 @@ Elektrische Zahnbürste? Ja! Elektrische Zahnbürste mit Augen? JAA! Elektrische
 :::
 
 :::learning_goals  
- Es wird vorausgesetzt, dass die Schüler:innen bereits Kenntnis über die Fließrichtung von Strom haben. Bei dem hier eingesetzten Vibrationsmotor ist es gleichgültig, wie die Batterie angeschlossen wird, da im Motor eine Umpolung stattfindet, wodurch eine Vibration resultiert.      
+ Es wird vorausgesetzt, dass die Schüler:innen bereits Kenntnis über die Fließrichtung von Strom haben. Sie lernen eine Umwandlungsform von Strom in Bewegung kennen und die damit verbundenen physikalischen Grundsätze kennen. Die Schüler:innen werden darüber hinaus in ihrer Kreativität gefördert.
 :::
 
 :::message  
-Egal ob im Handy, in Controllern von Spielekonsolen oder elektrischen Zahnbürsten; all diese Geräte beinhalten das selbe Bauteil: den Vibrationsmotor. Die Besonderheit bei diesem Motor liegt darin, dass er die Stromrichtung ständig umpolt, was eine Vibration ergibt.
+Egal ob im Handy, in Controllern von Spielekonsolen oder elektrischen Zahnbürsten; all diese Geräte beinhalten das selbe Bauteil: den Vibrationsmotor. In diesem Kurs erfahrt ihr wie aus Strom Bewegung entstehen kann.
 :::  
 
 :::special_notes  
