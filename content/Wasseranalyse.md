@@ -30,5 +30,9 @@ An besonders schönen Tagen verbinden wir die Analyse mit einer kleinen Wanderun
 :::
 
 :::curriculum  
-**Folgt**   
+GS: HSU3/4 3.3  
+MS: NT5, NT6 2, NT7-10  
+FS: NT  
+RS: B6 4, B10, C8-10  
+GY: NT6 1.5, B8, B12 4.2, C10, Q/K     
 :::
