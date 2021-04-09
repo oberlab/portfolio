@@ -30,5 +30,9 @@ Beim 3D-Druck gibt es quasi keine Grenzen. Der Kurs kann angepasst werden, sodas
 :::
 
 :::curriculum  
-**Folgt**   
+GS: WG3/4
+MS: Inf5-10, IdiG, WiB5-10, T10 1
+FS: Inf5-9, IdiG
+RS: IT 2.4, We5-10
+GY: BO9, Inf9+10, C9+10   
 :::
