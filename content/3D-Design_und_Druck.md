@@ -29,10 +29,10 @@ Wenn ihr eine coole Idee für eine Figur oder sogar ein ganzes Modell in eurem K
 Beim 3D-Druck gibt es quasi keine Grenzen. Der Kurs kann angepasst werden, sodass sowohl Anfänger als auch Fortgeschrittene auf ihre Kosten kommen.
 :::
 
-:::curriculum  
-GS: WG3/4
-MS: Inf5-10, IdiG, WiB5-10, T10 1
-FS: Inf5-9, IdiG
-RS: IT 2.4, We5-10
-GY: BO9, Inf9+10, C9+10   
+:::curriculum    
+GS: WG3/4  
+MS: Inf5-10, IdiG, WiB5-10, T10 1  
+FS: Inf5-9, IdiG    
+RS: IT 2.4, We5-10  
+GY: BO9, Inf9+10, C9+10     
 :::
