@@ -30,5 +30,9 @@ Der Sockel, in dem die Batterie angebracht wird, wurde von uns designed und 3D-g
 :::
 
 :::curriculum  
-**Folgt**   
+GS: WG3/4, HSU3/4  
+MS: NT5, WG5+6  
+FS: WG3/4+5+6, T7  
+RS: We5-7  
+GY: NT5-7, Ph8     
 :::
