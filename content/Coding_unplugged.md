@@ -30,5 +30,9 @@ Da dieser Kurs alleine als Basis für das Programmierverständnis dient, empfehl
 :::
 
 :::curriculum  
-**Folgt**   
+GS: HSU3/4 6  
+MS: Inf5-6  
+FS: Inf5-7, HSU  
+RS: IT 2.6  
+GY: NT6 2     
 :::
