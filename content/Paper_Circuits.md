@@ -30,5 +30,9 @@ Ihr habt die Wahl aus einem Creeper-, einem Super-Mario-Geist-, oder einem Kürb
 :::
 
 :::curriculum  
-**Folgt**   
+GS: WG3/4, HSU3/4  
+MS: T7-9 3, NT6 4  
+FS: HSU3/4, T7, NT5-6  
+RS: Ph8+9, We5-8  
+GY: NT7 1.3, Ph8     
 :::
