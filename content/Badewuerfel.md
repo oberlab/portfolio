@@ -30,5 +30,9 @@ Eure Badefiguren werden in eine von euch ausgewählte Silikonform in Form gebrac
 :::
 
 :::curriculum  
-**Folgt**   
+GS: WG3/4  
+MS: WG5+6  
+FS: WG3/4+5+6, HSU3/4  
+RS: We5-9  
+GY: NT5+6     
 :::
