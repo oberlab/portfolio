@@ -30,5 +30,9 @@ Die Detailtiefe bei dem Entwurf der Vorlage und der Grafikbearbeitung wird an di
 :::
 
 :::curriculum
-- Lernplanreferenzen für die unterschiedlichen Schularten
+GS: WG3/4  
+MS: WG5+6, WiB, T7-8  
+FS: WG3/4+5+6, HSU3/4, NT  
+RS: We5-9  
+GY: NT5+6  
 :::
