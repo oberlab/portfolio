@@ -30,5 +30,9 @@ Nach unserem Workshop ist natürlich nicht Schluss. Ihr könnt euren eine Code e
 :::
 
 :::curriculum
-**coming soon**
+GS: WG3/4  
+MS: WG5+6, WiB, T7-8  
+FS: WG3/4+5+6, HSU3/4, NT  
+RS: We5-9, IT 2.6, 2.7, IT LB3  
+GY: NT5+6, Inf9-12  
 :::
