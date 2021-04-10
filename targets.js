@@ -3,7 +3,7 @@ module.exports = {
         title: 'Portfolio',
         sourceDir: 'content/portfolio',
         template: 'portfolio.html',
-        skeleton: '_skeleton.html',
+        skeleton: 'portfolio-skeleton.html',
         outputFile: `out/portfolio.html`,
     }
 }
