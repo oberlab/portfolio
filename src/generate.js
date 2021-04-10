@@ -1,3 +1,5 @@
+const fs = require('fs')
+
 const Loader = require('./loader')
 const Parser = require('./parser')
 const Renderer = require('./renderer')
@@ -36,7 +38,9 @@ function run(target) {
         results.push(generate(page, targetConfig, renderer))
     }
 
-    console.log(renderer.render(targetConfig.skeleton, {
+    const outputFile = targetConfig.outputDir + '/index.html'
+    fs.mkdirSync(targetConfig.outputDir, { recursive: true })
+    fs.writeFileSync(outputFile, renderer.render(targetConfig.skeleton, {
         pages: results,
     }))
 
