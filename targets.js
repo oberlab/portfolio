@@ -1,8 +1,9 @@
 module.exports = {
     portfolio: {
+        title: 'Portfolio',
         sourceDir: 'content/portfolio',
         template: 'portfolio.html',
         skeleton: '_skeleton.html',
-        outputDir: `out/portfolio`,
+        outputFile: `out/portfolio.html`,
     }
 }

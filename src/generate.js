@@ -38,9 +38,9 @@ function run(target) {
         results.push(generate(page, targetConfig, renderer))
     }
 
-    const outputFile = targetConfig.outputDir + '/index.html'
-    fs.mkdirSync(targetConfig.outputDir, { recursive: true })
-    fs.writeFileSync(outputFile, renderer.render(targetConfig.skeleton, {
+    // fs.mkdirSync(targetConfig.outputDir, { recursive: true })
+    fs.writeFileSync(targetConfig.outputFile, renderer.render(targetConfig.skeleton, {
+        ...targetConfig,
         pages: results,
     }))
 
