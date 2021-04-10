@@ -1,0 +1,30 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    {
+      "name": "Alexander Kutschera",
+      "email": "alex@oberlab.de"
+    },
+    {
+      "name": "Julian Heyder",
+      "email": "julian@oberlab.de"
+    },
+    {
+      "name": "Joseph Paul",
+      "email": "joseph@oberlab.de"
+    }
+  ],
+  "repository": "git@git.oberlab.de:mobiles-fablab/portfolio.git/portfolio",
+  "scripts": {
+    "generate": "node src/generate.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "handlebars": "^4.7.7",
+    "markdown-it": "^12.0.4",
+    "yaml-front-matter": "^4.1.1"
+  }
+}
