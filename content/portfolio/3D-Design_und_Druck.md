@@ -1,5 +1,5 @@
 ---
-title: 3D-Design, und -Druck
+title: 3D-Design- und Druck
 category: Engineering
 attributes:
   age: 12+
