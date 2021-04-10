@@ -40,7 +40,8 @@ function run(target) {
 
     // fs.mkdirSync(targetConfig.outputDir, { recursive: true })
     fs.writeFileSync(targetConfig.outputFile, renderer.render(targetConfig.skeleton, {
-        ...targetConfig,
+        ...config.templateGlobals,
+        target: targetConfig,
         pages: results,
     }))
 
@@ -61,7 +62,11 @@ function generate(page, targetConfig, renderer) {
     delete page.__content
     page.content = html
 
-    return renderer.render(targetConfig.template, page)
+    return renderer.render(targetConfig.template, {
+        ...config.templateGlobals,
+        target: targetConfig,
+        ...page,
+    })
 }
 
 /**
