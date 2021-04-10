@@ -1,6 +1,6 @@
 ---
 title: Bristlebots
-category: Science
+category: science
 attributes:
   age: 8+
   class: Ab 3. Klasse

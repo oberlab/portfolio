@@ -1,6 +1,6 @@
 ---
 title: Calliope programmieren
-category: Code
+category: code
 attributes:
   age: 8+
   class: Ab 4. Klasse

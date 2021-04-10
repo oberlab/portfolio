@@ -1,6 +1,6 @@
 ---
 title: Coding unplugged
-category: Code
+category: code
 attributes:
   age: 7+
   class: Ab 3. Klasse
