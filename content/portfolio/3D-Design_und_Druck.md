@@ -1,6 +1,6 @@
 ---
 title: 3D-Design- und Druck
-category: Engineering
+category: engineering
 attributes:
   age: 12+
   class: Ab 7. Klasse
