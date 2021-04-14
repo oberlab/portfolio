@@ -13,9 +13,9 @@ npm install
 
 ## Usage
 1. Place content inside `content` directory (markdown with yaml front matter)
-2. Define build targets in `targets.js`. Keys of the object are valid values for the `target` arugment to the generate command
+2. Define build targets in `targets.js`. Keys of the object are valid values for the `target` argument to the generate command
 3. Create templates (in `templates` directory)
-4. Generate output: `npm run generate <target>`
+4. Generate output: `npm run generate <target>` e.g. `npm run generate portfolio`
 
 ## Guides
 ### Templating
