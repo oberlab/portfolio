@@ -6,13 +6,17 @@
         <div class="flex flex-col fw">
             <h1 class="title">{{ title }}</h1>
             <div class="flex flex-row">
-                {{>attributes icons=attributeIcons}}
+                <ul class="attributes">
+                {{#each attributes}}
+                    <li><i class="fas fa-fw fa-{{lookup ../attributeIcons @key}}"></i>{{ this }}</li>
+                {{/each}}
+                </ul>
                 <image src="foo" alt="missing image"></image>
             </div>
         </div>
     </div>
 </div>
 <div class="page page-right">
-    Right Page
+    {{{ content }}}
 </div>
 

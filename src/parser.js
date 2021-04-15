@@ -1,8 +1,9 @@
-var MarkdownIt = require('markdown-it')
+const MarkdownIt = require('markdown-it')
+const MarkdownItContainer = require('markdown-it-container')
 
 class Parser {
     constructor() {
-        this.md = new MarkdownIt()
+        this.md = new MarkdownIt().use(MarkdownItContainer, 'container')
     }
 
     toHtml(markdown) {
