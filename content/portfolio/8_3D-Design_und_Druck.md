@@ -18,7 +18,7 @@ Jeder hat schon einmal Texte oder Bilder auf ein Blatt Papier gedruckt. Doch was
 :::
 
 :::learning_goals  
- In diesem Kurs erfahren die Schüler:innen eine Schnittmenge aus verschiedenen MINT-Fächern. So lernen sie auf der einen Seite ein 3D-Objekt via CAD am Computer zu designen, auf der anderen Seite lernen sie die verschiedenen Eigenschaften der zu verwendenden Kunststoffe kennen.        
+In diesem Kurs erfahren die Schüler:innen eine Schnittmenge aus verschiedenen MINT-Fächern. So lernen sie auf der einen Seite ein 3D-Objekt via CAD am Computer zu designen, auf der anderen Seite lernen sie die verschiedenen Eigenschaften der zu verwendenden Kunststoffe kennen.        
 :::
 
 :::message  
