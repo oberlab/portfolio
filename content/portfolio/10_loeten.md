@@ -13,7 +13,7 @@ attributes:
 image1: Ergebnis
 image2: Material/Prozess
 ---
-:::short_description
+::: short_description
 Eine verrückte Fledermaus, ein gruseliger Geist oder ein netter Roboter. Wir schwingen den Lötkolben und bringen diese Figuren mit LEDs zum Blinken und zum Leuchten. Durch das Löten verbindet ihr verschiedene elektronische Bauteile und LEDs mit der Platine und kreiert so euren ganz eigenen Stromkreis.
 :::
 

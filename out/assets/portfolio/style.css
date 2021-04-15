@@ -1,0 +1,93 @@
+body {
+    font-family: "Hind";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto Mono";
+    font-weight: bold;
+}
+
+.page {
+    width: 210mm;
+    height: 148.5mm;
+
+    padding: 10mm;
+    margin: 0;
+
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    page-break-after: always;
+}
+
+.page-left {
+    background-image: url(bg-left.svg);
+}
+
+.page-right {
+    background-image: url(bg-right.svg);
+}
+
+.category-image {
+    border: 2px solid #ddd;
+    border-radius: 100%;
+    width: 38mm;
+    height: 38mm;
+    overflow: hidden;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+ul.attributes {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.attributes li {
+    line-height: 10mm;
+    font-size: 16pt;
+}
+
+ul.attributes li i {
+    margin-right: 2mm;
+    color: #444;
+}
+
+
+@media screen {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 0;
+    }
+    .page {
+        margin: 10mm auto;
+        box-shadow: 0 0 5mm rgba(0,0,0,0.2);
+    }
+    .page-left {
+        margin-right: 0;
+    }
+    .page-right {
+        margin-left: 0;
+    }
+}
+
+@media print {
+    .page {
+        margin: 0;
+    }
+}
+
+@page {
+    size: A5;
+    orientation: landscape;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
