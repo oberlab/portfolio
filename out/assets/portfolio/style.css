@@ -35,6 +35,37 @@ h1, h2, h3, h4, h5, h6 {
     height: 38mm;
     overflow: hidden;
     text-align: center;
+    background-image: url(code.svg);
+}
+
+.category-science {
+    border: 2px solid #ddd;
+    border-radius: 100%;
+    width: 38mm;
+    height: 38mm;
+    overflow: hidden;
+    text-align: center;
+    background-image: url(science.svg);
+}
+
+.category-code {
+    border: 2px solid #ddd;
+    border-radius: 100%;
+    width: 38mm;
+    height: 38mm;
+    overflow: hidden;
+    text-align: center;
+    background-image: url(code.svg);
+}
+
+.category-engineering {
+    border: 2px solid #ddd;
+    border-radius: 100%;
+    width: 38mm;
+    height: 38mm;
+    overflow: hidden;
+    text-align: center;
+    background-image: url(engineering.svg);
 }
 
 .title {
