@@ -1,6 +1,6 @@
 ---
 title: Badebomben
-category: Science
+category: science
 attributes:
   age: 6+
   class: Ab 2. Klasse

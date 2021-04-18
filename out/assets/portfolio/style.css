@@ -25,47 +25,29 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .page-right {
+    font-size: 14pt;
     background-image: url(bg-right.svg);
 }
 
 .category-image {
-    border: 2px solid #ddd;
-    border-radius: 100%;
-    width: 35mm;
-    height: 35mm;
-    overflow: hidden;
-    text-align: center;
-    background-image: url(code.svg);
-}
-
-.category-science {
     border: 3px solid #000000;
     border-radius: 100%;
     width: 35mm;
     height: 35mm;
     overflow: hidden;
     text-align: center;
-    background-image: url(science.svg);
 }
 
-.category-code {
-    border: 3px solid #000000;
-    border-radius: 100%;
-    width: 35mm;
-    height: 35mm;
-    overflow: hidden;
-    text-align: center;
-    background-image: url(code.svg);
+.science {
+    background-image: url(science.svg)
 }
 
-.category-engineering {
-    border: 3px solid #000000;
-    border-radius: 100%;
-    width: 38mm;
-    height: 38mm;
-    overflow: hidden;
-    text-align: center;
-    background-image: url(engineering.svg);
+.engineering {
+    background-image: url(engineering.svg)
+}
+
+.code {
+    background-image: url(code.svg)
 }
 
 .title {

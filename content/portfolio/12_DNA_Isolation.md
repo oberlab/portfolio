@@ -1,6 +1,6 @@
 ---
 title: DNA Isolation
-category: Science
+category: science
 attributes:
   age: 7+
   class: Ab 3. Klasse
