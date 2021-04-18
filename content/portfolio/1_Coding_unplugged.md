@@ -2,14 +2,19 @@
 title: Coding unplugged
 category: code
 attributes:
-  age: 7+
-  class: Ab 3. Klasse
-  group_size: 6-14
-  duration: 70 min  
-  material_costs: 1 EUR (pro Person)
+  age: Ab 7+ Jahren
+  class: Ab der 3. Klasse
+  group_size: 6-14 Personen
+  duration: 60 - 90 min Dauer
+  material_costs: keine Materialkosten
   school_subject: Informatik
-  mobile: Ja
-  take_home: Nein
+  mobile: mobiles Angebot
+curriculum_reference:
+  Grundschule: HSU3/4 6  
+  Mittelschule: Inf5-6  
+  Förderschule: Inf5-7, HSU  
+  Realschule: IT 2.6  
+  Gymnasium: NT6 2
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -27,12 +32,4 @@ Dieser Workshop soll euch zeigen, dass jedes digitale Medium, z.B. euer Computer
 
 :::special_notes  
 Da dieser Kurs alleine als Basis für das Programmierverständnis dient, empfehlen wir, an weiteren Programmierkursen von uns teilzunehmen, um das Wissen zu vertiefen.
-:::
-
-:::curriculum  
-GS: HSU3/4 6  
-MS: Inf5-6  
-FS: Inf5-7, HSU  
-RS: IT 2.6  
-GY: NT6 2     
 :::

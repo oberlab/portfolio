@@ -2,14 +2,13 @@
 title: Calliope programmieren
 category: code
 attributes:
-  age: 8+
-  class: Ab 4. Klasse
-  group_size: 6-15
+  age: Ab 8+ Jahren
+  class: Ab der 4. Klasse
+  group_size: 6-15 Personen
   duration: 60 min  
-  material_costs: 5 EUR (pro Person)
+  material_costs: keine Materialkosten
   school_subject: Informatik
-  mobile: Ja
-  take_home: Nein
+  mobile: mobiles Angebot
 image1: Ergebnis
 image2: Material/Prozess
 ---

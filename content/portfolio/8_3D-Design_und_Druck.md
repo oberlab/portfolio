@@ -2,14 +2,13 @@
 title: 3D-Design- und Druck
 category: engineering
 attributes:
-  age: 12+
-  class: Ab 7. Klasse
-  group_size: 6-14
-  duration: 60 min  
-  material_costs: 5 EUR (pro Person)
+  age: Ab 12+ Jahren
+  class: Ab der 7. Klasse
+  group_size: 6-14 Personen
+  duration: 60 min  Dauer
+  material_costs: 5 EUR Materialkosten
   school_subject: Informatik, Kunst, Chemie, IdiG
-  mobile: Ja
-  take_home: Ja
+  mobile: mobiles Angebot
 image1: Ergebnis
 image2: Material/Prozess
 ---

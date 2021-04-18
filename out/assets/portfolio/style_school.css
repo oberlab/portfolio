@@ -1,0 +1,31 @@
+.attribute-age {
+    display:none;
+}
+
+.message {
+    display:none;
+}
+
+.curriculum_reference {
+    font-size: 16pt;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    width: 150mm;
+}
+
+.li_curriculum {
+    float: left;
+    list-style: outside none none;
+    width: 50%;
+}
+
+.curriculum_reference:before {
+    content: "Lehrplanreferenzen";
+    display: block;
+    font-family: "Roboto Mono";
+    font-weight: bold;
+    margin-bottom: 1mm;
+
+}

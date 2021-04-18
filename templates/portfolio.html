@@ -8,10 +8,18 @@
             <div class="flex flex-row">
                 <ul class="attributes">
                 {{#each attributes}}
-                    <li><i class="fas fa-fw fa-{{lookup ../attributeIcons @key}}"></i>{{ this }}</li>
+                    <li class="attribute-{{ @key }}"><i class="fas fa-fw fa-{{lookup ../attributeIcons @key}}"></i>{{ this }}</li>
                 {{/each}}
                 </ul>
+
                 <image src="foo" alt="missing image"></image>
+            </div>
+            <div class="flex flex-row">
+              <ul class="curriculum_reference">
+              {{#each curriculum_reference}}
+                  <li class="li_curriculum">{{ @key }}: {{ this }}</li>
+              {{/each}}
+              </ul>
             </div>
         </div>
     </div>

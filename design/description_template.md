@@ -2,14 +2,13 @@
 title: workshop title
 category: science|code|engineering
 attributes:
-  age: 8+
+  age: Ab 8+ Jahren
   class: ab 4. Klasse
-  group_size: 6-10
-  duration: 2-4 h  
-  material_costs: 5 EUR (pro Person)
+  group_size: 6-10 Personen
+  duration: 2-4 h Dauer
+  material_costs: 5 EUR (pro Person) Materialkosten
   school_subject: Nur für Lehrer
-  mobile: Ja, Nein oder teilweise
-  take_home: Ja oder Nein
+  mobile: mobiles Angebot | teilweise mobiles Angebot | kein mobiles Angebot
 image1: Ergebnis
 image2: Material/Prozess
 ---

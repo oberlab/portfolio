@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .page-right {
-    font-size: 14pt;
+    font-size: 12pt;
     background-image: url(bg-right.svg);
 }
 
@@ -54,6 +54,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+
 ul.attributes {
     list-style-type: none;
     padding: 0;
@@ -67,6 +68,47 @@ ul.attributes li {
 ul.attributes li i {
     margin-right: 2mm;
     color: #444;
+}
+
+
+.short_description:before {
+    content: "Kurzbeschreibung";
+    display: block;
+    font-family: "Roboto Mono";
+    font-weight: bold;
+    margin-bottom: -3mm;
+}
+
+.learning_goals:before {
+    content: "Lernziele";
+    display: block;
+    font-family: "Roboto Mono";
+    font-weight: bold;
+    margin-bottom: -3mm;
+}
+
+.message:before {
+    content: "Was gibts zu entdecken?";
+    display: block;
+    font-family: "Roboto Mono";
+    font-weight: bold;
+    margin-bottom: -3mm;
+}
+
+.special_notes:before {
+    content: "Weitere Informationen";
+    display: block;
+    font-family: "Roboto Mono";
+    font-weight: bold;
+    margin-bottom: -3mm;
+}
+
+.curriculum:before {
+    content: "Lehrplanreferenzen";
+    display: block;
+    font-family: "Roboto Mono";
+    font-weight: bold;
+    margin-bottom: -3mm;
 }
 
 

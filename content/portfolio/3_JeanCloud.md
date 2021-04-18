@@ -2,14 +2,13 @@
 title: Bau dir deine eigene Cloud
 category: code
 attributes:
-  age: 14+
-  class: Ab 8. Klasse
-  group_size: 6-10
-  duration: 6-10 h  
-  material_costs: 20 EUR (pro Person)
+  age: Ab 14+ Jahren
+  class: Ab der 8. Klasse
+  group_size: 6-10 Personen
+  duration: 6-10 h Dauer
+  material_costs: 20 EUR Materialkosten
   school_subject: Informatik, Werken
-  mobile: Ja
-  take_home: Ja
+  mobile: mobiles Angebot
 image1: Ergebnis
 image2: Material/Prozess
 ---

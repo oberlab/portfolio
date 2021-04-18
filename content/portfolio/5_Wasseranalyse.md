@@ -2,14 +2,13 @@
 title: Wasseranalyse
 category: science
 attributes:
-  age: 8+
-  class: Ab 5. Klasse
-  group_size: 6-10
+  age: Ab 8+ Jahren
+  class: Ab der 5. Klasse
+  group_size: 6-10 Personen
   duration: 60 min  
-  material_costs: 5 EUR (pro Person)
+  material_costs: 5 EUR Materialkosten
   school_subject: Natur und Technik
-  mobile: Ja
-  take_home: teilweise
+  mobile: mobiles Angebot
 image1: Ergebnis
 image2: Material/Prozess
 ---
