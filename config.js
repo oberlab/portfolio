@@ -11,10 +11,5 @@ module.exports = {
             mobile: 'bus',
             take_home: 'hand-holding',
         },
-        categoryIcons: {
-            code: 'category-code',
-            engineering: 'category-engineering',
-            science: 'category-science',
-        },
     },
 }
