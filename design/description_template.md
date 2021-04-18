@@ -9,6 +9,12 @@ attributes:
   material_costs: 5 EUR (pro Person) Materialkosten
   school_subject: Nur für Lehrer
   mobile: mobiles Angebot | teilweise mobiles Angebot | kein mobiles Angebot
+curriculum_reference:
+  Grundschule: HSU3/4 6
+  Mittelschule: Inf5-6  
+  Förderschule: Inf5-7, HSU  
+  Realschule: IT 2.6  
+  Gymnasium: NT6 2
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -43,8 +49,4 @@ image2: Material/Prozess
 - Von Zuhause mitbringen
 - Was kann mit nach Hause mitgenommen werden
 - Verfügbarkeit von Kursen (Einschränkungen)
-:::
-
-:::curriculum
-- Lernplanreferenzen für die unterschiedlichen Schularten
 :::
