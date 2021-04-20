@@ -29,3 +29,11 @@
     margin-bottom: 1mm;
 
 }
+
+.page-cover-front {
+    background-image: url(cover-front.svg);
+}
+
+.page-cover-back {
+    background-image: url(cover-front.svg);
+}
