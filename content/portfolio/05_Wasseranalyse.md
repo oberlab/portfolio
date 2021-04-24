@@ -9,8 +9,8 @@ attributes:
   material_costs: 5 EUR Materialkosten
   school_subject: Natur und Technik
   mobile: mobiles Angebot
-image1: Ergebnis
-image2: Material/Prozess
+image1: img/kurse/wasseranalye_result.png
+image2: img/kurse/wasseranalye_process.png
 ---
 :::short_description  
 Wasser = Wasser und in Wasser ist Wasser. Ist das so? Wieso schmeckt aber Meerwasser salzig und Leitungswasser nicht, wenn Wasser gleich Wasser ist? In diesem Kurs lernt ihr das Wasser aus einem ganz neuen Blickwinkel kennen, analysiert es auf den Nitratgehalt und bestimmt den Härte-, und Säuregrad von Wasser. Hierbei wendet ihr verschiedene Nachweise und Analyseverfahren kennen. Da ihr die Wissenschaftler seid, dürft ihr gerne das Wasser aus eurer Leitung von zu Hause mitnehmen und analysieren.
