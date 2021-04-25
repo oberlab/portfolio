@@ -29,5 +29,9 @@ Der ganze Vorgang funktioniert nicht nur mit Erdbeeren. Probiert es doch mal mit
 :::
 
 :::curriculum  
-**Folgt**   
+GS: HSU3/4
+MS: NT5-10
+FS: SIU 3.1 HSU 2.2
+RS: B5-8 B10
+GY: NT5 2.4 NT6 1.2 B9 3 B11 2   
 :::
