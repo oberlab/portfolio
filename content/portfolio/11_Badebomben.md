@@ -29,5 +29,9 @@ Ihr könnt die Badebomben mit trockener (!) Lebensmittelfarbe versehen, dann wir
 :::
 
 :::curriculum  
-**Folgt**   
+GS: WG1/2 WG 3/4 HSU3/4  
+MS: NT5-10  
+FS: NT5-9  
+RS: C8-9 4 C10 5  
+GY: C8-10      
 :::
