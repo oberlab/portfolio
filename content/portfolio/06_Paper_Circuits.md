@@ -9,6 +9,12 @@ attributes:
   material_costs: 5 EUR Materialkosten
   school_subject: NuT
   mobile: mobiles Angebot
+  curriculum_reference:
+    Grundschule: WG3/4, HSU3/4  
+    Mittelschule: T7-9 3, NT6 4  
+    Förderschule: HSU3/4, T7, NT5-6   
+    Realschule: Ph8+9, We5-8
+    Gymnasium: NT7 1.3, Ph8
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -29,9 +35,5 @@ Ihr habt die Wahl aus einem Creeper-, einem Super-Mario-Geist-, oder einem Kürb
 :::
 
 :::curriculum  
-GS: WG3/4, HSU3/4  
-MS: T7-9 3, NT6 4  
-FS: HSU3/4, T7, NT5-6  
-RS: Ph8+9, We5-8  
-GY: NT7 1.3, Ph8     
+   
 :::
