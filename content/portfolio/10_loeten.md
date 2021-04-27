@@ -9,6 +9,12 @@ attributes:
   material_costs: 5 EUR Materialkosten
   school_subject: NuT, Werken, Physik
   mobile: mobiles Angebot
+  curriculum_reference:
+    Grundschule: WG3/4  
+    Mittelschule: WG5+6, WiB, T7-8
+    Förderschule: WG3/4+5+6, HSU3/4, NT   
+    Realschule: We5-9, Ph8-10
+    Gymnasium: NT5+6, Ph8
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -29,9 +35,5 @@ Unsere Platinen gibt es in unterschiedlichten Ausführungen, sowohl Anfänger al
 :::
 
 :::curriculum
-GS: WG3/4  
-MS: WG5+6, WiB, T7-8  
-FS: WG3/4+5+6, HSU3/4, NT  
-RS: We5-9, Ph8-10  
-GY: NT5+6, Ph8  
+ 
 :::

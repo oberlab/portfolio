@@ -9,6 +9,12 @@ attributes:
   material_costs: 5 EUR Materialkosten
   school_subject: Natur und Technik
   mobile: mobiles Angebot
+  curriculum_reference:
+    Grundschule: WG3/4, HSU3/4  
+    Mittelschule: NT5, WG5+6  
+    Förderschule: WG3/4+5+6, T7   
+    Realschule: We5-7
+    Gymnasium: NT5-7, Ph8
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -29,9 +35,5 @@ Der Sockel, in dem die Batterie angebracht wird, wurde von uns designed und 3D-g
 :::
 
 :::curriculum  
-GS: WG3/4, HSU3/4  
-MS: NT5, WG5+6  
-FS: WG3/4+5+6, T7  
-RS: We5-7  
-GY: NT5-7, Ph8     
+    
 :::

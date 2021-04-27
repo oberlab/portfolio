@@ -9,6 +9,12 @@ attributes:
   material_costs: 5 EUR Materialkosten
   school_subject: Biologie, Chemie
   mobile: mobiles Angebot
+  curriculum_reference:
+    Grundschule: WG1/2 WG 3/4 HSU3/4  
+    Mittelschule: NT5-10
+    Förderschule: NT5-9   
+    Realschule: C8-9 4 C10 5
+    Gymnasium: C8-10
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -29,9 +35,5 @@ Ihr könnt die Badebomben mit trockener (!) Lebensmittelfarbe versehen, dann wir
 :::
 
 :::curriculum  
-GS: WG1/2 WG 3/4 HSU3/4  
-MS: NT5-10  
-FS: NT5-9  
-RS: C8-9 4 C10 5  
-GY: C8-10      
+     
 :::
