@@ -35,9 +35,5 @@ Beim Programmieren gibt es keine Grenzen. Der Kurs kann angepasst werden, sodass
 :::
 
 :::curriculum  
-GS: HSU3/4  
-MS: WiB5-8, Inf5-10  
-FDS: Inf5-7, NT  
-RS: IT 2.6  
-GY: NT6 2, Inf9     
+
 :::
