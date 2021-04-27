@@ -13,7 +13,7 @@ attributes:
     Grundschule: WG3/4  
     Mittelschule: WG5+6  
     Förderschule: WG3/4+5+6, HSU3/4   
-    Realschule: NT5+6 
+    Realschule: NT5+6
     Gymnasium: NT5+6, Inf9-12
 image1: Ergebnis
 image2: Material/Prozess
@@ -35,9 +35,5 @@ Eure Badefiguren werden in eine von euch ausgewählte Silikonform in Form gebrac
 :::
 
 :::curriculum  
-GS: WG3/4  
-MS: WG5+6  
-FS: WG3/4+5+6, HSU3/4  
-RS: We5-9  
-GY: NT5+6     
+     
 :::
