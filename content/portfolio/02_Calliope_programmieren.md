@@ -33,7 +33,3 @@ Computerprogramme unter anderem machen genau das, was ihr ihnen sagt, das sie ma
 :::special_notes
 Beim Programmieren gibt es keine Grenzen. Der Kurs kann angepasst werden, sodass sowohl Anfänger als auch Fortgeschrittene auf ihre Kosten kommen.
 :::
-
-:::curriculum  
-
-:::

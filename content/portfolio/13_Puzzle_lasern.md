@@ -37,7 +37,3 @@ euren persönlichen Stempel. Alleinstehungsmerkmal ist hier garantiert.
 :::special_notes  
 Fortgeschrittene dürfen hier ihr individuelles Design freilich am Computer entwerfen.   
 :::
-
-:::curriculum  
-
-:::

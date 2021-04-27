@@ -33,7 +33,3 @@ Ihr wolltet schon immer mal den Bauplan sehen, den eine Erdbeere erst zu einer E
 :::special_notes  
 Der ganze Vorgang funktioniert nicht nur mit Erdbeeren. Probiert es doch mal mit anderen Früchten zu Hause.  
 :::
-
-:::curriculum  
-
-:::

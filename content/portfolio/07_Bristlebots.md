@@ -33,7 +33,3 @@ Egal ob im Handy, in Controllern von Spielekonsolen oder elektrischen Zahnbürst
 :::special_notes  
 Der Sockel, in dem die Batterie angebracht wird, wurde von uns designed und 3D-gedruckt.
 :::
-
-:::curriculum  
-
-:::

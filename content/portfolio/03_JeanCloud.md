@@ -33,7 +33,3 @@ In diesem Kurs lernst du mit einem Grafikprogramm einfache Vektorzeichnungen zu 
 :::special_notes
 Nach unserem Workshop ist natürlich nicht Schluss. Ihr könnt euren eine Code entwickeln um die Funktionen von JeanCloud anzupassen und zu erweitern
 :::
-
-:::curriculum
-
-:::

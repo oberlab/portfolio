@@ -33,7 +33,3 @@ In diesem Kurs lernt ihr wie ein Lasercutter funktioniert und wie man mit einem 
 :::special_notes
 Die Detailtiefe bei dem Entwurf der Vorlage und der Grafikbearbeitung wird an die Altersstufe angepasst.
 :::
-
-:::curriculum
-
-:::

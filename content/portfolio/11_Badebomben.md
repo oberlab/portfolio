@@ -33,7 +33,3 @@ Ihr habt ein schlechtes Gewissen beim Kauf von Bademitteln, die eure Badewanne i
 :::special_notes  
 Ihr könnt die Badebomben mit trockener (!) Lebensmittelfarbe versehen, dann wird auch das Auge beim Baden auf Entspannungsreise geschickt.  
 :::
-
-:::curriculum  
-
-:::

@@ -33,7 +33,3 @@ Es müssen nicht teure Pflegeprodukte mit vielen Inhaltsstoffen eingekauft werde
 :::special_notes  
 Eure Badefiguren werden in eine von euch ausgewählte Silikonform in Form gebracht. Ihr habt die Wahl aus verschiedenen Tierformen. So könnt ihr zum Beispiel einen Flamingo- oder Raupenbadefigur mit nach Hause nehmen.
 :::
-
-:::curriculum  
-
-:::

@@ -33,7 +33,3 @@ In diesem Workshop werdet ihr experimentell beweisen, dass das Wasser, das ihr t
 :::special_notes  
 An besonders schönen Tagen verbinden wir die Analyse mit einer kleinen Wanderung zum Tegernsee, um dort Wasserproben zu nehmen.
 :::
-
-:::curriculum  
-
-:::

@@ -5,14 +5,17 @@
         </div>
         <div class="flex flex-col fw">
             <h1 class="title">{{ title }}</h1>
-            <div class="flex flex-row space-between">
+            <div class="flex flex-row space-between items-center">
                 <ul class="attributes">
                 {{#each attributes}}
                     <li class="attribute-{{ @key }}"><i class="fas fa-fw fa-{{lookup ../attributeIcons @key}}"></i>{{ this }}</li>
                 {{/each}}
                 </ul>
 
-                <img id="result" src="../content/img/kurse/wasseranalyse_process.png" alt="missing image"/>
+                <div id="result">
+                  <img src="../content/img/kurse/wasseranalyse_result.png" alt="missing image"/>
+
+                </div>
             </div>
             <div class="flex flex-row">
               <ul class="curriculum_reference">
@@ -25,6 +28,9 @@
     </div>
 </div>
 <div class="page page-right">
+    <div id="process-spacer"></div>
+    <img id="process" src="../content/img/kurse/wasseranalyse_process.png" alt="missing image"/>
     {{{ content }}}
-    <img id="process" src="../content/img/kurse/wasseranalyse_result.png" alt="missing image"/>
+
+
 </div>
