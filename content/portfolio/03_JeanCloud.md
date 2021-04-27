@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: WG3/4+5+6, HSU3/4, NT   
   Realschule: We5-9, IT 2.6, 2.7, IT LB3  
   Gymnasium: NT5+6, Inf9-12
-image1: Ergebnis
-image2: Material/Prozess
+image_result: Ergebnis (800x800)
+image_process: Material/Prozess (width 600)
 ---
 :::short_description
 Alles läuft heutzutage nur noch über die Cloud. Ihr möchtet mitreden und selbst eine bauen? Hier arbeiten wir an einer Version mit Uhr und LED Beleuchtung die eine Form deiner Wahl annehmen kann. Ob ihr damit Batman zur Hilfe ruft oder euch in der Früh sanft mit Licht wecken lässt, ist euch selbst überlassen. Die Formen schneiden wir am Lasercutter, verbinden Display und LED-Streifen mit einem Mikrocontoller (mit WLAN und Bluetooth) und programmieren ihn nach euren belieben.

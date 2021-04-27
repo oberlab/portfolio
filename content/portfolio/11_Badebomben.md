@@ -15,11 +15,11 @@ curriculum_reference:
   Förderschule: NT5-9   
   Realschule: C8-9 4 C10 5
   Gymnasium: C8-10
-image1: Ergebnis
-image2: Material/Prozess
+image_result: Ergebnis (800x800)
+image_process: Material/Prozess (width 600)
 ---
 :::short_description  
-Nach einem anstrengenden Tag ein schönes Bad nehmen, das nur so blubbert, bitzelt, schäumt, zischt und dabei auch noch reinigt, gut duftet und umweltfreundlich ist wäre genau das Richtige, doch du weißt nicht, wie du diesen wahrhaftigen Wellnesstraum zu Hause umsetzen kannst? Dann tauche mit uns in diesem Kurs in die Unterwasserwelt deiner Badewanne ein und baue dir deine eigene Badebombe aus Hausmitteln und Duftölen deiner Wahl zusammen. Je größer die Bombe, desto größer auch der Badespaß.  
+Nach einem anstrengenden Tag ein schönes Bad nehmen, das nur so blubbert, bitzelt, schäumt, zischt und dabei auch noch reinigt, gut duftet und umweltfreundlich ist? Das wäre genau das Richtige! Doch du weißt nicht, wie du diesen wahrhaftigen Wellnesstraum zu Hause umsetzen kannst? Dann tauche mit uns in diesem Kurs in die Unterwasserwelt deiner Badewanne ein und baue dir deine eigene Badebombe aus Hausmitteln und Duftölen deiner Wahl zusammen. Je größer die Bombe, desto größer auch der Badespaß.  
 :::
 
 :::learning_goals  
@@ -30,6 +30,6 @@ Nach einem anstrengenden Tag ein schönes Bad nehmen, das nur so blubbert, bitze
 Ihr habt ein schlechtes Gewissen beim Kauf von Bademitteln, die eure Badewanne in einen Whirlpool verwandeln? In unserem Badebomben-Kurs baut ihr eine Badebombe, die ganz euren Wünschen entspricht. Macht sie aber nicht zu groß, sonst schimpft Mami, wenn sie die Badewanne nach Verwendung vorfindet.
 :::  
 
-:::special_notes  
+:::special_notes
 Ihr könnt die Badebomben mit trockener (!) Lebensmittelfarbe versehen, dann wird auch das Auge beim Baden auf Entspannungsreise geschickt.  
 :::

@@ -5,7 +5,7 @@ attributes:
   age: Ab 8+ Jahren
   class: Ab der 4. Klasse
   group_size: 6-15 Personen
-  duration: 60 min  
+  duration: 60 min Dauer
   material_costs: keine Materialkosten
   school_subject: Informatik
   mobile: mobiles Angebot
@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: Inf5-7, NT  
   Realschule: IT 2.6  
   Gymnasium: NT6 2, Inf9
-image1: Ergebnis
-image2: Material/Prozess
+image_result: Ergebnis (800x800)
+image_process: Material/Prozess (width 600)
 ---
 :::short_description  
 *_uBit.display.scroll(ManagedString("Hallo")*... Das hier ist eine Programmiersprache. Moment? Sprache? Wer spricht denn da? Und mit wem??? Um euch den Einstieg in das Programmieren zu erleichtern, bieten wir euch in diesem Workshop das Programmieren mit den Calliope mini an. Am Computer erstellt ihr einfache bis komplexe Befehlsketten mit Blöcken. Es ist wie Lego spielen, nur ist das Ergebnis ein Code, den ein Computer ausführt.   
