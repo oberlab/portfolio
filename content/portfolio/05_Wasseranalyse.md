@@ -9,6 +9,12 @@ attributes:
   material_costs: 5 EUR Materialkosten
   school_subject: Natur und Technik
   mobile: mobiles Angebot
+  curriculum_reference:
+    Grundschule: HSU3/4 3.3  
+    Mittelschule: NT5, NT6 2, NT7-10  
+    Förderschule: NT   
+    Realschule: B6 4, B10, C8-10
+    Gymnasium: NT6 1.5, B8, B12 4.2, C10, Q/K
 image1: ../content/img/kurse/wasseranalye_result.png
 image2: ../content/img/kurse/wasseranalye_process.png
 ---
@@ -29,9 +35,5 @@ An besonders schönen Tagen verbinden wir die Analyse mit einer kleinen Wanderun
 :::
 
 :::curriculum  
-GS: HSU3/4 3.3  
-MS: NT5, NT6 2, NT7-10  
-FS: NT  
-RS: B6 4, B10, C8-10  
-GY: NT6 1.5, B8, B12 4.2, C10, Q/K     
+     
 :::
