@@ -18,6 +18,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     box-sizing: border-box;
     page-break-after: always;
+    background-size: cover;
 }
 
 .page-left {
@@ -161,8 +162,7 @@ img#process {
 }
 
 @page {
-    size: A5;
-    orientation: landscape;
+    size: A5 landscape;
     padding: 0;
     margin: 0;
 }

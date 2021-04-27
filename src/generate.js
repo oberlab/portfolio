@@ -1,4 +1,5 @@
 const fs = require('fs')
+const htmlToPdf = require('html-pdf-node')
 
 const Loader = require('./loader')
 const Parser = require('./parser')
@@ -14,7 +15,8 @@ if (!target) {
     process.exit(-1)
 }
 
-process.exit(run(target))
+run(target).then(status => process.exit(status))
+
 
 /**
  * Run the generator.
@@ -38,14 +40,22 @@ function run(target) {
         results.push(generate(page, targetConfig, renderer))
     }
 
-    // fs.mkdirSync(targetConfig.outputDir, { recursive: true })
-    fs.writeFileSync(targetConfig.outputFile, renderer.render(targetConfig.skeleton, {
+    const resultHtml = renderer.render(targetConfig.skeleton, {
         ...config.templateGlobals,
         target: targetConfig,
         pages: results,
-    }))
+    })
 
-    return 0
+    fs.writeFileSync(targetConfig.output.html, resultHtml)
+
+    return htmlToPdf.generatePdf({ url: `file://${process.cwd()}/${targetConfig.output.html}` }, {
+        preferCSSPageSize: true,
+        printBackground: true,
+    })
+        .then(pdf => {
+            fs.writeFileSync(targetConfig.output.pdf, pdf)
+            return 0
+        })
 }
 
 /**
