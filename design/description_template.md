@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: Inf5-7, HSU  
   Realschule: IT 2.6  
   Gymnasium: NT6 2
-image1: Ergebnis
-image2: Material/Prozess
+image1: Ergebnis (width 600)
+image2: Material/Prozess (800x800)
 ---
 :::short_description
 300 Zeichen
