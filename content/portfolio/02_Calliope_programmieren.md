@@ -9,6 +9,12 @@ attributes:
   material_costs: keine Materialkosten
   school_subject: Informatik
   mobile: mobiles Angebot
+  curriculum_reference:
+    Grundschule: HSU3/4   
+    Mittelschule: WiB5-8, Inf5-10  
+    Förderschule: Inf5-7, NT  
+    Realschule: IT 2.6  
+    Gymnasium: NT6 2, Inf9
 image1: Ergebnis
 image2: Material/Prozess
 ---
