@@ -9,12 +9,12 @@ attributes:
   material_costs: 5 EUR Materialkosten
   school_subject: Informatik, Kunst, Chemie, IdiG
   mobile: mobiles Angebot
-  curriculum_reference:
-    Grundschule: WG3/4  
-    Mittelschule: Inf5-10, IdiG, WiB5-10, T10 1  
-    Förderschule: Inf5-9, IdiG   
-    Realschule: IT 2.4, We5-10
-    Gymnasium: BO9, Inf9+10, C9+10
+curriculum_reference:
+  Grundschule: WG3/4  
+  Mittelschule: Inf5-10, IdiG, WiB5-10, T10 1  
+  Förderschule: Inf5-9, IdiG   
+  Realschule: IT 2.4, We5-10
+  Gymnasium: BO9, Inf9+10, C9+10
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -35,5 +35,5 @@ Beim 3D-Druck gibt es quasi keine Grenzen. Der Kurs kann angepasst werden, sodas
 :::
 
 :::curriculum    
-     
+
 :::

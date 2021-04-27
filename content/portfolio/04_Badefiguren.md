@@ -9,12 +9,12 @@ attributes:
   material_costs: 8 EUR Materialkosten
   school_subject: NuT, Chemie, HSU
   mobile: mobiles Angebot
-  curriculum_reference:
-    Grundschule: WG3/4  
-    Mittelschule: WG5+6  
-    Förderschule: WG3/4+5+6, HSU3/4   
-    Realschule: NT5+6
-    Gymnasium: NT5+6, Inf9-12
+curriculum_reference:
+  Grundschule: WG3/4  
+  Mittelschule: WG5+6  
+  Förderschule: WG3/4+5+6, HSU3/4   
+  Realschule: NT5+6
+  Gymnasium: NT5+6, Inf9-12
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -35,5 +35,5 @@ Eure Badefiguren werden in eine von euch ausgewählte Silikonform in Form gebrac
 :::
 
 :::curriculum  
-     
+
 :::

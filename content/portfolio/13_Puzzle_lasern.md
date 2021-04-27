@@ -9,12 +9,12 @@ attributes:
   material_costs: 5 EUR Materialkosten
   school_subject: NuT
   mobile: mobiles Angebot
-  curriculum_reference:
-    Grundschule: HSU3/4  
-    Mittelschule: NT5-10
-    Förderschule: SIU 3.1 HSU 2.2   
-    Realschule: B5-8 B10
-    Gymnasium: NT5 2.4 NT6 1.2 B9 3 B11 2
+curriculum_reference:
+  Grundschule: HSU3/4  
+  Mittelschule: NT5-10
+  Förderschule: SIU 3.1 HSU 2.2   
+  Realschule: B5-8 B10
+  Gymnasium: NT5 2.4 NT6 1.2 B9 3 B11 2
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -39,5 +39,5 @@ Fortgeschrittene dürfen hier ihr individuelles Design freilich am Computer entw
 :::
 
 :::curriculum  
-  
+
 :::

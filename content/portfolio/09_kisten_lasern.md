@@ -9,12 +9,12 @@ attributes:
   material_costs: 5 EUR Materialkosten
   school_subject: Kunst, Werken, Informatik
   mobile: teilweise mobiles Angebot
-  curriculum_reference:
-    Grundschule: WG3/4  
-    Mittelschule: WG5+6, WiB, T7-8
-    Förderschule: WG3/4+5+6, HSU3/4, NT   
-    Realschule: We5-9
-    Gymnasium: NT5+6
+curriculum_reference:
+  Grundschule: WG3/4  
+  Mittelschule: WG5+6, WiB, T7-8
+  Förderschule: WG3/4+5+6, HSU3/4, NT   
+  Realschule: We5-9
+  Gymnasium: NT5+6
 image1: Ergebnis
 image2: Material/Prozess
 ---
@@ -35,5 +35,5 @@ Die Detailtiefe bei dem Entwurf der Vorlage und der Grafikbearbeitung wird an di
 :::
 
 :::curriculum
- 
+
 :::

@@ -9,12 +9,12 @@ attributes:
   material_costs: 20 EUR Materialkosten
   school_subject: Informatik, Werken
   mobile: mobiles Angebot
-  curriculum_reference:
-    Grundschule: WG3/4  
-    Mittelschule: WG5+6, WiB, T7-8  
-    Förderschule: WG3/4+5+6, HSU3/4, NT   
-    Realschule: We5-9, IT 2.6, 2.7, IT LB3  
-    Gymnasium: NT5+6, Inf9-12
+curriculum_reference:
+  Grundschule: WG3/4  
+  Mittelschule: WG5+6, WiB, T7-8  
+  Förderschule: WG3/4+5+6, HSU3/4, NT   
+  Realschule: We5-9, IT 2.6, 2.7, IT LB3  
+  Gymnasium: NT5+6, Inf9-12
 image1: Ergebnis
 image2: Material/Prozess
 ---

@@ -111,6 +111,11 @@ ul.attributes li i {
     margin-bottom: -3mm;
 }
 
+img#result {
+    width: 200px;
+    margin-right: 4em;
+}
+
 
 @media screen {
     .container {
