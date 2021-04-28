@@ -17,6 +17,18 @@ npm install
 3. Create templates (in `templates` directory)
 4. Generate output: `npm run generate <target>` e.g. `npm run generate portfolio`
 
+## Troubleshooting
+If you should receive this error:
+```sh
+FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory
+```
+You have to allocate more memory to node.js. You can do this by typing
+
+```sh
+export NODE_OPTIONS=--max_old_space_size=4096
+```
+
+[Relevant StackOverflow post](https://stackoverflow.com/questions/26094420/fatal-error-call-and-retry-last-allocation-failed-process-out-of-memory/48895989#48895989)
 ## Guides
 ### Templating
 This project uses handlebars.js for templating. Please refer to the [Language Guide](https://handlebarsjs.com/guide) on how to write handlebars templates.
