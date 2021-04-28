@@ -118,14 +118,14 @@ ul.attributes li i {
 }
 
 img#process {
-    height: 250px;
+    height: 270px;
     float: right;
     clear: right;
     margin-left: 1em;
 }
 #process-spacer{
     float: right;
-    height: calc(100% - 250px);
+    height: calc(100% - 270px);
 }
 
 

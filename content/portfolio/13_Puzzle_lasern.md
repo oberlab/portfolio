@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: SIU 3.1 HSU 2.2   
   Realschule: B5-8 B10
   Gymnasium: NT5 2.4 NT6 1.2 B9 3 B11 2
-image_result: Ergebnis (800x800)
-image_process: Material/Prozess (width 600)
+image_result: ../content/img/kurse/Ergebnis (800x800)
+image_process: ../content/img/kurse/Material/Prozess (width 600)
 ---
 :::short_description  
 Beim Puzzlekauf sucht ihr euch oft die schönsten Motive aus, die es im Angebot gibt. Ein Schloss, eine Landschaft, oder eine Comicfigur. Wie wäre es aber einmal mit einem Puzzle, das euren Namen oder den eures Haustieres trägt? Ein Puzzle, das genau euren Vorstellungen entspricht könnt ihr in diesem Kurs entwerfen und auf Holz lasern. Dabei werdet ihr das Design des Puzzles ganz nach euren Vorstellungen gestalten, wobei ihr das Design auch auf ein Papier zeichnen könnt und auf den Computer übertragt.

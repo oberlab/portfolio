@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: Inf5-7, NT  
   Realschule: IT 2.6  
   Gymnasium: NT6 2, Inf9
-image_result: Ergebnis (800x800)
-image_process: Material/Prozess (width 600)
+image_result: ../content/img/kurse/calliope_result.png
+image_process: ../content/img/kurse/calliope_process.png
 ---
 :::short_description  
 *_uBit.display.scroll(ManagedString("Hallo")*... Das hier ist eine Programmiersprache. Moment? Sprache? Wer spricht denn da? Und mit wem??? Um euch den Einstieg in das Programmieren zu erleichtern, bieten wir euch in diesem Workshop das Programmieren mit den Calliope mini an. Am Computer erstellt ihr einfache bis komplexe Befehlsketten mit Blöcken. Es ist wie Lego spielen, nur ist das Ergebnis ein Code, den ein Computer ausführt.   

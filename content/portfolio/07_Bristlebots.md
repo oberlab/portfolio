@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: WG3/4+5+6, T7   
   Realschule: We5-7
   Gymnasium: NT5-7, Ph8
-image_result: Ergebnis (800x800)
-image_process: Material/Prozess (width 600)
+image_result: ../content/img/kurse/Ergebnis (800x800)
+image_process: ../content/img/kurse/Material/Prozess (width 600)
 ---
 :::short_description  
 Elektrische Zahnbürste? Ja! Elektrische Zahnbürste mit Augen? JAA! Elektrischer Zahnbürstenkopf mit Fühlern, Augen, Glitzer, der über den Tisch krabbelt? AUF JEDEN FALL!! In diesem Kurs ist eure Kreativität gefragt. Ein Zahnbürstenkopf wird mit einer Batterie und einem Vibrationsmotor versehen. Da dies aber ein eher trauriges Krabbeltierchen wäre, dürft ihr mit Wackelaugen, Pfeifenreinigern und Wattekügelchen eurem Tier das fantastischste Aussehen verleihen und das große Krabbeln kann beginnen.  
