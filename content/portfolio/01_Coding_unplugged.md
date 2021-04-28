@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: Inf5-7, HSU  
   Realschule: IT 2.6  
   Gymnasium: NT6 2
-image_result: ../content/img/kurse/Ergebnis (800x800)
-image_process: ../content/img/kurse/Material/Prozess (width 600)
+image_result: ../content/img/kurse/unplugged_result.png
+image_process: ../content/img/kurse/unplugged_process.png
 ---
 :::short_description  
 Dass die Spielfigur in eurem Lieblingscomputerspiel nach rechts läuft, wenn ihr die Pfeiltaste rechts drückt ist ja logisch. Habt ihr euch aber schon mal Gedanken gemacht, welche Technologie dahintersteckt? In diesem Workshop taucht ihr in die Welt des Programmierens ein und schreibt einen einfachen Code ganz ohne Computer und Strom. Dabei werdet ihr mit einem Spielfeld, einer Spielfigur und bunten Stiften zum Supercoder und bringt eure Spielfigur auf große Entdeckungstour.

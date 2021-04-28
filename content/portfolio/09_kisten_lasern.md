@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: WG3/4+5+6, HSU3/4, NT   
   Realschule: We5-9
   Gymnasium: NT5+6
-image_result: ../content/img/kurse/Ergebnis (800x800)
-image_process: ../content/img/kurse/Material/Prozess (width 600)
+image_result: ../content/img/kurse/box_result.png
+image_process: ../content/img/kurse/box_process.png
 ---
 :::short_description
 In diesem Kurs schneiden wir mit einem Lasercutter Teile für eine kleine Kiste aus Holz heraus. Bevor wir mit dem Zusammenbauen loslegen, können wir noch Verzierungen mit dem Laser eingravieren, die ihr vorher auf Papier gezeichnet habt. Dabei lernt ihr wie ein Lasercutter funktioniert und wie man damit Handzeichnungen in Holz gravieren kann. Am Ende dürft ihr eure individuell gestaltete Kiste mit nach Hause nehmen, um euren Stiften, Notizen und anderen Schätzen ein Zuhause zu geben.

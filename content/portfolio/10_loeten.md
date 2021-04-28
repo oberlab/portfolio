@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: WG3/4+5+6, HSU3/4, NT   
   Realschule: We5-9, Ph8-10
   Gymnasium: NT5+6, Ph8
-image_result: ../content/img/kurse/Ergebnis (800x800)
-image_process: ../content/img/kurse/Material/Prozess (width 600)
+image_result: ../content/img/kurse/solder_result.png
+image_process: ../content/img/kurse/solder_process.png
 ---
 ::: short_description
 Eine verrückte Fledermaus, ein gruseliger Geist oder ein netter Roboter. Wir schwingen den Lötkolben und bringen diese Figuren mit LEDs zum Blinken und zum Leuchten. Durch das Löten verbindet ihr verschiedene elektronische Bauteile und LEDs mit der Platine und kreiert so euren ganz eigenen Stromkreis.
