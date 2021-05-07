@@ -8,7 +8,7 @@ attributes:
   duration: 60 min Dauer
   material_costs: 5 EUR Materialkosten
   school_subject: NuT
-  mobile: mobiles Angebot
+  mobile: teilweise mobiles Angebot
 curriculum_reference:
   Grundschule: HSU3/4  
   Mittelschule: NT5-10
@@ -23,7 +23,7 @@ Beim Puzzlekauf sucht ihr euch oft die schönsten Motive aus, die es im Angebot 
 :::
 
 :::learning_goals  
- Schüler:innen lernen in dieser Einheit, wie copmutergestütztes Design auf Realität trifft, indem selbstgezeichnete Motive abfotografiert und in eine Vektorgrafik umgewandelt werden kann. Zudem lernen sie die Funktion und das Prinzip eines Lasercutters kennen.        
+ Schüler:innen lernen in dieser Einheit, wie computergestütztes Design auf Realität trifft, indem selbstgezeichnete Motive abfotografiert und in eine Vektorgrafik umgewandelt werden kann. Zudem lernen sie die Funktion und das Prinzip eines Lasercutters kennen.        
 :::
 
 :::message  
