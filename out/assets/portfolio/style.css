@@ -39,6 +39,11 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+.impressum {
+  height: 85%;
+  font-size: 10pt;
+}
+
 .science {
     background-image: url(science.svg)
 }
@@ -123,12 +128,16 @@ img#process {
     clear: right;
     margin-left: 1em;
 }
+
 #process-spacer{
     float: right;
     height: calc(100% - 270px);
 }
 
-
+img#portrait {
+    width: 250px;
+    border-radius: 50%;
+}
 
 
 @media screen {

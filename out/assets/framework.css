@@ -14,8 +14,20 @@
     width: 100%;
 }
 
+.fh {
+    height: 100%;
+}
+
 .space-between {
     justify-content: space-between;
+}
+
+.space-even {
+    justify-content: space-evenly;
+}
+
+.end {
+    justify-content: end;
 }
 
 .items-center {
