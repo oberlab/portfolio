@@ -27,7 +27,7 @@ Nach einem anstrengenden Tag ein schönes Bad nehmen, das nur so blubbert, bitze
 :::
 
 :::message  
-Ihr habt ein schlechtes Gewissen beim Kauf von Bademitteln, die eure Badewanne in einen Whirlpool verwandeln? In unserem Badebomben-Kurs baut ihr eine Badebombe, die ganz euren Wünschen entspricht. Macht sie aber nicht zu groß, sonst schimpft Mami, wenn sie die Badewanne nach Verwendung vorfindet.
+Ihr habt ein schlechtes Gewissen beim Kauf von Bademitteln, die eure Badewanne in einen Whirlpool verwandeln? In unserem Badebomben-Kurs baut ihr eine Badebombe, die ganz euren Wünschen entspricht. Macht sie aber nicht zu groß, sonst habt ihr umso mehr beim Saubermachen zu tun.
 :::  
 
 :::special_notes
