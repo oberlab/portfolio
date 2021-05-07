@@ -14,7 +14,7 @@ curriculum_reference:
   Mittelschule: NT5-10 IdiG2 T7-9 WiB 5-10
   Förderschule: WG5-6 T7-9 IdiG
   Realschule: Ph9-10 We5-8 It 2.4
-  Gymnasium: NT5 NT6+7 2 
+  Gymnasium: NT5 NT6+7 2
 image_result: ../content/img/kurse/brettl_result.png
 image_process: ../content/img/kurse/brettl_process.png
 ---
@@ -23,11 +23,11 @@ Dein Brotzeitbrettl ist langweilig und bleibt häufig unbenutzt? Du willst daran
 :::
 
 :::learning_goals  
-Die Schüler:innen können in dieser Einheit kreativ werden und auf unterscheidliche weisen ein Design für ihr Brotzeitbrett entwerfen. Dabei lernen sie den Unterschied zwischen Vektor- und Pixelgrafiken sowie das Prinzip und die Funktionsweise eines Lasercutters kennen. Sie lernen unter Anleitung Holzwerkzeuge zu bedienen, um das Brotzeitbrett zu veredeln. In diesem Kurs wird Kunst, Naturwissenschaften und Technik auf geniale Weise kombiniert mit einem praktischen Resultat das am Ende mit nach Hause genommen werden kann.       
+Die Schüler:innen können in dieser Einheit kreativ werden und auf unterscheidliche Weisen ein Design für ihr Brotzeitbrett entwerfen. Dabei lernen sie den Unterschied zwischen Vektor- und Pixelgrafiken sowie das Prinzip und die Funktionsweise eines Lasercutters kennen. Sie lernen unter Anleitung Holzwerkzeuge zu bedienen, um das Brotzeitbrett zu veredeln. In diesem Kurs wird Kunst, Naturwissenschaft und Technik auf geniale Weise kombiniert, mit einem praktischen Resultat, das am Ende mit nach Hause genommen werden kann.       
 :::
 
 :::message
-In diesem Kurs lernst du die Grundlagen von Grafikdesign. Wie tief du einsteigen möchtest bestimmst du! Außerdem zeigen wir dir wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir deinem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Dein individuell gestaltetes Brotzeitbrettl darfst du natürlich mit nach Hause nehmen.
+In diesem Kurs lernt ihr die Grundlagen von Grafikdesign. Wie tief ihr einsteigen möchtet bestimmt ihr! Außerdem zeigen wir euch, wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir eurem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Euer individuell gestaltetes Brotzeitbrettl dürft ihr natürlich mit nach Hause nehmen.
 :::  
 
 :::special_notes  
