@@ -10,11 +10,11 @@ attributes:
   school_subject: NuT
   mobile: teilweise mobiles Angebot
 curriculum_reference:
-  Grundschule: HSU3/4  
-  Mittelschule: NT5-10
-  Förderschule: SIU 3.1 HSU 2.2   
-  Realschule: B5-8 B10
-  Gymnasium: NT5 2.4 NT6 1.2 B9 3 B11 2
+  Grundschule: WG3/4   
+  Mittelschule: NT5-10 IdiG2 T7-9 WiB 5-10
+  Förderschule: WG5-6 T7-9 IdiG
+  Realschule: Ph9-10 We5-8 It 2.4
+  Gymnasium: NT5 NT6+7 2
 image_result: ../content/img/kurse/puzzle_result.png
 image_process: ../content/img/kurse/puzzle_process.png
 ---
