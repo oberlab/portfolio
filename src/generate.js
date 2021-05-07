@@ -15,8 +15,16 @@ if (!target) {
     process.exit(-1)
 }
 
-run(target).then(status => process.exit(status))
+const pdf_output = process.argv.slice(3)[0]
+var create_pdf = false
 
+if (pdf_output == "pdf") {
+    var create_pdf = true
+    run(target).then(status => process.exit(status))
+
+} else {
+    process.exit(run(target))
+}
 
 /**
  * Run the generator.
@@ -48,14 +56,19 @@ function run(target) {
 
     fs.writeFileSync(targetConfig.output.html, resultHtml)
 
-    return htmlToPdf.generatePdf({ url: `file://${process.cwd()}/${targetConfig.output.html}` }, {
-        preferCSSPageSize: true,
-        printBackground: true,
-    })
-        .then(pdf => {
-            fs.writeFileSync(targetConfig.output.pdf, pdf)
-            return 0
-        })
+    if (create_pdf) {
+        return htmlToPdf.generatePdf({ url: `file://${process.cwd()}/${targetConfig.output.html}` }, {
+            preferCSSPageSize: true,
+            printBackground: true,
+          })
+            .then(pdf => {
+                fs.writeFileSync(targetConfig.output.pdf, pdf)
+                return 0
+            })
+      }
+      return 0
+
+
 }
 
 /**

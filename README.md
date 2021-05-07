@@ -15,7 +15,8 @@ npm install
 1. Place content inside `content` directory (markdown with yaml front matter)
 2. Define build targets in `targets.js`. Keys of the object are valid values for the `target` argument to the generate command
 3. Create templates (in `templates` directory)
-4. Generate output: `npm run generate <target>` e.g. `npm run generate portfolio`
+4. Generate html output: `npm run generate <target>` e.g. `npm run generate portfolio`
+5. Generate html and pdf output: `npm run generate <target> pdf` e.g. `npm run generate portfolio pdf`
 
 ## Troubleshooting
 If you should receive this error:
