@@ -10,11 +10,11 @@ attributes:
   school_subject: NuT
   mobile: teilweise mobiles Angebot
 curriculum_reference:
-  Grundschule:  
-  Mittelschule:
-  Förderschule:   
-  Realschule:
-  Gymnasium:
+  Grundschule: WG3/4   
+  Mittelschule: NT5-10 IdiG2 T7-9 WiB 5-10
+  Förderschule: WG5-6 T7-9 IdiG
+  Realschule: Ph9-10 We5-8 It 2.4
+  Gymnasium: NT5 NT6+7 2 
 image_result: ../content/img/kurse/brettl_result.png
 image_process: ../content/img/kurse/brettl_process.png
 ---
