@@ -1,5 +1,5 @@
 ---
-title: Puzzle lasern
+title: Brotzeitbrettl lasern
 category: engineering
 attributes:
   age: Ab 12 Jahren

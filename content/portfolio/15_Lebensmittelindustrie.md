@@ -27,7 +27,7 @@ _"Ohne Zusatz von Geschmacksverstärkern und Konservierungsstoffen"_. Sicher ist
 :::
 
 :::message  
-Ihr habt euch schon mal gefragt, wie ein Erdbeerjoghurt mit vielen Erdbeeren nur 0,29€ kosten kann? In diesem Kurs wird euch gezeigt, wie die Industrie mit möglichst geringem Einsatz viel Umsatz macht , und ob sich das negativ auf den Körper auswirkt.
+Ihr habt euch schon mal gefragt, wie ein Erdbeerjoghurt mit vielen Erdbeeren nur 0,29€ kosten kann? In diesem Kurs wird euch gezeigt, wie die Industrie mit möglichst geringem Einsatz viel Umsatz macht, und ob sich das negativ auf den Körper auswirkt.
 :::  
 
 :::special_notes
