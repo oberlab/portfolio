@@ -33,3 +33,7 @@
 .items-center {
     align-items: center;
 }
+
+.grow {
+    flex-grow: 1;
+}
