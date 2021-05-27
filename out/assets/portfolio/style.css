@@ -31,10 +31,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .category-image {
-    border: 3px solid #000000;
     border-radius: 100%;
-    width: 35mm;
-    height: 35mm;
+    width: 38mm;
+    height: 38mm;
     overflow: hidden;
     text-align: center;
 }
