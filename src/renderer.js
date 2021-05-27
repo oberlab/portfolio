@@ -7,6 +7,8 @@ class Renderer {
         this.hb = Handlebars.create()
         this.templates = {}
         this.loadPartials()
+
+        this.hb.registerHelper('add', (a, b) => a+b)
     }
 
     render(template, attributes) {

@@ -41,17 +41,35 @@ function run(target) {
     const targetConfig = targets[target]
 
     const renderer = new Renderer(config.templateDir)
+    const loader = new Loader(targetConfig.sourceDir)
 
     const results = []
-    const loader = new Loader(targetConfig.sourceDir)
+    const tocEntries = []
+    const totalPages = targetConfig.pageCount.offset + loader.count() * targetConfig.pageCount.increment + targetConfig.pageCount.offset
+    let currentPage = targetConfig.pageCount.offset
     for (const page of loader.iterate()) {
-        results.push(generate(page, targetConfig, renderer))
+        results.push(generate(page, targetConfig, renderer, {
+            total: totalPages,
+            current: currentPage,
+        }))
+        tocEntries.push({
+            title: page.title,
+            page: currentPage,
+        })
+        currentPage += targetConfig.pageCount.increment
     }
+
+    const toc = targetConfig.tocTemplate ? renderer.render(targetConfig.tocTemplate, {
+        ...config.templateGlobals,
+        target: targetConfig,
+        entries: tocEntries,
+    }) : {}
 
     const resultHtml = renderer.render(targetConfig.skeleton, {
         ...config.templateGlobals,
         target: targetConfig,
         pages: results,
+        toc,
     })
 
     fs.writeFileSync(targetConfig.output.html, resultHtml)
@@ -79,7 +97,7 @@ function run(target) {
  * @param  {Renderer} renderer
  * @return {[type]}
  */
-function generate(page, targetConfig, renderer) {
+function generate(page, targetConfig, renderer, pageCount = {}) {
     const parser = new Parser()
     const html = parser.toHtml(page.__content)
     delete page.__content
@@ -89,6 +107,7 @@ function generate(page, targetConfig, renderer) {
         ...config.templateGlobals,
         target: targetConfig,
         ...page,
+        pageCount,
     })
 }
 
