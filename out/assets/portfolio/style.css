@@ -30,6 +30,17 @@ h1, h2, h3, h4, h5, h6 {
     background-image: url(bg-right.svg);
 }
 
+.page .pagenum {
+    position: absolute;
+    bottom: 1em;
+}
+.page-left .pagenum {
+    left: 2em;
+}
+.page-right .pagenum {
+    right: 2em;
+}
+
 .category-image {
     border-radius: 100%;
     width: 38mm;
@@ -136,6 +147,17 @@ img#process {
 img#portrait {
     width: 250px;
     border-radius: 50%;
+}
+
+.toc {
+    list-style-type: none;
+    padding-left: 0;
+}
+.toc li .spacer {
+    border-bottom: 1px solid #ddd;
+    margin-left: 1em;
+    margin-right: 1em;
+    height: 1em;
 }
 
 

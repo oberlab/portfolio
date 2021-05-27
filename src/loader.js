@@ -20,6 +20,10 @@ class Loader {
         }
     }
 
+    count() {
+        return fs.readdirSync(this.directory).length
+    }
+
     parse(filename) {
         const rawContent = fs.readFileSync(this.directory + '/' + filename)
         const page = yamlFront.loadFront(rawContent)
