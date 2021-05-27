@@ -16,7 +16,7 @@ curriculum_reference:
   Realschule: NT5+6
   Gymnasium: NT5+6, Inf9-12
 image_result: ../content/img/kurse/badefiguren_result.png
-image_process: ../content/img/kurse/badefiguren_process
+image_process: ../content/img/kurse/badefiguren_process.png
 ---
 :::short_description  
  Aus pflanzlichen Rohstoffen stellt ihr haut- und umweltverträgliche Badefiguren ganz nach eurer Rezeptur zusammen. Reine Kakaobutter wird hierbei verflüssigt, mit einem ätherischen Öl eurer Wahl zusammengebracht, wahlweise mit Rosen-, oder Lavendelblüten verfeinert und in eine Tierform eurer Wahl gegossen. Besonders duftende Pflanzen in eurem Garten? Kein Problem! Nehmt diese mit und verpasst den Badefiguren eure ganz persönliche (Duft)Note; alles ganz natürlich und umweltschonend.  
