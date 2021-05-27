@@ -25,13 +25,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-height="1051"
      id="namedview523"
      showgrid="false"
      inkscape:zoom="1.1226914"
      inkscape:cx="346.45654"
-     inkscape:cy="301.28143"
-     inkscape:window-x="0"
+     inkscape:cy="16.25208"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2271"
@@ -11085,7 +11085,7 @@
        class="st12" />
   </g>
   <g
-     style="opacity:0.9262612"
+     style="opacity:0.73449867"
      id="g9071"
      transform="matrix(0.25992251,-0.04944317,0.04944317,0.25992251,183.04501,77.577466)">
     <linearGradient
@@ -11871,7 +11871,8 @@
   </g>
   <g
      id="g6657"
-     transform="rotate(-174.28887,73.102874,-271.29209)">
+     transform="rotate(-174.28887,73.102874,-271.29209)"
+     style="opacity:0.73374382">
     <polygon
        class="st0"
        points="98.9,-39.3 221.7,12.2 253.7,25.6 255.1,26.2 306.6,20.9 305.6,25.6 307.1,25.6 377.2,24.9 304.7,-47.2 260.6,-47.3 253.7,-46.9 226.3,-45.3 173,-42.1 191.3,-26.9 99.3,-42.8 92,-44.1 84.4,-45.4 91.1,-42.6 "
