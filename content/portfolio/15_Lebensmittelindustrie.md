@@ -15,7 +15,7 @@ curriculum_reference:
   Förderschule: NT5-9   
   Realschule: C8-9 4 C10 5
   Gymnasium: C8-10
-image_result: ../content/img/kurse/bombs_result.png
+image_result: ../content/img/kurse/tricks_result.png
 image_process: ../content/img/kurse/tricks_process.png
 ---
 :::short_description  
