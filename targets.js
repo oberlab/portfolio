@@ -22,7 +22,7 @@ module.exports = {
         skeleton: 'portfolio-skeleton_school.html',
         tocTemplate: 'toc.html',
         pageCount: {
-            offset: 0,
+            offset: 8,
             increment: 2,
             trailing: 0,
         },
