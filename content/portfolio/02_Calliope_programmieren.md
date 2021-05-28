@@ -19,11 +19,11 @@ image_result: ../content/img/kurse/calliope_result.png
 image_process: ../content/img/kurse/calliope_process.png
 ---
 :::short_description  
-*_uBit.display.scroll(ManagedString("Hallo")*... Das hier ist eine Programmiersprache. Moment? Sprache? Wer spricht denn da? Und mit wem??? Um euch den Einstieg in das Programmieren zu erleichtern, bieten wir euch in diesem Workshop das Programmieren mit den Calliope mini an. Am Computer erstellt ihr einfache bis komplexe Befehlsketten mit Blöcken. Es ist wie Lego spielen, nur ist das Ergebnis ein Code, den ein Computer ausführt.   
+*_uBit.display.scroll(ManagedString("Hallo")*... Das hier ist eine Programmiersprache. Moment? Sprache? Wer spricht denn da? Und mit wem??? Um euch den Einstieg in das Programmieren zu erleichtern, bieten wir euch in diesem Workshop das Programmieren mit dem Calliope mini an. Am Computer erstellt ihr einfache bis komplexe Befehlsketten mit Blöcken. Es ist wie Lego spielen, nur ist das Ergebnis ein Code, den ein Computer ausführt.   
 :::
 
 :::learning_goals  
- Schüler:innen werden in diesem Kurs an die komplexe Welt der Programmiersprache, bzw. des Programmierens herangeführt. Die Einheit umfasst sowohl das schreiben eines Codes mit der Calliope-mini-Oberfläche, als auch das Austesten von diversen Befehlsketten, die die Schüler:innen selbst programmieren dürfen.      
+ Schüler:innen werden in diesem Kurs an die komplexe Welt der Programmiersprache, bzw. des Programmierens herangeführt. Die Einheit umfasst sowohl das Schreiben eines Codes mit der Calliope-mini-Oberfläche, als auch das Austesten von diversen Befehlsketten, die die Schüler:innen selbst programmieren dürfen.      
 :::
 
 :::message  
