@@ -27,7 +27,7 @@ Elektrische Zahnbürste? Ja! Elektrische Zahnbürste mit Augen? JAA! Elektrische
 :::
 
 :::message  
-Egal ob im Handy, in Controllern von Spielekonsolen oder elektrischen Zahnbürsten; all diese Geräte beinhalten das selbe Bauteil: den Vibrationsmotor. In diesem Kurs erfahrt ihr wie aus Strom Bewegung entstehen kann.
+Egal ob im Handy, in Controllern von Spielekonsolen oder elektrischen Zahnbürsten; all diese Geräte beinhalten das selbe Bauteil: den Vibrationsmotor. In diesem Kurs erfahrt ihr, wie aus Strom Bewegung entstehen kann.
 :::  
 
 :::special_notes  

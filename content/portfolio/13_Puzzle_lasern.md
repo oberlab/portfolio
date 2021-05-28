@@ -19,11 +19,11 @@ image_result: ../content/img/kurse/puzzle_result.png
 image_process: ../content/img/kurse/puzzle_process.png
 ---
 :::short_description  
-Beim Puzzlekauf sucht ihr euch oft die schönsten Motive aus, die es im Angebot gibt. Ein Schloss, eine Landschaft, oder eine Comicfigur. Wie wäre es aber einmal mit einem Puzzle, das euren Namen oder den eures Haustieres trägt? Ein Puzzle, das genau euren Vorstellungen entspricht könnt ihr in diesem Kurs entwerfen und auf Holz lasern. Dabei werdet ihr das Design des Puzzles ganz nach euren Vorstellungen gestalten, wobei ihr das Design auch auf ein Papier zeichnen könnt und auf den Computer übertragt.
+Beim Puzzlekauf sucht ihr euch oft die schönsten Motive aus, die es im Angebot gibt. Ein Schloss, eine Landschaft oder eine Comicfigur. Wie wäre es aber einmal mit einem Puzzle, das euren Namen oder den eures Haustieres trägt? Ein Puzzle, das genau euren Vorstellungen entspricht könnt ihr in diesem Kurs entwerfen und auf Holz lasern. Dabei werdet ihr das Design des Puzzles ganz nach euren Vorstellungen gestalten, wobei ihr das Design auch auf ein Papier zeichnen könnt und auf den Computer übertragt.
 :::
 
 :::learning_goals  
- Schüler:innen lernen in dieser Einheit, wie computergestütztes Design auf Realität trifft, indem selbstgezeichnete Motive abfotografiert und in eine Vektorgrafik umgewandelt werden kann. Zudem lernen sie die Funktion und das Prinzip eines Lasercutters kennen.        
+ Schüler:innen lernen in dieser Einheit, wie computergestütztes Design auf Realität trifft, indem selbstgezeichnete Motive abfotografiert und in eine Vektorgrafik umgewandelt werden. Zudem lernen sie die Funktion und das Prinzip eines Lasercutters kennen.        
 :::
 
 :::message  

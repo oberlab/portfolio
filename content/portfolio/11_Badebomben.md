@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/bombs_result.png
 image_process: ../content/img/kurse/bomb_process.png
 ---
 :::short_description  
-Nach einem anstrengenden Tag ein schönes Bad nehmen, das nur so blubbert, bitzelt, schäumt, zischt und dabei auch noch reinigt, gut duftet und umweltfreundlich ist? Das wäre genau das Richtige! Doch du weißt nicht, wie du diesen wahrhaftigen Wellnesstraum zu Hause umsetzen kannst? Dann tauche mit uns in diesem Kurs in die Unterwasserwelt deiner Badewanne ein und baue dir deine eigene Badebombe aus Hausmitteln und Duftölen deiner Wahl zusammen. Je größer die Bombe, desto größer auch der Badespaß.  
+Nach einem anstrengenden Tag ein schönes Bad nehmen, das nur so blubbert, bitzelt, schäumt, zischt und dabei auch noch reinigt, gut duftet und umweltfreundlich ist? Das wäre genau das Richtige! Doch ihr wisst nicht, wie ihr diesen wahrhaftigen Wellnesstraum zu Hause umsetzen könnt? Dann taucht mit uns in diesem Kurs in die Unterwasserwelt eurer Badewanne ein und baut eure eigene Badebombe aus Hausmitteln und Duftölen eurer Wahl zusammen. Je größer die Bombe, desto größer auch der Badespaß.  
 :::
 
 :::learning_goals  

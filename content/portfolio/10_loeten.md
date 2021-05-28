@@ -31,5 +31,5 @@ In diesem Kurs lernt ihr etwas über die Grundlagen von Elektronik und dürft mi
 :::
 
 :::special_notes
-Unsere Platinen gibt es in unterschiedlichten Ausführungen, sowohl Anfänger als auch Fortgeschrittene kommen auf ihre Kosten.
+Unsere Platinen gibt es in unterschiedlichsten Ausführungen, sowohl Anfänger als auch Fortgeschrittene kommen auf ihre Kosten.
 :::

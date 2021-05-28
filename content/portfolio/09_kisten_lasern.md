@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/box_result.png
 image_process: ../content/img/kurse/box_process.png
 ---
 :::short_description
-In diesem Kurs schneiden wir mit einem Lasercutter Teile für eine kleine Kiste aus Holz heraus. Bevor wir mit dem Zusammenbauen loslegen, können wir noch Verzierungen mit dem Laser eingravieren, die ihr vorher auf Papier gezeichnet habt. Dabei lernt ihr wie ein Lasercutter funktioniert und wie man damit Handzeichnungen in Holz gravieren kann. Am Ende dürft ihr eure individuell gestaltete Kiste mit nach Hause nehmen, um euren Stiften, Notizen und anderen Schätzen ein Zuhause zu geben.
+In diesem Kurs schneiden wir mit einem Lasercutter Teile für eine kleine Kiste aus Holz heraus. Bevor wir mit dem Zusammenbauen loslegen, können wir noch Verzierungen mit dem Laser eingravieren, die ihr vorher auf Papier gezeichnet habt. Dabei lernt ihr, wie ein Lasercutter funktioniert und wie man damit Handzeichnungen in Holz gravieren kann. Am Ende dürft ihr eure individuell gestaltete Kiste mit nach Hause nehmen, um euren Stiften, Notizen und anderen Schätzen ein Zuhause zu geben.
 :::
 
 :::learning_goals
@@ -27,7 +27,7 @@ Die Schüler:innen lernen die Funktionsweise eines Lasercutters kennen. Sie sehe
 :::
 
 :::message
-In diesem Kurs lernt ihr wie ein Lasercutter funktioniert und wie man mit einem Grafikprogramm analoge Zeichnungen digitalisieren kann. Eure Fähigkeiten zur Holzverarbeitung werden zudem gesteigert.
+In diesem Kurs lernt ihr, wie ein Lasercutter funktioniert und wie man mit einem Grafikprogramm analoge Zeichnungen digitalisieren kann. Eure Fähigkeiten zur Holzverarbeitung werden zudem gesteigert.
 :::
 
 :::special_notes

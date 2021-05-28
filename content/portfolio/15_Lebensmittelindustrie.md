@@ -23,7 +23,7 @@ _"Ohne Zusatz von Geschmacksverstärkern und Konservierungsstoffen"_. Sicher ist
 :::
 
 :::learning_goals  
- Die Schüler:innen lernen in diesem Kurs, wie biologische und chemische Eigenschaften genutzt werden, um Lebensmittel herzustellen oder zu verfeinern und lernen zudem, Zusatztstoffe einzuschätzen. Gezeigt wird ihnen auch, wie wissenschaftliche Begriffe in der Werbung umgedreht werden, um einen erhöhten Absatz zu ermöglichen.          
+ Die Schüler:innen lernen in diesem Kurs, wie biologische und chemische Eigenschaften genutzt werden, um Lebensmittel herzustellen oder zu verfeinern und lernen zudem, Zusatzstoffe einzuschätzen. Gezeigt wird ihnen auch, wie wissenschaftliche Begriffe in der Werbung umgedreht werden, um einen erhöhten Absatz zu ermöglichen.          
 :::
 
 :::message  
