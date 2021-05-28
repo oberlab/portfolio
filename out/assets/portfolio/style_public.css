@@ -25,3 +25,7 @@
 .page-cover-back {
     background-image: url(cover-back.svg);
 }
+
+.add-vspace {
+  margin-top: 40px;
+}
