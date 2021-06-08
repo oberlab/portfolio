@@ -5,7 +5,7 @@ attributes:
   age: Ab 8+ Jahren
   class: Ab der 2. Klasse
   group_size: 6-18 Personen
-  duration: 1-4 h  Dauer
+  duration: 2-4 h  Dauer
   material_costs: 5 EUR Materialkosten
   school_subject: Kunst, Werken, Informatik
   mobile: teilweise mobiles Angebot

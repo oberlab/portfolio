@@ -5,7 +5,7 @@ attributes:
   age: Ab 8+ Jahren
   class: Ab der 4. Klasse
   group_size: 6-15 Personen
-  duration: 60 min Dauer
+  duration: 1.5-3 h Dauer
   material_costs: keine Materialkosten
   school_subject: Informatik
   mobile: mobiles Angebot

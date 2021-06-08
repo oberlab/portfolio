@@ -5,7 +5,7 @@ attributes:
   age: Ab 8+ Jahren
   class: Ab der 5. Klasse
   group_size: 6-10 Personen
-  duration: 60 min Dauer
+  duration: 90 min Dauer
   material_costs: 5 EUR Materialkosten
   school_subject: Natur und Technik
   mobile: mobiles Angebot

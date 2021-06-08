@@ -5,7 +5,7 @@ attributes:
   age: Ab 8 Jahren
   class: Ab 2. Klasse
   group_size: 6-10 Personen
-  duration: 1-2 h  Dauer
+  duration: 1.5-3 h  Dauer
   material_costs: 5 EUR Materialkosten
   school_subject: NuT, Werken, Physik
   mobile: mobiles Angebot

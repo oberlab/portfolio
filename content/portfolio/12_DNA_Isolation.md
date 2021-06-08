@@ -5,7 +5,7 @@ attributes:
   age: Ab 7+ Jahren
   class: Ab der 3. Klasse
   group_size: 6-30 Personen
-  duration: 60 min Dauer
+  duration: 90 min Dauer
   material_costs: 1 EUR Materialkosten
   school_subject: Biologie, Chemie
   mobile: mobiles Angebot

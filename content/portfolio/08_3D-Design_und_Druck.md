@@ -5,7 +5,7 @@ attributes:
   age: Ab 12+ Jahren
   class: Ab der 7. Klasse
   group_size: 6-14 Personen
-  duration: 60 min  Dauer
+  duration: 2-4 h Dauer
   material_costs: 5 EUR Materialkosten
   school_subject: Informatik, Kunst, Chemie, IdiG
   mobile: mobiles Angebot

@@ -5,7 +5,7 @@ attributes:
   age: Ab 12 Jahren
   class: Ab der 6. Klasse
   group_size: 6-12 Personen
-  duration: 2 h Dauer
+  duration: 2-4 h Dauer
   material_costs: 10 EUR Materialkosten
   school_subject: NuT
   mobile: teilweise mobiles Angebot

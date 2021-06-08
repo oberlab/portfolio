@@ -5,7 +5,7 @@ attributes:
   age: Ab 6+ Jahren
   class: Ab der 1. Klasse
   group_size: 6-12 Personen
-  duration: 60 min Dauer
+  duration: 1.5-3 h Dauer
   material_costs: 5 EUR Materialkosten
   school_subject: NuT
   mobile: teilweise mobiles Angebot
