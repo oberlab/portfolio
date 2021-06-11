@@ -23,7 +23,7 @@ Elektrische Zahnbürste? Ja! Elektrische Zahnbürste mit Augen? JAA! Elektrische
 :::
 
 :::learning_goals  
- Es wird vorausgesetzt, dass die Schüler:innen bereits Kenntnis über die Fließrichtung von Strom haben. Sie lernen eine Umwandlungsform von Strom in Bewegung kennen und die damit verbundenen physikalischen Grundsätze kennen. Die Schüler:innen werden darüber hinaus in ihrer Kreativität gefördert.
+ Es wird vorausgesetzt, dass die Schüler:innen bereits Kenntnis über die Fließrichtung von Strom haben. Sie lernen eine Umwandlungsform von Strom in Bewegung und die damit verbundenen physikalischen Grundsätze kennen. Die Schüler:innen werden darüber hinaus in ihrer Kreativität gefördert.
 :::
 
 :::message  

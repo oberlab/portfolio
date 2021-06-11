@@ -23,7 +23,7 @@ In diesem Kurs schneiden wir mit einem Lasercutter Teile für eine kleine Kiste 
 :::
 
 :::learning_goals
-Die Schüler:innen lernen die Funktionsweise eines Lasercutters kennen. Sie sehen, wie analoge Zeichnungen digitalisiert werden können und lernen dabei Grafikformate (Pixel- vs. Vektorgrafik) zu unterscheiden. Die Schüler:innen werden sicherer im Umgang mit einfache Werkzeugen.
+Die Schüler:innen lernen die Funktionsweise eines Lasercutters kennen. Sie sehen, wie analoge Zeichnungen digitalisiert werden können und lernen dabei Grafikformate (Pixel- vs. Vektorgrafik) zu unterscheiden. Die Schüler:innen werden sicherer im Umgang mit einfachen Werkzeugen.
 :::
 
 :::message
@@ -31,5 +31,5 @@ In diesem Kurs lernt ihr, wie ein Lasercutter funktioniert und wie man mit einem
 :::
 
 :::special_notes
-Die Detailtiefe bei dem Entwurf der Vorlage und der Grafikbearbeitung wird an die Altersstufe angepasst.
+Die Detailtiefe beim Entwurf der Vorlage und der Grafikbearbeitung wird an die Altersstufe angepasst.
 :::

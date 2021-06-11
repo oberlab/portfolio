@@ -1,5 +1,5 @@
 ---
-title: 3D-Design- und Druck
+title: 3D-Design und -Druck
 category: engineering
 attributes:
   age: Ab 12+ Jahren

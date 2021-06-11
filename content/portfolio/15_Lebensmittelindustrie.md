@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/tricks_result.png
 image_process: ../content/img/kurse/tricks_process.png
 ---
 :::short_description  
-_"Ohne Zusatz von Geschmacksverstärkern und Konservierungsstoffen"_. Sicher ist euch diese Aussage schon auf diversen Lebensmittelverpackungen aufgefallen. Doch was genau meinen die Lebensmittelhersteller mit diesem Satz, der uns letztlich zum Kauf animiert? In diesem Kurs stellt ihr diverse Aromen her, lernt Zusatzstoffe kennen und baut -ja, ihr baut- euch euren eigenen Kochschinken, der mit einem Enzym und Fleischsstücken zusammengeklebt und mit Farbe eurer Wahl (gerne auch grün) eingefärbt wird.
+_"Ohne Zusatz von Geschmacksverstärkern und Konservierungsstoffen"_. Sicher ist euch diese Aussage schon auf diversen Lebensmittelverpackungen aufgefallen. Doch was genau meinen die Lebensmittelhersteller mit diesem Satz, der uns letztlich zum Kauf animiert? In diesem Kurs stellt ihr diverse Aromen her, lernt Zusatzstoffe kennen und baut - ja, ihr baut - euch euren eigenen Kochschinken, der mit einem Enzym und Fleischstücken zusammengeklebt und mit der Farbe eurer Wahl (gerne auch grün) eingefärbt wird.
 :::
 
 :::learning_goals  
