@@ -1,9 +1,20 @@
 <ol class="toc">
-{{#each entries}}
-    <li class="flex">
-        <span>{{ this.title }}</span>
-        <span class="spacer grow"></span>
-        <span>{{ this.page }}</span>
+{{#each chapters}}
+    <li class="toc-chapter">
+        <div class="flex">
+            <span class="title">{{ this.title }}</span>
+            <span class="spacer grow"></span>
+            <span>{{ this.page }}</span>
+        </div>
+        <ol class="toc-pages">
+        {{#each this.pages}}
+            <li class="toc-page flex">
+                <span>{{ this.title }}</span>
+                <span class="spacer grow"></span>
+                <span>{{ this.page }}</span>
+            </li>
+        {{/each}}
+        </ol>
     </li>
 {{/each}}
 </ol>
