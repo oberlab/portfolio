@@ -1,13 +1,30 @@
 module.exports = {
     portfolio: {
         title: 'Portfolio',
-        sourceDir: 'content/portfolio',
-        template: 'portfolio.html',
         skeleton: 'portfolio-skeleton.html',
         tocTemplate: 'toc.html',
+        chapters: [
+            {
+                sourceDir: 'content/portfolio/schule',
+                template: 'portfolio.html',
+                indexTemplate: 'portfolio-chapter.html',
+                pageCount: {
+                    increment: 2,
+                    indexIncrement: 2,
+                },
+            },
+            {
+                sourceDir: 'content/portfolio/example',
+                template: 'portfolio.html',
+                indexTemplate: 'portfolio-chapter.html',
+                pageCount: {
+                    increment: 2,
+                    indexIncrement: 2,
+                },
+            },
+        ],
         pageCount: {
             offset: 8,
-            increment: 2,
             trailing: 0,
         },
         output: {

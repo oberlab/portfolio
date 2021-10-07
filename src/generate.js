@@ -41,28 +41,70 @@ function run(target) {
     const targetConfig = targets[target]
 
     const renderer = new Renderer(config.templateDir)
-    const loader = new Loader(targetConfig.sourceDir)
+    const loader = new Loader()
+    const parser = new Parser()
 
     const results = []
-    const tocEntries = []
-    const totalPages = targetConfig.pageCount.offset + loader.count() * targetConfig.pageCount.increment + targetConfig.pageCount.offset
+    const tocChapters = []
+    const totalPages = countTotalPages(targetConfig, loader)
     let currentPage = targetConfig.pageCount.offset
-    for (const page of loader.iterate()) {
-        results.push(generate(page, targetConfig, renderer, {
-            total: totalPages,
-            current: currentPage,
+
+    for (const chapterConfig of targetConfig.chapters) {
+        const chapter = loader.parse(chapterConfig.sourceDir, 'index.md')
+        chapter.content = parser.toHtml(chapter.__content)
+        delete chapter.__content
+
+        results.push(renderer.render(chapterConfig.indexTemplate, {
+            ...chapter,
+            chapterConfig,
+            targetConfig,
+            ...config.templateGlobals,
+            pageCount: {
+                total: totalPages,
+                current: currentPage,
+            },
         }))
-        tocEntries.push({
-            title: page.title,
+
+        const chapterTocEntry = {
+            title: chapter.title,
             page: currentPage,
-        })
-        currentPage += targetConfig.pageCount.increment
+            pages: [],
+        }
+
+        currentPage += chapterConfig.pageCount.indexIncrement
+
+        for (const page of loader.iterate(chapterConfig.sourceDir)) {
+            page.content = parser.toHtml(page.__content)
+            delete page.__content
+
+            const result = renderer.render(chapterConfig.template, {
+                ...page,
+                chapterConfig,
+                targetConfig,
+                ...config.templateGlobals,
+                pageCount: {
+                    total: totalPages,
+                    current: currentPage,
+                },
+            })
+            results.push(result)
+
+            chapterTocEntry.pages.push({
+                title: page.title,
+                page: currentPage,
+            })
+
+            currentPage += chapterConfig.pageCount.increment
+        }
+
+        tocChapters.push(chapterTocEntry)
     }
+
 
     const toc = targetConfig.tocTemplate ? renderer.render(targetConfig.tocTemplate, {
         ...config.templateGlobals,
         target: targetConfig,
-        entries: tocEntries,
+        chapters: tocChapters,
     }) : {}
 
     const resultHtml = renderer.render(targetConfig.skeleton, {
@@ -90,30 +132,20 @@ function run(target) {
 }
 
 /**
- * Generate a single page.
- *
- * @param  {object} page
- * @param  {object} targetConfig
- * @param  {Renderer} renderer
- * @return {[type]}
- */
-function generate(page, targetConfig, renderer, pageCount = {}) {
-    const parser = new Parser()
-    const html = parser.toHtml(page.__content)
-    delete page.__content
-    page.content = html
-
-    return renderer.render(targetConfig.template, {
-        ...config.templateGlobals,
-        target: targetConfig,
-        ...page,
-        pageCount,
-    })
-}
-
-/**
  * Display CLI usage instructions.
  */
 function displayUsage() {
     console.info('Usage: generate.js <target>\n')
+}
+
+/**
+ * Calculate the total number of pages.
+ * @return {Number}
+ */
+function countTotalPages(targetConfig, loader) {
+    let count = targetConfig.pageCount.offset + targetConfig.pageCount.trailing
+
+    for (const chapter of targetConfig.chapters) {
+        loader.count(chapter.sourceDir) * chapter.pageCount.increment
+    }
 }

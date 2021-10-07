@@ -3,29 +3,38 @@ var yamlFront = require('yaml-front-matter')
 
 const DEFAULT_CONFIG = {
     extensions: ['.md'],
+    indexFilename: 'index.md',
 }
 
 class Loader {
-    constructor(directory, config = {}) {
-        this.directory = directory
+    constructor(config = {}) {
         this.config = Object.assign(Object.assign({}, DEFAULT_CONFIG), config)
     }
 
-    *iterate() {
-        const files = fs.readdirSync(this.directory, { withFileTypes: true })
-        for (const entry of files) {
-            if (!this.fileIsRelevant(entry)) continue
-
-            yield this.parse(entry.name)
+    *iterate(directory) {
+        for (const entry of this.iterateRelevantEntries(directory)) {
+            yield this.parse(directory, entry.name)
         }
     }
 
-    count() {
-        return fs.readdirSync(this.directory).length
+    *iterateRelevantEntries(directory) {
+        for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
+            if (!this.fileIsRelevant(entry)) continue
+
+            yield entry
+        }
     }
 
-    parse(filename) {
-        const rawContent = fs.readFileSync(this.directory + '/' + filename)
+    count(directory) {
+        let count = 0
+        for (const _ of this.iterateRelevantEntries(directory)) {
+            count++
+        }
+        return count
+    }
+
+    parse(directory, filename) {
+        const rawContent = fs.readFileSync(directory + '/' + filename)
         const page = yamlFront.loadFront(rawContent)
         page.filename = filename
 
@@ -34,6 +43,8 @@ class Loader {
 
     fileIsRelevant(entry) {
         if (!entry.isFile()) return false
+
+        if (entry.name === this.config.indexFilename) return false
 
         let matchedExtension = false
         for (const ext of this.config.extensions) {
