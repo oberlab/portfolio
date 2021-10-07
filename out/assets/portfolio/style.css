@@ -40,6 +40,24 @@ h1, h2, h3, h4, h5, h6 {
 .page-right .pagenum {
     right: 2em;
 }
+.page .pagenum .chapter-title {
+    color: #666;
+    font-style: italic;
+}
+.page.page-left .pagenum .chapter-title {
+    margin-left: .8em;
+}
+.page.page-left .pagenum .chapter-title:before {
+    content: '–';
+    margin-right: .5em;
+}
+.page.page-right .pagenum .chapter-title {
+    margin-right: .8em;
+}
+.page.page-right .pagenum .chapter-title:after {
+    content: '–';
+    margin-left: .5em;
+}
 
 .category-image {
     border-radius: 100%;

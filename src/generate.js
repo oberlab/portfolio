@@ -81,6 +81,7 @@ function run(target) {
                 ...page,
                 chapterConfig,
                 targetConfig,
+                chapter,
                 ...config.templateGlobals,
                 pageCount: {
                     total: totalPages,

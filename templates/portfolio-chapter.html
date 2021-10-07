@@ -3,8 +3,8 @@
         <h1>{{ title }}</h1>
         {{{ content }}}
     </div>
-    <div class="pagenum">{{ pageCount.current }}</div>
+    <div class="pagenum">{{ pageCount.current }}<span class="chapter-title">{{ title }}</span></div>
 </div>
 <div class="page page-right">
-    <div class="pagenum">{{ add pageCount.current 1 }}</div>
+    <div class="pagenum"><span class="chapter-title">{{ title }}</span>{{ add pageCount.current 1 }}</div>
 </div>

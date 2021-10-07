@@ -26,11 +26,11 @@
             </div>
         </div>
     </div>
-    <div class="pagenum">{{ pageCount.current }}</div>
+    <div class="pagenum">{{ pageCount.current }}<span class="chapter-title">{{ chapter.title }}</span></div>
 </div>
 <div class="page page-right">
     <div id="process-spacer"></div>
     <img id="process" src= "{{ image_process }}"/>
     {{{ content }}}
-    <div class="pagenum">{{ add pageCount.current 1 }}</div>
+    <div class="pagenum"><span class="chapter-title">{{ chapter.title }}</span>{{ add pageCount.current 1 }}</div>
 </div>
