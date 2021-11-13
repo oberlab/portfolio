@@ -1,12 +1,12 @@
 ---
-title: Tatortanalyse
+title: CAD für Fortgeschrittne
 category: science
 attributes:
-  age: Ab 7+ Jahren
-  class: Ab der 4. Klasse
+  age: Ab 14+ Jahren
+  class: Ab der 9. Klasse
   group_size: 6 Personen
-  duration: 6h Dauer
-  material_costs: 15 EUR Materialkosten
+  duration: 4h Dauer
+  material_costs: 10 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot
 curriculum_reference:
@@ -19,17 +19,17 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Der Mörder war wieder der Gärtner. Ja, ist dem wirklich so? Wer kann denn das Gegenteil behaupten? Schlüpfe in die Rolle eines Forensikers ein und finde den Täter, denn wir sehen uns in diesem Kurs einmal genau die Bauanleitung allen Lebens an und wollen sie mittels einer PCR einwandfrei der Täter:in zuordnen. Das klingt Nach Anstrengung (DNA).             
+Computer Aided Design, computergestütztes Design, ein Designverfahren, bei dem man am Anfang ohne Anleitung wie der Ochs vorm Berg steht. Gemeinsam werden wir in diesem Kurs das nötige mathematische Werkzeug mit Programmierung verknüpfen und dir zum Weg zu deinem 3D-Traumobjekt verhelfen.               
 :::
 
 :::learning_goals  
-Über den genetischen Fingerabdruck hinaus gibt es einen Baustein, der alles Leben bombensicher klassifiziert, die DNA. Der Grund, warum Katzen miauen, Vögel singen und Menschen so aussehen, wie sie aussehen. Mittels einer PCR wirst du verschiedene Proben untersuchen und ganz sicher den Täter in einem brisanten Fall ermitteln.                      
+Um die Ecke denken will gelernt sein. In diesem Kurs wird der Grundstein für ein mathematisches Grundverständnis in der dreidimensionalen Konstruktion am Computer gelegt. Anhand einfacher Objekte und kompetenter Hilfe wird dir in Zukunft kein 3D-Objekt mehr misslingen.                        
 :::
 
 :::message  
-Pflanze ist Pflanze, Mensch ist nicht Pflanze? Wer bestimmt das eigentlich? Diese Tatortermittlung zeigt dir, dass man das aufgrund eines sehr kleinen Bausteins in Zellen nachweisen kann: die DNA. Finde den Täter und mach dir die Macht der Natur zu Nutze!   
+Viele Wege führen nach Rom und der Weg zu einem 3D-Objekt führt zwangsläufig über CAD, weswegen eine Kenntnis im Umgang mit CAD-Programmen von unschätzbarem Wert ist. Dieser Kurs wird dir den Weg zu deinem 3D-Objekt ebnen.    
 :::  
 
 :::special_notes  
-Der Begriff PCR ist für dich wahrscheinlich kein neuer. Womit verbindest du dieses Verfahren?       
+Mathematische Grundkenntnisse werden vorausgesetzt.        
 :::
