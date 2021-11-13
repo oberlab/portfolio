@@ -2,10 +2,10 @@
 title: M&M-Spender bauen
 category: engineering
 attributes:
-  age: Ab 7+ Jahren
+  age: Ab 7 Jahren
   class: Ab der 4. Klasse
   group_size: 6 Personen
-  duration: 3h Dauer
+  duration: 3-5 h Dauer
   material_costs: 10 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot

@@ -2,10 +2,10 @@
 title: Coding unplugged
 category: code
 attributes:
-  age: Ab 7 Jahren
+  age: Ab 7+ Jahren
   class: Ab der 3. Klasse
   group_size: 6-14 Personen
-  duration: 1 - 1.5 h Dauer
+  duration: 60 - 90 min Dauer
   material_costs: keine Materialkosten
   school_subject: Informatik
   mobile: mobiles Angebot

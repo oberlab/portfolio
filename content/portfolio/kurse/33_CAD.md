@@ -2,10 +2,10 @@
 title: CAD für Fortgeschrittne
 category: science
 attributes:
-  age: Ab 14+ Jahren
+  age: Ab 14 Jahren
   class: Ab der 9. Klasse
   group_size: 6 Personen
-  duration: 4h Dauer
+  duration: 4-10 h Dauer
   material_costs: 10 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot

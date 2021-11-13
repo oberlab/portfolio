@@ -2,7 +2,7 @@
 title: Calliope programmieren
 category: code
 attributes:
-  age: Ab 8+ Jahren
+  age: Ab 8 Jahren
   class: Ab der 4. Klasse
   group_size: 6-15 Personen
   duration: 1.5-3 h Dauer

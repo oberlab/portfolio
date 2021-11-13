@@ -2,10 +2,10 @@
 title: Mikroskop bauen
 category: science
 attributes:
-  age: Ab 10+ Jahren
+  age: Ab 10 Jahren
   class: Ab der 5. Klasse
   group_size: 6 Personen
-  duration: 3 h Dauer
+  duration: 3-5 h Dauer
   material_costs: 10 EUR Materialkosten
   school_subject: Werken
   mobile: mobiles Angebot

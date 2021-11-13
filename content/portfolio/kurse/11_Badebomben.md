@@ -2,10 +2,10 @@
 title: Badebomben
 category: science
 attributes:
-  age: Ab 6+ Jahren
+  age: Ab 6 Jahren
   class: Ab der 2. Klasse
   group_size: 6-14 Personen
-  duration: 90 min Dauer
+  duration: 1.5 h Dauer
   material_costs: 5 EUR Materialkosten
   school_subject: Biologie, Chemie
   mobile: mobiles Angebot

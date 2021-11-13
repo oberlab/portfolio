@@ -2,10 +2,10 @@
 title: Geheimtinte selber herstellen
 category: science
 attributes:
-  age: Ab 7+ Jahren
+  age: Ab 7 Jahren
   class: Ab der 4. Klasse
   group_size: 6 Personen
-  duration: 2 h Dauer
+  duration: 2-3 h Dauer
   material_costs: 10 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot

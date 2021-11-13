@@ -2,10 +2,10 @@
 title: Tatortanalyse
 category: science
 attributes:
-  age: Ab 7+ Jahren
+  age: Ab 7 Jahren
   class: Ab der 4. Klasse
   group_size: 6 Personen
-  duration: 6h Dauer
+  duration: 6-8 h Dauer
   material_costs: 15 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot

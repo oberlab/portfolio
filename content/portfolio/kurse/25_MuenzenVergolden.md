@@ -2,10 +2,10 @@
 title: Münzen vergolden
 category: science
 attributes:
-  age: Ab 7+ Jahren
+  age: Ab 7 Jahren
   class: Ab der 4. Klasse
   group_size: 6 Personen
-  duration: 1.5h Dauer
+  duration: 1.5 h Dauer
   material_costs: 10 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot

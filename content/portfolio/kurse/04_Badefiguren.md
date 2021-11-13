@@ -2,10 +2,10 @@
 title: Badefiguren
 category: science
 attributes:
-  age: Ab 8+ Jahren
+  age: Ab 8 Jahren
   class: Ab der 4. Klasse
   group_size: 6-14 Personen
-  duration: 90 min Dauer
+  duration: 1.5 h Dauer
   material_costs: 8 EUR Materialkosten
   school_subject: NuT, Chemie, HSU
   mobile: mobiles Angebot

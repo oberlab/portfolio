@@ -2,10 +2,10 @@
 title: CNC-Sticken
 category: code
 attributes:
-  age: Ab 8+ Jahren
+  age: Ab 8 Jahren
   class: Ab der 3. Klasse
   group_size: 6 Personen
-  duration: 3 h Dauer
+  duration: 2-3 h Dauer
   material_costs: 5 EUR Materialkosten
   school_subject: Werken
   mobile: mobiles Angebot

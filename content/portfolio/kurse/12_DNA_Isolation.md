@@ -2,10 +2,10 @@
 title: DNA Isolation
 category: science
 attributes:
-  age: Ab 7+ Jahren
+  age: Ab 7 Jahren
   class: Ab der 3. Klasse
   group_size: 6-30 Personen
-  duration: 90 min Dauer
+  duration: 1.5 h Dauer
   material_costs: 1 EUR Materialkosten
   school_subject: Biologie, Chemie
   mobile: mobiles Angebot

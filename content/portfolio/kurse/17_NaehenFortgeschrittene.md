@@ -2,7 +2,7 @@
 title: Turnbeutel nähen
 category: engineering
 attributes:
-  age: Ab 10+ Jahren
+  age: Ab 10 Jahren
   class: Ab der 5. Klasse
   group_size: 6 Personen
   duration: 3 h Dauer

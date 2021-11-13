@@ -2,7 +2,7 @@
 title: Puzzle lasern
 category: engineering
 attributes:
-  age: Ab 6 Jahren
+  age: Ab 6+ Jahren
   class: Ab der 1. Klasse
   group_size: 6-12 Personen
   duration: 1.5-3 h Dauer

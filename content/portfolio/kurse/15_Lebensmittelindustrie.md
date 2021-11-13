@@ -1,8 +1,8 @@
 ---
-title: Molekulare Küche 
+title: Molekulare Küche
 category: science
 attributes:
-  age: Ab 12+ Jahren
+  age: Ab 12 Jahren
   class: Ab der 7. Klasse
   group_size: 6 Personen
   duration: 2-3 h Dauer

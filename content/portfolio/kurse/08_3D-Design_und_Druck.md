@@ -2,7 +2,7 @@
 title: 3D-Design und -Druck
 category: engineering
 attributes:
-  age: Ab 12+ Jahren
+  age: Ab 12 Jahren
   class: Ab der 7. Klasse
   group_size: 6-14 Personen
   duration: 2-4 h Dauer

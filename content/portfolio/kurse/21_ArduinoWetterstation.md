@@ -2,10 +2,10 @@
 title: Arduino Wetterstation
 category: code
 attributes:
-  age: Ab 12+ Jahren
+  age: Ab 12 Jahren
   class: Ab der 8. Klasse
   group_size: 6 Personen
-  duration: 3 h Dauer
+  duration: 3-4 h Dauer
   material_costs: 1000 EUR Materialkosten
   school_subject: Werken
   mobile: mobiles Angebot

@@ -2,7 +2,7 @@
 title: Bau dir deine eigene Cloud
 category: code
 attributes:
-  age: Ab 14+ Jahren
+  age: Ab 14 Jahren
   class: Ab der 8. Klasse
   group_size: 6-10 Personen
   duration: 6-10 h Dauer

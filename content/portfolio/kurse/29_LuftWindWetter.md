@@ -2,10 +2,10 @@
 title: T-Shirts bedrucken
 category: engineering
 attributes:
-  age: Ab 7+ Jahren
+  age: Ab 7 Jahren
   class: Ab der 4. Klasse
   group_size: 6 Personen
-  duration: 3h Dauer
+  duration: 3 h Dauer
   material_costs: 15 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot

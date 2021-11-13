@@ -2,10 +2,10 @@
 title: Mehr Calliope-Projekte
 category: code
 attributes:
-  age: Ab 10+ Jahren
+  age: Ab 10 Jahren
   class: Ab der 5. Klasse
   group_size: 6 Personen
-  duration: 3 h Dauer
+  duration: 2-6 h Dauer
   material_costs: 10 EUR Materialkosten
   school_subject: Informatik
   mobile: mobiles Angebot
