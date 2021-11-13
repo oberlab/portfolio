@@ -1,13 +1,13 @@
 ---
-title: Arduino Wetterstation
-category: code
+title: Die Welt der Farben
+category: science
 attributes:
-  age: Ab 12+ Jahren
-  class: Ab der 8. Klasse
+  age: Ab 7+ Jahren
+  class: Ab der 4. Klasse
   group_size: 6 Personen
-  duration: 3 h Dauer
-  material_costs: 1000 EUR Materialkosten
-  school_subject: Werken
+  duration: 2 h Dauer
+  material_costs: 8 EUR Materialkosten
+  school_subject: MINT
   mobile: mobiles Angebot
 curriculum_reference:
   Grundschule: WG1/2 WG3/4 HSU3/4  
@@ -19,17 +19,17 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Du möchtest dir eine Wetterstation selber bauen? Dann bist du hier richtig. Das Holz-Gehäuse erstellen wir mit einem Lasercutter und danach geht es an das Innenleben der Wetterstation. Wir programmieren einen Arduino NANO und verbinden einen Sensor sowie ein Display mit dem Microcontroller. Das Display zeigt dir die Temperatur, die Luftfeuchte und den Luftdruck an, dabei werden die Sensorwerte in regelmäßigen Abständen aktualisiert.        
+Nach manchem Regenschauer, wenn die Sonne lacht, erscheint ein Regenbogen am Himmel in allen Farben. Alle Farben? Was ist mit Weiß, Grau und Schwarz? Sind das keine Farben? Und wohin "geht" eigentlich die Farbe, wenn die Tinte mit einem Tintenkiller überstrichen wird? Diesen Fragen gehen wir experimentell auf den Grund und untersuchen zudem den "Fingerabdruck" von Filzstiften.          
 :::
 
 :::learning_goals  
-Beobachte das Wetter in deinem Ort oder deiner Umgebung und sei dein eigener Wetterfrosch, der noch vor allen anderen Medien das aktuelle Wetter verkündet. Die Besonderheit: Du hast alles selbst gebaut und programmiert, was sonst keiner im Wetterdienst von sich behaupten kann.              
+Farben erwecken ein Mandala oder ein schwarz-weißes Bild erst so richtig zum Leben. In diesem Kurs werden Farben ganz genau untersucht und das Zustandekommen von den verschiedensten Farben experimentell ergründet. Ob der Tintenkiller die Tinte wirklich killt, können die Teilnehmer:innen danach erklären.                 
 :::
 
 :::message  
-Etwas selber zu bauen ist ein tolles Erlebnis und die Wetterstation kannst du mit nach Hause nehmen. Vielleicht inspiriert dich das Erlernte und du hast Lust auf ein weiteres Projekt. Wir helfen dir dabei.    
+Forscher:innen stellen sich Fragen aus dem alltäglichen Leben, die sie versuchen zu erklären. Auch so scheinbar einfache Dinge, wie etwa die Farbe in einem Filzstift gehört untersucht und da kommt ihr ins Spiel! Wann ist eine Farbe eine Farbe und wann nicht? Findet es heraus.    
 :::  
 
 :::special_notes  
-Etwaige Programmierkenntnisse mit der Arduino-Oberfläche werden nicht vorausgesetzt.     
+Bitte nehmt zu dem Kurs einen schwarzen Filzstift mit.     
 :::

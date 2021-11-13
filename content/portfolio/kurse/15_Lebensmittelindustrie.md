@@ -1,5 +1,5 @@
 ---
-title: Die Tricks der Lebensmittelindustrie
+title: Molekulare Küche 
 category: science
 attributes:
   age: Ab 12+ Jahren
