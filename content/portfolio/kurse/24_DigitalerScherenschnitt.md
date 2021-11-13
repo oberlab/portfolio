@@ -1,5 +1,5 @@
 ---
-title: Löten für Anfänger:innen
+title: Digitaler Scherenschnitt
 category: engineering
 attributes:
   age: Ab 8+ Jahren
