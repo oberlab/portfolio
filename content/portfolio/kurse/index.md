@@ -1,5 +1,5 @@
 ---
-title: Schul-Kurse
+title: Kurse
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

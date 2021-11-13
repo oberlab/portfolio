@@ -5,7 +5,7 @@ module.exports = {
         tocTemplate: 'toc.html',
         chapters: [
             {
-                sourceDir: 'content/portfolio/schule',
+                sourceDir: 'content/portfolio/kurse',
                 template: 'portfolio.html',
                 indexTemplate: 'portfolio-chapter.html',
                 pageCount: {
@@ -14,7 +14,7 @@ module.exports = {
                 },
             },
             {
-                sourceDir: 'content/portfolio/example',
+                sourceDir: 'content/portfolio/events',
                 template: 'portfolio.html',
                 indexTemplate: 'portfolio-chapter.html',
                 pageCount: {
@@ -34,10 +34,28 @@ module.exports = {
     },
     portfolio_school: {
         title: 'Portfolio',
-        sourceDir: 'content/portfolio',
-        template: 'portfolio.html',
         skeleton: 'portfolio-skeleton_school.html',
         tocTemplate: 'toc.html',
+        chapters: [
+            {
+                sourceDir: 'content/portfolio/kurse',
+                template: 'portfolio.html',
+                indexTemplate: 'portfolio-chapter.html',
+                pageCount: {
+                    increment: 2,
+                    indexIncrement: 2,
+                },
+            },
+            {
+                sourceDir: 'content/portfolio/kurspakete',
+                template: 'portfolio.html',
+                indexTemplate: 'portfolio-chapter.html',
+                pageCount: {
+                    increment: 2,
+                    indexIncrement: 2,
+                },
+            },
+        ],
         pageCount: {
             offset: 8,
             increment: 2,

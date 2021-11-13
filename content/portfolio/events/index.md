@@ -1,5 +1,5 @@
 ---
-title: Beispiel-Kapitel
+title: Veranstaltungen
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

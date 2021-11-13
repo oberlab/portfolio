@@ -29,3 +29,11 @@
 .add-vspace {
   margin-top: 40px;
 }
+
+.page-cover-front {
+    background-image: url(cover-front.svg);
+}
+
+.page-cover-back {
+    background-image: url(cover-back.svg);
+}
