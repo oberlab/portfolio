@@ -6,7 +6,7 @@ attributes:
   class: Ab der 5. Klasse
   group_size: 6 Personen
   duration: 3 h Dauer
-  material_costs: 5 EUR Materialkosten
+  material_costs: 10 EUR Materialkosten
   school_subject: Werken
   mobile: mobiles Angebot
 curriculum_reference:
@@ -19,18 +19,17 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Die kleine Schildkröte Turtle hört auf dein Kommando. Sie zeichnet einzigartige Muster, die später von der Nähmaschine auf Filzuntersetzer nachgezeichnet werden.    
+Dass Blätter grün sind, ist lange kein Geheimnis mehr. Aber wo kommt diese grüne Farbe her? Oder wo ist eigentlich die Flüssigkeit in Zwiebeln gespeichert, die dir beim Schneiden die Tränen in die Augen treibt? Unser Auge ist für so kleine Gebilde nicht geeignet, weswegen wir uns das Mikroskop zur Hilfe nehmen werden. In diesem Kurs wirst du ein 3D-gedrucktes Mikroskop zusammenbauen und die Welt aus einem ganz neuen Blickwinkel kennenlernen.      
 :::
 
 :::learning_goals  
- Mit Hilfe einer Block-basierten Programmiersprache wird mit der Maus ein Ablaufprogramm gebaut, das den Bewegungsablauf einer Schildkröte vorgibt. Dabei probieren wir viel aus und lernen die Bedeutung von Drehwinkeln und relative Bewegungen. Jedes Kind kann ein Muster auf einen Filzuntersetzer sticken (lassen) und mit nach Hause nehmen oder bekommt diesen ein paar Tage später nachgereicht.            
+Ein 3D-gedrucktes Mikroskop wird mit einer Kamera und einem Raspberry Pi ausgestattet, um den Mikrokosmos erkunden zu können. Nach Anschluss an einen Computer kann das Mikroskop angesteuert werden. Du wirst erstaunt sein, wie leicht man kleinste Lebewesen beobachten kann.             
 :::
 
 :::message  
-In diesem Kurs lernt ihr die Grundlagen der Programmierung. Die Komplexität der Programme wird nach Bedarf angepasst.   
+Es muss kein teures Mikroskop sein, um seine Umgebung erforschen zu können. Ein druckbares Mikroskop mit einem Microcontroller reichen dafür aus.    
 :::  
 
 :::special_notes  
-Falls bis zum Schluss an den Designs gefeilt wird, können diese nicht mehr in der Kurszeit gestickt werden. Diese werden dann einige Tage später übergeben.      
+Wie wärs denn mal mit einem Mikroskop zu Weihnachten als Geschenk? Druck es dir doch einfach aus.     
 :::
-r übergeben.
