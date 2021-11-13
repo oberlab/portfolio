@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Die Kurse "Coding unplugged" und "Calliop programmieren" sind nur die Spitze des Eisbergs. Dieser Kurs richtet sich an fortgeschrittene Coder, die schon einige Erfahrung mit Open Roberta und dem Calliope gesammelt haben. In diesem Kurs wirst du verschiedene alltägliche Einsatzgebiete des Calliopes kennenlernen und programmieren, von denen du zuvor nicht wusstest, dass du sie mit dem Calliope bewerkstelligen kannst.     
+Die Kurse "Coding unplugged" und "Calliope programmieren" sind nur die Spitze des Eisbergs. Dieser Kurs richtet sich an fortgeschrittene Coder, die schon einige Erfahrung mit Open Roberta und dem Calliope gesammelt haben. In diesem Kurs wirst du verschiedene alltägliche Einsatzgebiete des Calliopes kennenlernen und programmieren, von denen du zuvor nicht wusstest, dass du sie mit dem Calliope bewerkstelligen kannst.     
 :::
 
 :::learning_goals  
@@ -31,5 +31,5 @@ Neue Lösungsstrategien mit Erlerntem zu entwickeln und umzusetzen ist ein schwi
 :::  
 
 :::special_notes  
-Wir empfehlen sehr,  vorab Kurse zum Programmieren und zu dem Calliope zu besuchen; das ist die Voraussetzung zu diesem Kurs.     
+Wir empfehlen sehr, vorab Kurse zum Programmieren und zu dem Calliope zu besuchen; das ist die Voraussetzung zu diesem Kurs.     
 :::

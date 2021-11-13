@@ -23,7 +23,7 @@ image_process: ../content/img/kurse/dummy_process.png
 :::
 
 :::learning_goals  
-Einer der ältesten Alchemisten-Tricks wird in diesem Kurs praktiziert. Hierbei wird Kupfermünze mit Zink in Verbindung gebracht und durch Erhitzen kommt es zu einer Legierung, dem Messing. Es entsteht nicht wirklich Gold, aber die Münze glänzt danach mindestens genau so schön wie eine Golddublone aus Kapitän Nemos Schatzkiste.                    
+Einer der ältesten Alchemisten-Tricks wird in diesem Kurs praktiziert. Hierbei wird eine Kupfermünze mit Zink in Verbindung gebracht und durch Erhitzen kommt es zu einer Legierung, dem Messing. Es entsteht nicht wirklich Gold, aber die Münze glänzt danach mindestens genau so schön wie eine Golddublone aus Kapitän Nemos Schatzkiste.                    
 :::
 
 :::message  

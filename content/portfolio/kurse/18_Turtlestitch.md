@@ -1,6 +1,6 @@
 ---
 title: CNC-Sticken
-category: engineering
+category: code
 attributes:
   age: Ab 8+ Jahren
   class: Ab der 3. Klasse

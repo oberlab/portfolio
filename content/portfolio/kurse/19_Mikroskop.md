@@ -27,7 +27,7 @@ Ein 3D-gedrucktes Mikroskop wird mit einer Kamera und einem Raspberry Pi ausgest
 :::
 
 :::message  
-Es muss kein teures Mikroskop sein, um seine Umgebung erforschen zu können. Ein druckbares Mikroskop mit einem Microcontroller reichen dafür aus.    
+Es muss kein teures Mikroskop sein, um seine Umgebung erforschen zu können. Ein druckbares Mikroskop mit einem Minicomputer reichen dafür aus.    
 :::  
 
 :::special_notes  
