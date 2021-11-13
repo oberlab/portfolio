@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: NT5-9   
   Realschule: C8-9 4 C10 5
   Gymnasium: C8-10
-image_result: ../content/img/kurse/tricks_result.png
-image_process: ../content/img/kurse/tricks_process.png
+image_result: ../content/img/kurse/dummy_result.png
+image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
 Du arbeitest schon ab und zu mal selbstständig an einer Nähmaschine und möchtest jetzt mal richtig nach einem Schnitt nähen? Wir nähen einen Turnbeutel oder auch Matchsack aus 2 verschiedenen Stoffen der ab jetzt dein täglicher Begleiter sein wird.    

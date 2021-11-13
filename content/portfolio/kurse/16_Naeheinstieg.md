@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: NT5-9   
   Realschule: C8-9 4 C10 5
   Gymnasium: C8-10
-image_result: ../content/img/kurse/tricks_result.png
-image_process: ../content/img/kurse/tricks_process.png
+image_result: ../content/img/kurse/dummy_result.png
+image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
 Du wolltest schon immer mal mit einer Nähmaschine kreativ werden? Hier lernst du alle Teile und ihre Funktion kennen. Das erste Projekt ist ein bunter Spüllappen an dem wir alle Sticharten ausprobieren. Danach nähst du ein Stiftemäppchen mit Reißverschluss und kannst es nach Wunsch verzieren.  
