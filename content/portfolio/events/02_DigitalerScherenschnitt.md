@@ -2,11 +2,11 @@
 title: Digitaler Scherenschnitt
 category: engineering
 attributes:
-  age: Ab 8+ Jahren
-  class: Ab der 3. Klasse
-  group_size: 6 Personen
-  duration: 3 h Dauer
-  material_costs: 10 EUR Materialkosten
+  age: jedes Alter
+  class: jedes Alter
+  group_size: 2 Personen zeitgleich
+  duration: 10-20 min pro Durchlauf
+  material_costs: 5 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot
 curriculum_reference:
@@ -19,17 +19,17 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Du hast eine Erfindung, die die Welt verändern wird, aber es darf niemand davon wissen? Du möchtest jemandem einen Liebesbrief schreiben, den sonst niemand lesen darf? Dann werde mit Hilfe des Oberlab-Geheimdienstes zum secret agent und entwickle deine eigene Geheimtinte aus Hausmitteln.          
-:::
-
-:::learning_goals  
-In Hausmitteln steckt mehr drin, als man zunächst ahnt. Gerade die Küchenchemie bietet ein breites Spektrum an fantastischen Experimenten, die man gar nicht erwartet hätte. Wir drehen deine Küche auf links und zaubern Geheimtinte auf den Tisch. Aber psst!! Verrate das Rezept niemandem!                   
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 :::
 
 :::message  
-Bei dem Begriff "Chemikalien" denkt man gleich an schädliche Stoffe. Dass aber das Kochen von einem Braten eine Kombination aus tausenden Chemikalien und Reaktionen ist, wird oft vergessen. Schnappt man sich nun die richtigen Chemikalien in Form von Obst und verbindet sie geschickt mit geheimen Zutaten, lässt sich sogar eine Geheimtinte herstellen, ohne dass man Angst um seine Gesundheit haben muss.     
-:::  
+
+:::
+
+:::process
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
 
 :::special_notes  
-Vampire aufgepasst: Wir werden mit Knoblauch arbeiten.     
+
 :::

@@ -5,7 +5,7 @@ attributes:
   age: Ab 6 Jahren
   class: Ab 1. Klasse
   group_size: 4-6 Personen zeitgleich
-  duration: 20 - 30 min pro Durchlauf
+  duration: 20-30 min pro Durchlauf
   material_costs: 5 EUR Materialkosten
   school_subject: NuT, Werken, Physik
   mobile: mobiles Angebot
