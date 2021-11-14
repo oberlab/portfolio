@@ -1,11 +1,11 @@
 ---
-title: Löten lernen
+title: Blinkende Anstecker
 category: engineering
 attributes:
-  age: Ab 8 Jahren
-  class: Ab 2. Klasse
-  group_size: 6-10 Personen
-  duration: 1.5-3 h  Dauer
+  age: Ab 6 Jahren
+  class: Ab 1. Klasse
+  group_size: 4-6 Personen zeitgleich
+  duration: 20 - 30 min pro Durchlauf
   material_costs: 5 EUR Materialkosten
   school_subject: NuT, Werken, Physik
   mobile: mobiles Angebot
@@ -22,12 +22,12 @@ image_process: ../content/img/kurse/solder_process.png
 Eine verrückte Fledermaus, ein gruseliger Geist oder ein netter Roboter. Wir schwingen den Lötkolben und bringen diese Figuren mit LEDs zum Blinken und zum Leuchten. Durch das Löten verbindet ihr verschiedene elektronische Bauteile und LEDs mit der Platine und kreiert so euren ganz eigenen Stromkreis.
 :::
 
-:::learning_goals
-Die Schüler:innen verstehen die Grundlagen der Elektronik (Strom und elektrische Komponenten) und lernen dabei den Umgang mit dem Lötkolben kennen. Sie können die elektrische Schaltungen nachvollziehen und sie selbstständig anpassen.
-:::
-
 :::message
 In diesem Kurs lernt ihr etwas über die Grundlagen von Elektronik und dürft mit unterschiedlichen elektrischen Komponenten arbeiten. Außerdem verraten wir euch all unsere Tipps & Tricks zum Löten.
+:::
+
+:::process
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 :::
 
 :::special_notes

@@ -7,6 +7,7 @@ class Parser {
         this.md.use(MarkdownItContainer, 'learning_goals')
         this.md.use(MarkdownItContainer, 'message')
         this.md.use(MarkdownItContainer, 'special_notes')
+        this.md.use(MarkdownItContainer, 'process')
         this.md.use(MarkdownItContainer, 'curriculum')
     }
 
