@@ -129,6 +129,14 @@ ul.attributes li i {
     margin-bottom: -3mm;
 }
 
+.process:before {
+    content: "Wie ist der Ablauf";
+    display: block;
+    font-family: "Roboto Mono";
+    font-weight: bold;
+    margin-bottom: -3mm;
+}
+
 .special_notes:before {
     content: "Weitere Informationen";
     display: block;
