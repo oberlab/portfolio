@@ -4,7 +4,7 @@ module.exports = {
         skeleton: 'portfolio-skeleton.html',
         toc: {
             template: 'toc.html',
-            entriesPerPage: 6,
+            entriesPerPage: 12,
         },
         chapters: [
             {

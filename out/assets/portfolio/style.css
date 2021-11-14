@@ -192,18 +192,20 @@ img#QR {
     list-style-type: none;
     padding-left: 0;
 }
-.toc-pages {
-    list-style-type: none;
+.toc-entry {
     padding-left: 1em;
+}
+.toc-entry.chapter .title {
+    font-weight: bold;
+}
+.toc-entry.chapter {
+    padding-left: 0;
 }
 .toc li .spacer {
     border-bottom: 1px solid #ddd;
     margin-left: 1em;
     margin-right: 1em;
     height: 1em;
-}
-.toc .title {
-    font-weight: bold;
 }
 
 

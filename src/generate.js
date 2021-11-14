@@ -46,8 +46,9 @@ function run(target) {
 
     const results = []
     const tocChapters = []
-    const totalPages = countTotalPages(targetConfig, loader)
-    let currentPage = targetConfig.pageCount.offset
+    const tocPageCount = countTocPages(targetConfig, loader)
+    const totalPages = countTotalPages(targetConfig, loader, tocPageCount)
+    let currentPage = targetConfig.pageCount.offset + tocPageCount
 
     for (const chapterConfig of targetConfig.chapters) {
         const chapter = loader.parse(chapterConfig.sourceDir, 'index.md')
@@ -101,7 +102,7 @@ function run(target) {
         tocChapters.push(chapterTocEntry)
     }
 
-    const tocPages = sliceToc(targetConfig, tocChapters, renderer)
+    const tocPages = generateTocPages(targetConfig, tocChapters, targetConfig.pageCount.offset, totalPages)
 
     const resultHtml = renderer.render(targetConfig.skeleton, {
         ...config.templateGlobals,
@@ -138,12 +139,35 @@ function displayUsage() {
  * Calculate the total number of pages.
  * @return {Number}
  */
-function countTotalPages(targetConfig, loader) {
-    let count = targetConfig.pageCount.offset + targetConfig.pageCount.trailing
+function countTotalPages(targetConfig, loader, tocPages) {
+    let count = targetConfig.pageCount.offset + targetConfig.pageCount.trailing + tocPages
 
     for (const chapter of targetConfig.chapters) {
-        loader.count(chapter.sourceDir) * chapter.pageCount.increment
+        count += loader.count(chapter.sourceDir) * chapter.pageCount.increment
     }
+
+    return count
+}
+
+function countTocPages(targetConfig, loader) {
+    let lines = 0
+
+    for (const chapter of targetConfig.chapters) {
+        // one line per chapter
+        lines++
+
+        // one line per entry
+        lines += loader.count(chapter.sourceDir)
+    }
+
+    let pages = Math.ceil(lines/targetConfig.toc.entriesPerPage)
+
+    if (pages % 2 != 0) {
+        // even number of pages enforced
+        pages++
+    }
+
+    return pages
 }
 
 /**
@@ -154,85 +178,50 @@ function countTotalPages(targetConfig, loader) {
  *
  * @param  {[type]} targetConfig [description]
  * @param  {[type]} tocChapters  [description]
- * @param  {[type]} renderer     [description]
+ * @param  {[type]} pageOffset   [description]
+ * @param  {[type]} totalPages   [description]
  * @return {[type]}              [description]
  */
-function sliceToc(targetConfig, tocChapters, renderer) {
-    const pages = []
-    if (!targetConfig.toc || !targetConfig.toc.template || tocChapters.length < 1) return pages;
+function generateTocPages(targetConfig, tocChapters, pageOffset, totalPages) {
+    if (!targetConfig.toc || !targetConfig.toc.template || tocChapters.length < 1) return [];
 
-    let currentPage = undefined
-    let currentChapter = undefined
-    let linesOnCurrentPage = 1
+    const flatToc = flattenToc(tocChapters)
 
-    // The read position in the tocChapters data structure
-    let cursor = {
-        chapter: 0,
-        page: -1,
+    const chunks = []
+    for (let i = 0, j = flatToc.length; i < j; i += targetConfig.toc.entriesPerPage) {
+        chunks.push(flatToc.slice(i, i + targetConfig.toc.entriesPerPage))
     }
 
-    while (true) {
-        cursor.page++
-
-        // Start new page
-        if (!currentPage) {
-            currentPage = []
-            currentChapter = {
-                title: tocChapters[cursor.chapter].title,
-                page: tocChapters[cursor.chapter].page,
-                pages: [],
-            }
-        }
-
-        // When there are no more chapters left, we're done
-        if ((tocChapters.length - 1) < cursor.chapter) {
-            break
-        }
-
-        // Move to next chapter
-        if ((tocChapters[cursor.chapter].pages.length - 1) < cursor.page) {
-            currentPage.push(currentChapter)
-            currentChapter = undefined
-            cursor.chapter++
-            cursor.page = -1
-            continue
-        }
-
-        // Start new chapter
-        if (!currentChapter) {
-            currentChapter = {
-                title: tocChapters[cursor.chapter].title,
-                page: tocChapters[cursor.chapter].page,
-                pages: [],
-            }
-            linesOnCurrentPage++
-        }
-
-        const line = tocChapters[cursor.chapter].pages[cursor.page]
-        currentChapter.pages.push(line)
-        linesOnCurrentPage++
-
-        // Render page and push to pages
-        if (linesOnCurrentPage >= targetConfig.toc.entriesPerPage) {
-            currentPage.push(currentChapter)
-            pages.push(renderer.render(targetConfig.toc.template, {
-                ...config.templateGlobals,
-                target: targetConfig,
-                chapters: currentPage,
-            }))
-
-            currentPage = undefined
-            linesOnCurrentPage = 1
-        }
+    if (chunks.length % 2 != 0) {
+        // add an empty page to get an even count
+        chunks.push([])
     }
 
-    if (currentPage) {
-        pages.push(renderer.render(targetConfig.toc.template, {
-            ...config.templateGlobals,
-            target: targetConfig,
-            chapters: currentPage,
-        }))
-    }
+    return chunks.map((chunk, index) => ({
+        entries: chunk,
+        pageCount: {
+            current: index + pageOffset,
+            total: totalPages,
+        },
+    }))
+}
 
-    return pages
+function flattenToc(tocChapters) {
+    return tocChapters.reduce((toc, chapter) => {
+        toc.push({
+            title: chapter.title,
+            page: chapter.page,
+            isChapter: true,
+        })
+
+        for (const page of chapter.pages) {
+            toc.push({
+                title: page.title,
+                page: page.page,
+                isChapter: false,
+            })
+        }
+
+        return toc
+    }, [])
 }

@@ -1,0 +1,17 @@
+{{#each tocPages}}
+    <div class="page {{#if (eq (mod @index 2) 0)}}page-left{{else}}page-right{{/if}}">
+        <h3>{{#if (eq @index 0)}}Inhalt{{else}}<br>{{/if}}</h3>
+        <ol class="toc">
+        {{#each this.entries}}
+            <li class="toc-entry {{#if this.isChapter}}chapter{{/if}}">
+                <div class="flex">
+                    <span class="title">{{ this.title }}</span>
+                    <span class="spacer grow"></span>
+                    <span>{{ this.page }}</span>
+                </div>
+            </li>
+        {{/each}}
+        </ol>
+        <div class="pagenum">{{ this.pageCount.current }}</div>
+    </div>
+{{/each}}
