@@ -2,9 +2,4 @@
 title: Kurse
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Taucht nun ab in die fabelhafte Welt der Kreativität und Innovation des FabLab Oberland. Wir stellen euch sämtliche Kurse vor, die wir über die letzten Jahre enteickelt und verfeinert haben - vom Nähen von Turnbeuteln, über Lasercutting, bis hin zur Isolation von DNA aus Erdbeeren ist alles dabei, was das Forscher:innenherz höher schlagen lässt. 
