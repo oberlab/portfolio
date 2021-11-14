@@ -2,9 +2,4 @@
 title: Veranstaltungen
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Du hast ein Event, dem noch die nötige Tüftlernote fehlt? Du möchtest mehrere Personen mit innovativen und kreativen Methoden eine unvergessliche Zeit bescheren? Dann ist dieser Abschnitt genau der richtige! Hier findest du Kurse, die für eine Vielzahl an Teilnehmer:innen ausgelegt sind. Egal, ob Firmenfeier, Kindergeburtstag, Gemeindefest oder Christkindlmarkt, wir kommen vorbei und haben die Zukunft dabei.   
