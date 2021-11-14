@@ -101,18 +101,13 @@ function run(target) {
         tocChapters.push(chapterTocEntry)
     }
 
-
-    const toc = targetConfig.tocTemplate ? renderer.render(targetConfig.tocTemplate, {
-        ...config.templateGlobals,
-        target: targetConfig,
-        chapters: tocChapters,
-    }) : {}
+    const tocPages = sliceToc(targetConfig, tocChapters, renderer)
 
     const resultHtml = renderer.render(targetConfig.skeleton, {
         ...config.templateGlobals,
         target: targetConfig,
         pages: results,
-        toc,
+        tocPages,
     })
 
     fs.writeFileSync(targetConfig.output.html, resultHtml)
@@ -149,4 +144,95 @@ function countTotalPages(targetConfig, loader) {
     for (const chapter of targetConfig.chapters) {
         loader.count(chapter.sourceDir) * chapter.pageCount.increment
     }
+}
+
+/**
+ * Build an array of slices (pages) for the TOC.
+ *
+ * Each slice consists of a list of "chapters".
+ * Each chapter has one or more `pages`.
+ *
+ * @param  {[type]} targetConfig [description]
+ * @param  {[type]} tocChapters  [description]
+ * @param  {[type]} renderer     [description]
+ * @return {[type]}              [description]
+ */
+function sliceToc(targetConfig, tocChapters, renderer) {
+    const pages = []
+    if (!targetConfig.toc || !targetConfig.toc.template || tocChapters.length < 1) return pages;
+
+    let currentPage = undefined
+    let currentChapter = undefined
+    let linesOnCurrentPage = 1
+
+    // The read position in the tocChapters data structure
+    let cursor = {
+        chapter: 0,
+        page: -1,
+    }
+
+    while (true) {
+        cursor.page++
+
+        // Start new page
+        if (!currentPage) {
+            currentPage = []
+            currentChapter = {
+                title: tocChapters[cursor.chapter].title,
+                page: tocChapters[cursor.chapter].page,
+                pages: [],
+            }
+        }
+
+        // When there are no more chapters left, we're done
+        if ((tocChapters.length - 1) < cursor.chapter) {
+            break
+        }
+
+        // Move to next chapter
+        if ((tocChapters[cursor.chapter].pages.length - 1) < cursor.page) {
+            currentPage.push(currentChapter)
+            currentChapter = undefined
+            cursor.chapter++
+            cursor.page = -1
+            continue
+        }
+
+        // Start new chapter
+        if (!currentChapter) {
+            currentChapter = {
+                title: tocChapters[cursor.chapter].title,
+                page: tocChapters[cursor.chapter].page,
+                pages: [],
+            }
+            linesOnCurrentPage++
+        }
+
+        const line = tocChapters[cursor.chapter].pages[cursor.page]
+        currentChapter.pages.push(line)
+        linesOnCurrentPage++
+
+        // Render page and push to pages
+        if (linesOnCurrentPage >= targetConfig.toc.entriesPerPage) {
+            currentPage.push(currentChapter)
+            pages.push(renderer.render(targetConfig.toc.template, {
+                ...config.templateGlobals,
+                target: targetConfig,
+                chapters: currentPage,
+            }))
+
+            currentPage = undefined
+            linesOnCurrentPage = 1
+        }
+    }
+
+    if (currentPage) {
+        pages.push(renderer.render(targetConfig.toc.template, {
+            ...config.templateGlobals,
+            target: targetConfig,
+            chapters: currentPage,
+        }))
+    }
+
+    return pages
 }

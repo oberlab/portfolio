@@ -193,8 +193,18 @@
       <h3> Unser Angebot </h3>
     </div>
 
+    {{#each tocPages}}
+        <div class="page {{#if (eq (mod @index 2) 0)}}page-left{{else}}page-right{{/if}}">
+          <h3> Inhalt </h3>
+          {{{ this }}}
+        </div>
+    {{/each}}
+    {{#unless (eq (mod tocPages.length 2) 0) }}
+        <div class="page page-right"></div>
+    {{/unless}}
+
     {{#each pages}}
-            {{{ this }}}
+        {{{ this }}}
     {{/each}}
 
     <div class="page page-left">

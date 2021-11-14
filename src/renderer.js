@@ -9,6 +9,8 @@ class Renderer {
         this.loadPartials()
 
         this.hb.registerHelper('add', (a, b) => a+b)
+        this.hb.registerHelper('mod', (a, b) => a%b)
+        this.hb.registerHelper('eq', (a, b) => a===b)
     }
 
     render(template, attributes) {

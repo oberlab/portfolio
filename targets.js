@@ -2,7 +2,10 @@ module.exports = {
     portfolio: {
         title: 'Portfolio',
         skeleton: 'portfolio-skeleton.html',
-        tocTemplate: 'toc.html',
+        toc: {
+            template: 'toc.html',
+            entriesPerPage: 6,
+        },
         chapters: [
             {
                 sourceDir: 'content/portfolio/kurse',
@@ -35,7 +38,6 @@ module.exports = {
     portfolio_school: {
         title: 'Portfolio',
         skeleton: 'portfolio-skeleton_school.html',
-        tocTemplate: 'toc.html',
         chapters: [
             {
                 sourceDir: 'content/portfolio/kurse',
@@ -56,6 +58,10 @@ module.exports = {
                 },
             },
         ],
+        toc: {
+            template: 'toc.html',
+            entriesPerPage: 6,
+        },
         pageCount: {
             offset: 8,
             increment: 2,
