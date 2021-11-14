@@ -4,7 +4,7 @@ module.exports = {
         skeleton: 'portfolio-skeleton.html',
         toc: {
             template: 'toc.html',
-            entriesPerPage: 12,
+            entriesPerPage: 15,
         },
         chapters: [
             {
@@ -27,7 +27,7 @@ module.exports = {
             },
         ],
         pageCount: {
-            offset: 8,
+            offset: 12,
             trailing: 0,
         },
         output: {
@@ -60,7 +60,7 @@ module.exports = {
         ],
         toc: {
             template: 'toc.html',
-            entriesPerPage: 6,
+            entriesPerPage: 15,
         },
         pageCount: {
             offset: 8,
