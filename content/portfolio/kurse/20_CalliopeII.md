@@ -10,11 +10,11 @@ attributes:
   school_subject: Informatik
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG1/2 WG3/4 HSU3/4  
-  Mittelschule: NT5-10
-  Förderschule: NT5-9   
-  Realschule: C8-9 4 C10 5
-  Gymnasium: C8-10
+  Grundschule: -   
+  Mittelschule: WiB5-8, Inf5-10  
+  Förderschule: Inf5-7, NT  
+  Realschule: IT 2.6  
+  Gymnasium: NT6 2, Inf9
 image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---

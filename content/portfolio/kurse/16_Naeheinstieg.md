@@ -10,11 +10,11 @@ attributes:
   school_subject: Werken
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG1/2 WG3/4 HSU3/4  
-  Mittelschule: NT5-10
-  Förderschule: NT5-9   
-  Realschule: C8-9 4 C10 5
-  Gymnasium: C8-10
+  Grundschule: WG2 WG3/4
+  Mittelschule: WG5/6
+  Förderschule: WG1-6   
+  Realschule: TG 5-9
+  Gymnasium: -
 image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
