@@ -26,6 +26,10 @@
     justify-content: space-evenly;
 }
 
+.space-table {
+    margin: 2em;
+}
+
 .end {
     justify-content: end;
 }

@@ -10,7 +10,7 @@ attributes:
   school_subject: Informatik
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: -   
+  Grundschule: HSU3/4   
   Mittelschule: WiB5-8, Inf5-10  
   Förderschule: Inf5-7, NT  
   Realschule: IT 2.6  

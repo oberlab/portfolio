@@ -88,6 +88,11 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+.table {
+    font-size: 14pt;
+    margin-top: -.3em;
+}
+
 
 ul.attributes {
     list-style-type: none;

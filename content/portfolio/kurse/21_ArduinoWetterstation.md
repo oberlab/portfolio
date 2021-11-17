@@ -10,7 +10,6 @@ attributes:
   school_subject: Werken
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: -   
   Mittelschule: WiB5-8, Inf5-10  
   Förderschule: Inf5-7, NT  
   Realschule: IT 2.6  

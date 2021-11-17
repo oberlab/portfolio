@@ -14,7 +14,6 @@ curriculum_reference:
   Mittelschule: WG5/6
   Förderschule: WG1-6   
   Realschule: TG 5-9
-  Gymnasium: -
 image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
