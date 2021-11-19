@@ -169,18 +169,12 @@
       </div>
     </div>
 
-    <div class="page page-left">
-      <h3> Unser Angebot für Schulen </h3>
-      {{{ toc }}}
-    </div>
+    {{> toc}}
 
-    <div class="page page-right">
-      <h3> Unser Angebot für Schulen </h3>
-    </div>
 
-      {{#each pages}}
-              {{{ this }}}
-      {{/each}}
+    {{#each pages}}
+        {{{ this }}}
+    {{/each}}
 
       <div class="page page-left">
       </div>
