@@ -10,11 +10,11 @@ attributes:
   school_subject: MINT
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG1/2 WG3/4 HSU3/4  
-  Mittelschule: NT5-10
-  Förderschule: NT5-9   
-  Realschule: C8-9 4 C10 5
-  Gymnasium: C8-10
+  Grundschule: WG3/4   
+  Mittelschule: NT5-10 IdiG2 T7-9 WiB 5-10
+  Förderschule: WG5-6 T7-9 IdiG
+  Realschule: Ph9-10 We5-8 It 2.4
+  Gymnasium: NT5 NT6+7 2
 image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
