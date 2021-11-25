@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/solder_result.png
 image_process: ../content/img/kurse/solder_process.png
 ---
 ::: short_description
-Eine verrückte Fledermaus, ein gruseliger Geist oder ein netter Roboter. Wir schwingen den Lötkolben und bringen diese Figuren mit LEDs zum Blinken und zum Leuchten. Durch das Löten verbindet ihr verschiedene elektronische Bauteile und LEDs mit der Platine und kreiert so euren ganz eigenen Stromkreis.
+Eine verrückte Fledermaus, ein gruseliger Geist oder ein netter Roboter. Wir schwingen den Lötkolben und bringen diese Figuren mit LEDs zum Blinken und zum Leuchten. Durch das Löten verbindet ihr verschiedene elektronische Bauteile und LEDs mit der Platine und kreiert so euren ganz eigenen Stromkreis
 :::
 
 :::learning_goals
