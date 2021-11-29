@@ -19,17 +19,22 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In diesem Nachmittagskurs tauchen wir in die Welt des Programmierens ein und schreiben
+einen einfachen Code zunächst ganz ohne Computer und Strom. Später schicken wir Online-
+Spielfiguren mit Programmierbefehlen auf Entdeckungstour, schreiben eigene kleine
+Programme für einen Minicomputer, um z.B. auf Knopfdruck Emojis anzuzeigen und Melodien abzuspielen oder generiert digital Muster, die wir dann mit einer Stickmaschine auf Filz
+sticken. In diesem Kurs lernen die Schüler:innen die Grundlagen des Programmierens kennen
+und dürft selbst kleine Projekte umsetzen.
 :::
 
 :::learning_goals  
-Mit den einfachsten Mitteln wird den Schüler:innen die Basiskenntnis von Programmieren vermittelt, indem sie das Prinzip hinter einem Algorithmus durch spielerische Auseinandersetzung mit Input-, und Outputbefehlen selbst ausprobieren und umsetzen.     
+Mit dem Programmieren kann man garnicht früh genug beginnen. So gut wie alles in unserer digitalen Welt begann mit einer ersten Code-Zeile. Diese Kursreihe soll eure erste Code-Zeile in euerem Leben werden.     
 :::
 
 :::message  
-
+Programmieren wird zunehmend populärer und hat nicht mehr das eingestaubte Klischee von früher. Ihr werdet hier mit der digitalen Welt konfrontiert und macht sie ganz zu eurer, denn letztlich ist Programmieren genau das: bringe eine Maschine dazu, das zu tun, was du möchtest.
 :::  
 
 :::special_notes  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Wenn euch das Programmieren darüberhinaus so gut gefallen hat, nehmt gerne an anderen Kursen von uns zum Thema Code teil. Wir freuen uns!
 :::

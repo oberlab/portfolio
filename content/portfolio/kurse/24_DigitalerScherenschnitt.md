@@ -19,17 +19,17 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Du hast eine Erfindung, die die Welt verändern wird, aber es darf niemand davon wissen? Du möchtest jemandem einen Liebesbrief schreiben, den sonst niemand lesen darf? Dann werde mit Hilfe des Oberlab-Geheimdienstes zum secret agent und entwickle deine eigene Geheimtinte aus Hausmitteln.          
+Stellt euch vor, in eurem Zimmer hängt ein Profilbild von euch aus einem sehr großen Stück Papier, das ihr sowohl selbst gestaltet und mit einem Laser ausgeschnitten habt. Klingt nach einer Vorstellung, die sich nie erfüllen wird, es sei denn, ihr nehmt an diesem Kurs teil, indem ihr genau das macht, um eure Schokoladenseite zu verewigen. Lächeln, bitte!         
 :::
 
 :::learning_goals  
-In Hausmitteln steckt mehr drin, als man zunächst ahnt. Gerade die Küchenchemie bietet ein breites Spektrum an fantastischen Experimenten, die man gar nicht erwartet hätte. Wir drehen deine Küche auf links und zaubern Geheimtinte auf den Tisch. Aber psst!! Verrate das Rezept niemandem!                   
+Von der echten Welt in die digitale Welt! Aber wie geht das? Hier wird am eigenen Profilbild gezeigt, wie man mit Computern und Maschinen kommunizieren kann, damit sie genau das machen, was man gerne hätte. Dabei werden Informatikfertigkeiten gestärkt.                   
 :::
 
 :::message  
-Bei dem Begriff "Chemikalien" denkt man gleich an schädliche Stoffe. Dass aber das Kochen von einem Braten eine Kombination aus tausenden Chemikalien und Reaktionen ist, wird oft vergessen. Schnappt man sich nun die richtigen Chemikalien in Form von Obst und verbindet sie geschickt mit geheimen Zutaten, lässt sich sogar eine Geheimtinte herstellen, ohne dass man Angst um seine Gesundheit haben muss.     
+Dieser Kurs zeigt, wie einfach es ist, aus einem echten Portrait eine digitale Kopie anzufertigen, die mittels eines Lasers oder Schneideplotter Papier im richtigen Pfad schneidet.    
 :::  
 
 :::special_notes  
-Vampire aufgepasst: Wir werden mit Knoblauch arbeiten.     
+Euer Profilbild und die Datei nehmt ihr selbstverständlich mit nach Hause, habt also am besten einen USB-Stick parat.    
 :::

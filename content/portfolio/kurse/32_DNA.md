@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Der Mörder war wieder der Gärtner. Ja, ist dem wirklich so? Wer kann denn das Gegenteil behaupten? Schlüpfe in die Rolle eines Forensikers ein und finde den Täter, denn wir sehen uns in diesem Kurs einmal genau die Bauanleitung allen Lebens an und wollen sie mittels einer PCR einwandfrei der Täter:in zuordnen. Das klingt Nach Anstrengung (DNA).             
+Der Mörder war wieder der Gärtner. Ja, ist dem wirklich so? Wer kann denn das Gegenteil behaupten? Schlüpfe in die Rolle eines Forensikers und finde den Täter, denn wir sehen uns in diesem Kurs einmal genau die Bauanleitung allen Lebens an und wollen sie mittels einer PCR einwandfrei der Täter:in zuordnen. Das klingt Nach Anstrengung (DNA).             
 :::
 
 :::learning_goals  

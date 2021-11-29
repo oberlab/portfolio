@@ -19,17 +19,17 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Stellt euch vor, in eurem Zimmer hängt ein Profilbild von euch aus einem sehr großen Stück Papier, das ihr sowohl selbst gestaltet und mit einem Laser ausgeschnitten habt. Klingt nach einer Vorstellung, die sich nie erfüllen wird, es sei denn, ihr nehmt an diesem Kurs teil, indem ihr genau das macht, um eure Schokoladenseite zu verewigen. Lächeln, bitte!
 :::
 
 :::message  
-
+Dieser Kurs zeigt, wie einfach es ist, aus einem echten Portrait eine digitale Kopie anzufertigen, die mittels eines Lasers oder Schneideplotter Papier im richtigen Pfad schneidet.
 :::
 
 :::process
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mit großen Kartonpapieren verschiedener Farben, einer Kamera, einem Lasercutter und einem Schneideplotter kommen wir angerollt, um euer Profilbild zu verwirklichen. Moment, wir verwirklichen das? Nein, wir stellen das Wissen und das Equipment, aber der Weg von Bild zu digitalem Pfad bestreitet ihr mit unserer Hilfe.
 :::
 
 :::special_notes  
-
+Euer Profilbild und die Datei nehmt ihr selbstverständlich mit nach Hause, habt also am besten einen USB-Stick parat.
 :::

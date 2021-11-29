@@ -27,7 +27,7 @@ Egal ob im Handy, in Controllern von Spielekonsolen oder elektrischen Zahnbürst
 :::  
 
 :::process
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Zuerst werdet ihr eine Bambus-Zahnbürste köpfen und den Kopf etwas in Form bringen. Der Motor und der Sockel für die Batterie werden mit Heißkleber aufgebracht. Jetzt sieht eure Figur noch sehr nach einem Zahnbürstenkopf mit Batterie aus, das ändert sich im nächsten Schritt: Wir haben allerhand Bastelmaterial, Glitzerkleber, Pfeifenreiniger und Wackelaugen dabei, damit euer Tier so einzigartig wie möglich werden kann. Zum Schluss lassen wir die Bots in einer kleinen Arena gegeneinander antreten, möge der Bessere gewinnen.
 :::
 
 :::special_notes  

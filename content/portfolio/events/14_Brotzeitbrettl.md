@@ -27,7 +27,7 @@ In diesem Kurs lernt ihr die Grundlagen von Grafikdesign. Wie tief ihr einsteige
 :::  
 
 :::process
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Zunächst such ihr euch eueren Holzrohling aus. Bei Bedarf könnt ihr mit einer Oberfräse die Kanten des Brettes noch abschleifen. Ihr dürft selbst ein Motiv designen, das auf das Brett kommt, oder ihr sucht ein Motiv aus; wir haben reichlich vorgefertigte Motive dabei. Den letzten Schritt übernimmt der Lasercutter, dem natürlich ihr ganz genau sagt, was er zu tun hat. Aber wie redet man mit einer Maschine? Findet es heraus!
 :::
 
 :::special_notes  

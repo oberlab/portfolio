@@ -27,7 +27,7 @@ Klar ist, dass man aus Kupfer nicht einfach Gold machen kann. In der Verbindung 
 :::  
 
 :::process
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Zunächst werden eure Münzen ordentlich mit Salzsäure gereinigt, um dann letztlich in einem heißen Laugenbad mit Zink überzogen zu werden. Nach diesem Schritt sind die Münzen kräftig silbrig. Wer also lieber ein Silbermünzchen haben möchte, hört nach diesem Schritt auf, für Goldgräber:innen: Ihr fönt eure Münzen danach ordentlich ab und werdet von der Magie der Chemie erstaunt werden.
 :::
 
 :::special_notes  

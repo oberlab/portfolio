@@ -23,11 +23,11 @@ Beim Puzzlekauf sucht ihr euch oft die schönsten Motive aus, die es im Angebot 
 :::
 
 :::message  
-Zu sämtlichen Anlässen ein persönliches und individuellen Geschenk parat zu haben erfreut die beschenkte Person umso mehr. Erweckt eure Zeichnung zum Leben und verleiht eurem Puzzle euren persönlichen Stempel. Alleinstehungsmerkmal ist hier garantiert.
+Zu sämtlichen Anlässen ein persönliches und individuellen Geschenk parat zu haben, erfreut die beschenkte Person umso mehr. Erweckt eure Zeichnung zum Leben und verleiht eurem Puzzle euren persönlichen Stempel. Alleinstehungsmerkmal ist hier garantiert.
 :::
 
 :::process
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Aus kleinen Fichtenplatten wird euer Puzzle gefertigt. Das Puzzlemuster wird zufällig generiert, darum müsst ihr euch also nicht kümmern. Lediglich das Gestalten und auslasern wird eure Aufgabe sein. Ihr gestaltet das Muster auf einem Papier, scannt es ein, digitalisiert es und der Laser hat die ehrenhafte Aufgabe, euer Meisterwerk letztlich umzusetzen.
 :::
 
 :::special_notes  

@@ -19,17 +19,17 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Der Experimentierklub ist das Paket mit der größten Bandbreite an Themengebieten. Von Programmieren, Designen, 3D-Druck, spannenden chemischen Experimenten und viel Naturwissenschaft ist alles dabei, was das Forscher:innenherz höher schlagen lässt. Das Angebot eignet sich perfekt an Schulen, um bestimmte MINT-Bereiche zu erweitern.   
 :::
 
 :::learning_goals  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ziel ist es, dass durch praktisches Experimentieren, die Teilnehmer:innen früh eine eigene Expertise aufbauen und lernen, mit Informationen aus dem Alltag richtig umzugehen. Nur, wer etwas einmal persönlich erforscht und praktiziert hat, weiß, wie der Hase läuft und kann mit Falschinformation besser umgehen.
 :::
 
 :::message  
-
+"Eine PCR kann nicht funktionieren", "Gesalzenes Wasser kocht schneller", "Kellerasseln sind Käfer", "Feuer ist immer heiß". All diese Aussagen enthalten Falschinformation. Die Teilnehmer:innen sollen lernen, nicht immer der lautesten Stimme zuzuhören, sondern ihre eigene Expertise legen. Durch Forschen und Experimentieren an kontextbezogenen Themen wird der Grundstein für ein kritischeres Denken gelegt.
 :::  
 
 :::special_notes  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In vielen Kurseinheiten werdet ihr etwas Herstellen, das ihr selbstverständlich mit nach Hause nehmen dürft.
 :::
