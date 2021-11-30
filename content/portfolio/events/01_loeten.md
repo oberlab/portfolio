@@ -27,7 +27,7 @@ In diesem Kurs lernt ihr etwas über die Grundlagen von Elektronik und dürft mi
 :::
 
 :::process
-Verschiedene Platinen stehen euch zur Verfügung und ihr könnt auswählen zwischen einfachen Lötplatinen und SMD-Platinen. Die SMD-Platinen sind für Fortgeschrittene und setzen einige Löterfahrung voraus. Zudem sind diese Platinen etwas kniffelig, aber nicht unmöglich. Wir stellen sechs Lötstationen und ausreichend Material zur Verfügung, damit keiner ohne seine eigene Platine nach Hause gehen muss.
+Verschiedene Platinen stehen euch zur Verfügung und ihr könnt auswählen zwischen einfachen Lötplatinen und SMD-Platinen. Die SMD-Platinen sind für Fortgeschrittene und setzen einige Löterfahrung voraus. Zudem sind diese Platinen etwas kniffelig, aber nicht unmöglich. Wir stellen vier Lötstationen und ausreichend Material zur Verfügung, damit keiner ohne seine eigene Platine nach Hause gehen muss.
 :::
 
 :::special_notes

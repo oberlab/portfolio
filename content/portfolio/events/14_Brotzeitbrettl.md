@@ -16,7 +16,7 @@ curriculum_reference:
   Realschule: Ph9-10 We5-8 It 2.4
   Gymnasium: NT5 NT6+7 2
 image_result: ../content/img/kurse/brettl_result.png
-image_process: ../conten/img/kurse/dummy_process.png
+image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
 Euer Brotzeitbrettl ist langweilig und bleibt häufig unbenutzt? Ihr wollt daran etwas ändern? Dann seid ihr bei unserem Workshop genau richtig! Wir gravieren gemeinsam euer Motiv auf ein Brotzeitbrettl, das auf jeden Fall der Hingucker für die nächste Brotzeit wird. Ihr könnt euch Motive aus unseren Vorlagen aussuchen, daraus ein individuelles Design für euer Brotzeitbrettl zusammenstellen und anschließend mit unserem Lasercutter in das Holz einbrennen.

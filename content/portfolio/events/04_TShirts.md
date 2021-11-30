@@ -27,9 +27,9 @@ Du wolltet schon immer einmal dein ganz eigenes Design oder Logo auf einem T-Shi
 :::  
 
 :::process
-Zunächst muss die Idee in eurem Kopf digitalisiert werden. Dafür werdet ihr einen Einstieg mit Inkscape erhalten. Solltet ihr unentschlossen sein, haben wir eine breite Auswahl an Motiven und Texten dabei. Anschließend könnt ihr aus verschiedenen Farben und Folien auswählen, was auf euer Shirt soll. Von Glitzer bis lila-blass-blau ist alles dabei. Zuletzt bügelt ihr dann noch euer Motiv mit einer Presse auf und zack, euer Shirt ist nun etwas ganz einzigartiges.
+Zunächst muss die Idee in eurem Kopf digitalisiert werden. Solltet ihr unentschlossen sein, haben wir eine breite Auswahl an Motiven und Texten dabei. Anschließend könnt ihr aus verschiedenen Farben und Folien auswählen, was auf euer Shirt soll. Von Glitzer bis lila-blass-blau ist alles dabei. Zuletzt bügelt ihr dann noch euer Motiv mit einer Presse auf und zack, euer Shirt ist nun etwas ganz einzigartiges.
 :::
 
 :::special_notes  
-Gerne stellen wir T-Shirts gegen einen Preis von 5€. Markenlogos dürfen wir leider aus Datenschutzgründen nicht auf die T-Shirts drucken.      
+Gerne stellen wir T-Shirts gegen einen Preis von 10€. Markenlogos dürfen wir leider aus Datenschutzgründen nicht auf die T-Shirts drucken.      
 :::
