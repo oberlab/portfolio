@@ -19,11 +19,11 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Dass Blätter grün sind, ist lange kein Geheimnis mehr. Aber wo kommt diese grüne Farbe her? Oder wo ist eigentlich die Flüssigkeit in Zwiebeln gespeichert, die dir beim Schneiden die Tränen in die Augen treibt? Unser Auge ist für so kleine Gebilde nicht geeignet, weswegen wir uns das Mikroskop zur Hilfe nehmen werden. In diesem Kurs wirst du ein 3D-gedrucktes Mikroskop zusammenbauen und die Welt aus einem ganz neuen Blickwinkel kennenlernen.      
+Dass Blätter grün sind, ist lange kein Geheimnis mehr. Aber wo kommt diese grüne Farbe her? Oder wo ist eigentlich die Flüssigkeit in Zwiebeln gespeichert, die euch beim Schneiden die Tränen in die Augen treibt? Unser Auge ist für so kleine Gebilde nicht geeignet, weswegen wir uns das Mikroskop zur Hilfe nehmen werden. In diesem Kurs werdet ihr ein 3D-gedrucktes Mikroskop zusammenbauen und die Welt aus einem ganz neuen Blickwinkel kennenlernen.      
 :::
 
 :::learning_goals  
-Ein 3D-gedrucktes Mikroskop wird mit einer Kamera und einem Raspberry Pi ausgestattet, um den Mikrokosmos erkunden zu können. Nach Anschluss an einen Computer kann das Mikroskop angesteuert werden. Du wirst erstaunt sein, wie leicht man kleinste Lebewesen beobachten kann.             
+Schäler:innen wird hier die Welt des Unsichtbaren gezeigt. Sie bauen ein 3D-gedrucktes Mikroskop zusammen und steuern es über eine Computersoftware an, sodass ihnen die komplette Kontrolle über das Mikroskop gegeben wird.               
 :::
 
 :::message  

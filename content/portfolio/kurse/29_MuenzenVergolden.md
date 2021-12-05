@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-"Es ist nicht alles Gold, was glänzt", nun, diese Behauptung mag wohl stimmen, aber wie wäre es, wenn du einfach aus einer Kupfermünze eine Goldmünze machst? Wenn das so einfach wäre, dann würde die Welt ja nur so funkeln; zumindest kann man Kupfermünzen mit einer gold-glänzenden Schicht überziehen und damit den Eindruck erwecken, dass es sich um Gold handelt. Das bleibt aber unser Geheimnis ;)          
+"Es ist nicht alles Gold, was glänzt", nun, diese Behauptung mag wohl stimmen, aber wie wäre es, wenn ihr einfach aus einer Kupfermünze eine Goldmünze macht? Wenn das so einfach wäre, dann würde jeder mit Gold herumlaufen. Man kann zumindest Kupfermünzen mit einer gold-glänzenden Schicht überziehen und damit den Eindruck erwecken, dass es sich um Gold handelt. Das bleibt aber unser Geheimnis ;)          
 :::
 
 :::learning_goals  
@@ -31,5 +31,5 @@ Klar ist, dass man aus Kupfer nicht einfach Gold machen kann. In der Verbindung 
 :::  
 
 :::special_notes  
-Bring gerne mehrere Kupfermünzen mit oder sogar ein wenig Kupferblech, um deinen eigenen Geldbeutel in eine wahrhaftige Schatzkiste zu verwandeln.     
+Bringt gerne mehrere Kupfermünzen mit oder sogar ein wenig Kupferblech, um euren eigenen Geldbeutel in eine wahrhaftige Schatzkiste zu verwandeln.     
 :::

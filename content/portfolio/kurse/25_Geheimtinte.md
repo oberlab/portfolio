@@ -19,11 +19,11 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Du hast eine Erfindung, die die Welt verändern wird, aber es darf niemand davon wissen? Du möchtest jemandem einen Liebesbrief schreiben, den sonst niemand lesen darf? Dann werde mit Hilfe des Oberlab-Geheimdienstes zum secret agent und entwickle deine eigene Geheimtinte aus Hausmitteln.          
+Ihr habt eine Erfindung, die die Welt verändern wird, aber es darf niemand davon wissen? Ihr möchtet jemandem einen Liebesbrief schreiben, den sonst niemand lesen darf? Dann werdet mit Hilfe des Oberlab-Geheimdienstes zum secret agent und entwickelt eure eigene Geheimtinte aus Hausmitteln.          
 :::
 
 :::learning_goals  
-In Hausmitteln steckt mehr drin, als man zunächst ahnt. Gerade die Küchenchemie bietet ein breites Spektrum an fantastischen Experimenten, die man gar nicht erwartet hätte. Wir drehen deine Küche auf links und zaubern Geheimtinte auf den Tisch. Aber psst!! Verrate das Rezept niemandem!                   
+In Hausmitteln steckt mehr drin, als man zunächst ahnt. Gerade die Küchenchemie bietet ein breites Spektrum an fantastischen Experimenten, die man gar nicht erwartet hätte. Die Schüler:innen lernen die Grundkenntnisse der Chemikalien der Küche und eine erste Einsatzmöglichkeit kennen.  
 :::
 
 :::message  

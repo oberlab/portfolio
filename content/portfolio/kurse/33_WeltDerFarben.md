@@ -23,7 +23,7 @@ Nach manchem Regenschauer, wenn die Sonne lacht, erscheint ein Regenbogen am Him
 :::
 
 :::learning_goals  
-Farben erwecken ein Mandala oder ein schwarz-weißes Bild erst so richtig zum Leben. In diesem Kurs werden Farben ganz genau untersucht und das Zustandekommen von den verschiedensten Farben experimentell ergründet. Ob der Tintenkiller die Tinte wirklich killt, können die Teilnehmer:innen danach erklären.                 
+Schüler:innen können nach diesem Kurs Farbigkeit erklären und wie sich sämtliche Farben zusammensetzen, indem sie durch Chromatographie verschiedene Filzstifte untersuchen.                  
 :::
 
 :::message  

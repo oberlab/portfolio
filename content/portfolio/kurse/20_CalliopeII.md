@@ -23,11 +23,11 @@ Die Kurse "Coding unplugged" und "Calliope programmieren" sind nur die Spitze de
 :::
 
 :::learning_goals  
-Manchmal lohnt sich ein Blick über den Tellerrand, um bereits erlerntes Handwerkszeug erweiterbar einzusetzen. Von einer Raumluftüberwachung, bis zu einem kleinen Rennauto ist alles dabei. Du bestimmst die Regeln und das Einsatzgebiet.             
+Manchmal lohnt sich ein Blick über den Tellerrand, um bereits erlerntes Handwerkszeug erweiterbar einzusetzen. Von einer Raumluftüberwachung, bis zu einem kleinen Rennauto ist alles dabei. Die Schüler:innen sollen lernen, dass das bereits Gelernte erweitert werden kann und man nicht auf der Stelle stehen bleibt.              
 :::
 
 :::message  
-Neue Lösungsstrategien mit Erlerntem zu entwickeln und umzusetzen ist ein schwieriger Schritt. Dieser Kurs liefert dir die nötigen Denkanstöße.      
+Neue Lösungsstrategien mit Erlerntem zu entwickeln und umzusetzen ist ein schwieriger Schritt. Dieser Kurs liefert euch die nötigen Denkanstöße.      
 :::  
 
 :::special_notes  
