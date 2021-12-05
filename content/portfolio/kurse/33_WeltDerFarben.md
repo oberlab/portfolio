@@ -23,7 +23,7 @@ Nach manchem Regenschauer, wenn die Sonne lacht, erscheint ein Regenbogen am Him
 :::
 
 :::learning_goals  
-Schüler:innen können nach diesem Kurs Farbigkeit erklären und wie sich sämtliche Farben zusammensetzen, indem sie durch Chromatographie verschiedene Filzstifte untersuchen.                  
+Schüler:innen können nach diesem Kurs Farbigkeit erklären und wie sich sämtliche Farben zusammensetzen, indem sie durch Chromatographie verschiedene Filzstifte untersuchen.                   
 :::
 
 :::message  
