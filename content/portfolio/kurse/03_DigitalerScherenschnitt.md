@@ -23,7 +23,7 @@ Stellt euch vor, in eurem Zimmer hängt ein Profilbild von euch aus einem sehr g
 :::
 
 :::learning_goals  
-Von der echten Welt in die digitale Welt! Aber wie geht das? Hier wird am eigenen Profilbild gezeigt, wie man mit Computern und Maschinen kommunizieren kann, damit sie genau das machen, was man gerne hätte. Dabei werden Informatikfertigkeiten gestärkt.                   
+Von der echten Welt in die digitale Welt! Aber wie geht das? Hier wird den Schüler:innen am eigenen Profilbild gezeigt, wie man mit Computern und Maschinen kommunizieren kann, damit sie genau das machen, was man gerne hätte. Somit werden zudem Informatikfertigkeiten gestärkt.                   
 :::
 
 :::message  

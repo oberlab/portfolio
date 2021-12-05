@@ -18,15 +18,15 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Du möchtest dir eine Wetterstation selber bauen? Dann bist du hier richtig. Das Holz-Gehäuse erstellen wir mit einem Lasercutter und danach geht es an das Innenleben der Wetterstation. Wir programmieren einen Arduino NANO und verbinden einen Sensor sowie ein Display mit dem Microcontroller. Das Display zeigt dir die Temperatur, die Luftfeuchtigkeit und den Luftdruck an, dabei werden die Sensorwerte in regelmäßigen Abständen aktualisiert.        
+Ihr möchtet euch eine Wetterstation selber bauen? Dann seid ihr hier richtig. Das Holz-Gehäuse erstellen wir mit einem Lasercutter und danach geht es an das Innenleben der Wetterstation. Wir programmieren einen Arduino NANO und verbinden einen Sensor, sowie ein Display mit dem Microcontroller. Das Display zeigt euch die Temperatur, die Luftfeuchtigkeit und den Luftdruck an, dabei werden die Sensorwerte in regelmäßigen Abständen aktualisiert.        
 :::
 
 :::learning_goals  
-Beobachte das Wetter in deinem Ort oder deiner Umgebung und sei dein eigener Wetterfrosch, der noch vor allen anderen Medien das aktuelle Wetter verkündet. Die Besonderheit: Du hast alles selbst gebaut und programmiert, was sonst keiner im Wetterdienst von sich behaupten kann.              
+Beobachtet das Wetter in eurem Ort oder deiner Umgebung und seid euer eigener Wetterfrosch, der noch vor allen anderen Medien das aktuelle Wetter verkündet. Die Besonderheit: Die Schüler:innen haben alles selbst gebaut und programmiert, was sonst keiner im Wetterdienst von sich behaupten kann.              
 :::
 
 :::message  
-Etwas selber zu bauen ist ein tolles Erlebnis und die Wetterstation kannst du mit nach Hause nehmen. Vielleicht inspiriert dich das Erlernte und du hast Lust auf ein weiteres Projekt. Wir helfen dir dabei.    
+Etwas selber zu bauen ist ein tolles Erlebnis und die Wetterstation könnt ihr mit nach Hause nehmen. Vielleicht inspiriert euch das Erlernte und ihr habt Lust auf ein weiteres Projekt. Wir helfen euch dabei.    
 :::  
 
 :::special_notes  

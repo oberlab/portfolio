@@ -23,7 +23,7 @@ Jeder wird schwach, wenn es um Naschereien beim beim Fernsehen geht. Wie wäre e
 :::
 
 :::learning_goals  
-Mit Holz kann man nicht nur ein gutes Feuer machen, sondern auch Kisten, Möbel und M&M-Automaten bauen. Hier wirst du Holz, Glas und Schrauben aus einem neuem Blickwinkel kennenlernen. Wie wäre es denn mal mit einem Sußigkeitenspender, der deinen Namen trägt. Kein Problem, der Lasercutter regelt das.                       
+Mit Holz kann man nicht nur ein gutes Feuer machen, sondern auch Kisten, Möbel und M&M-Automaten bauen. Hier werden die Schüler:innen Holz, Glas und Schrauben aus einem neuem Blickwinkel kennenlernen. Sowohl motorische als auch kreative Komponenten werden hier gefördert.                         
 :::
 
 :::message  

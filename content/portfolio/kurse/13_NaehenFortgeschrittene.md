@@ -18,7 +18,7 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Du arbeitest schon ab und zu mal selbstständig an einer Nähmaschine und möchtest jetzt mal richtig nach einem Schnitt nähen? Wir nähen einen Turnbeutel oder auch Matchsack aus 2 verschiedenen Stoffen, der ab jetzt dein täglicher Begleiter sein wird.    
+Ihr arbeitet schon ab und zu mal selbstständig an einer Nähmaschine und möchtet jetzt mal richtig nach einem Schnitt nähen? Wir nähen einen Turnbeutel oder auch Matchsack aus zwei verschiedenen Stoffen, der ab jetzt euer täglicher Begleiter sein wird.    
 :::
 
 :::learning_goals  

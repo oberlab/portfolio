@@ -19,11 +19,11 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Ein Stempel ist wie der persönliche Fingerabdruck am Ende eines Briefes, doch leider sind die Motive oft schon vorgegeben. In diesem Workshop gestaltest du deinen ganz persönlichen Stempel am Computer und schneidest ihn danach mit dem Lasercutter aus.  Ein Kätzchen, ein Pokémon, ein Palatschinken oder dein Name, alles geschieht nach deinen Vorstellungen.            
+Ein Stempel ist wie der persönliche Fingerabdruck am Ende eines Briefes, doch leider sind die Motive oft schon vorgegeben. In diesem Workshop gestaltet ihr einen ganz persönlichen Stempel am Computer und schneidet ihn danach mit dem Lasercutter aus.  Ein Kätzchen, ein Pokémon, ein Palatschinken oder dein Name, alles geschieht nach euren Vorstellungen.            
 :::
 
 :::learning_goals  
-Ob zu künstlerischen oder zu anderen Zwecken, ein Stempel lässt sich täglich verschieden einsetzen. Um Briefen oder Bildern im wahrsten Sinne deinen "Stempel aufzudrücken", gestaltest du ganz nach deinen Vorstellungen einen Stempel und lernst dabei, wie man mit Grafikprogrammen und dem Lasercutter umgeht.                   
+Ob zu künstlerischen oder zu anderen Zwecken, ein Stempel lässt sich täglich verschieden einsetzen. Um Briefen oder Bildern im wahrsten Sinne euren "Stempel aufzudrücken", gestaltet ihr ganz nach euren Vorstellungen einen Stempel und lernt dabei, wie man mit Grafikprogrammen und dem Lasercutter umgeht.                   
 :::
 
 :::message  

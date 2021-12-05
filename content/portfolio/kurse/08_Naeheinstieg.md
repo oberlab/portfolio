@@ -18,7 +18,7 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Du wolltest schon immer mal mit einer Nähmaschine kreativ werden? Hier lernst du alle Teile und ihre Funktion kennen. Das erste Projekt ist ein bunter Spüllappen an dem wir alle Sticharten ausprobieren. Danach nähst du ein Stiftemäppchen mit Reißverschluss und kannst es nach Wunsch verzieren.  
+Ihr wolltet schon immer mal mit einer Nähmaschine kreativ werden? Hier lernt ihr alle Teile und ihre Funktion kennen. Das erste Projekt ist ein bunter Spüllappen, an dem wir alle Sticharten ausprobieren. Danach nähen wir ein Stiftemäppchen mit Reißverschluss und ihr könnt es anschließend nach Wunsch verzieren.  
 :::
 
 :::learning_goals  

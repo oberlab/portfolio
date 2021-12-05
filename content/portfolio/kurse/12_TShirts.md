@@ -19,15 +19,15 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Du wolltet schon immer einmal dein ganz eigenes Design oder Logo auf einem T-Shirt haben? In diesem Kurs wird dieser Wunsch Wirklichkeit, denn mittels einem Designprogramm, einem Schneideplotter und einer Bügelpresse wird aus deinem T-Shirt etwas ganz einzigartiges, das garantiert niemand sonst besitzt. Wir liefern das Werkzeug, du den kreativen Input.            
+Ihr wolltet schon immer einmal dein ganz eigenes Design oder Logo auf einem T-Shirt haben? In diesem Kurs wird dieser Wunsch Wirklichkeit, denn mittels einem Designprogramm, einem Schneideplotter und einer Bügelpresse wird aus eurem T-Shirt etwas ganz einzigartiges, das garantiert niemand sonst besitzt. Wir liefern das Werkzeug, ihr den kreativen Input.            
 :::
 
 :::learning_goals  
-Beim Kauf von Kleidungsstücken achten wir darauf, dass das Motiv unseren Vorstellungen entspricht, was sich oft als schwierig erweist. Dieser Kurs zeigt dir, wie einfach das Gestalten eines Motives am Computer ist und wie viel Freude es macht, wenn das eigene T-Shirt fertig ist.                     
+Beim Kauf von Kleidungsstücken achten wir darauf, dass das Motiv unseren Vorstellungen entspricht, was sich oft als schwierig erweist. Dieser Kurs zeigt Schüler:innen, wie einfach das Gestalten eines Motives am Computer ist und wie viel Freude es macht, wenn das eigene T-Shirt fertig ist.                     
 :::
 
 :::message  
-"Matheprofi", oder "Einrad-Champ" auf einem Kleidungsstück muss man sich verdienen? Nein, du entwirfst, was du gerne auf deinem Shirt haben möchtest und zeigst der ganzen Welt, dass Fledermäuse mit Kopfhörern cool sind. Dein Design, deine Idee, dein T-Shirt!    
+"Matheprofi", oder "Einrad-Champ" auf einem Kleidungsstück muss man sich verdienen? Nein, ihr entwerft, was ihr gerne auf eurem Shirt haben möchtet und zeigt der ganzen Welt, dass Fledermäuse mit Kopfhörern cool sind. Euer Design, Eure Idee, euer T-Shirt!    
 :::  
 
 :::special_notes  

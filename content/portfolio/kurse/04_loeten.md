@@ -23,7 +23,7 @@ Eine verrückte Fledermaus, ein gruseliger Geist oder ein netter Roboter. Wir sc
 :::
 
 :::learning_goals
-Die Schüler:innen verstehen die Grundlagen der Elektronik (Strom und elektrische Komponenten) und lernen dabei den Umgang mit dem Lötkolben kennen. Sie können die elektrische Schaltungen nachvollziehen und sie selbstständig anpassen.
+Die Schüler:innen verstehen die Grundlagen der Elektronik (Strom und elektrische Komponenten) und lernen dabei den Umgang mit dem Lötkolben kennen. Sie können elektrische Schaltungen nachvollziehen und sie selbstständig anpassen.
 :::
 
 :::message

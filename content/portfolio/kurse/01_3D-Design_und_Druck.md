@@ -27,7 +27,7 @@ In diesem Kurs erfahren die Schüler:innen eine Schnittmenge aus verschiedenen M
 :::
 
 :::message  
-Wenn ihr eine coole Idee für eine Figur oder sogar ein ganzes Modell in eurem Kopf habt und ihr diese Idee gerne in die Tat umsetzen wollt, könnt ihr das bei diesem Workshop definitiv tun. Ihr habt die Idee, wir den Drucker: Los gehts!
+Wenn ihr eine coole Idee für eine Figur oder sogar ein ganzes Modell in eurem Kopf habt und ihr diese Idee gerne realisieren wollt, könnt ihr das bei diesem Workshop definitiv tun. Ihr habt die Idee, wir den Drucker: Los gehts!
 :::  
 
 :::special_notes  

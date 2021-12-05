@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Die kleine Schildkröte Turtle hört auf dein Kommando. Sie zeichnet einzigartige Muster, die später von der Nähmaschine auf Filzuntersetzer nachgezeichnet werden.    
+Die kleine Schildkröte Turtle hört auf euer Kommando. Sie zeichnet einzigartige Muster, die später von der Nähmaschine auf Filzuntersetzer nachgezeichnet werden.    
 :::
 
 :::learning_goals  

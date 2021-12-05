@@ -19,12 +19,11 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Computer Aided Design, computergestütztes Design, ein Designverfahren, bei dem man am Anfang ohne Anleitung wie der Ochs vorm Berg steht. Gemeinsam werden wir in diesem Kurs das nötige mathematische Werkzeug mit Programmierung verknüpfen und dir zum Weg zu deinem 3D-Traumobjekt verhelfen.               
+Computer Aided Design, computergestütztes Design, ein Designverfahren, bei dem man am Anfang ohne Anleitung wie der Ochs vorm Berg steht. Gemeinsam werden wir in diesem Kurs das nötige mathematische Werkzeug mit Programmierung verknüpfen, damit ihr nicht mehr vor 2D-, oder 3D-Designhürden steht.                
 :::
 
 :::learning_goals  
-Um die Ecke denken will gelernt sein. In diesem Kurs wird der Grundstein für ein mathematisches Grundverständnis in der dreidimensionalen Konstruktion am Computer gelegt. Anhand einfacher Objekte und kompetenter Hilfe wird dir in Zukunft kein 3D-Objekt mehr misslingen.                        
-:::
+Um die Ecke denken will gelernt sein. In diesem Kurs wird der Grundstein für ein mathematisches Grundverständnis in der Konstruktion am Computer gelegt. Egal, ob 2D oder 3D, dieser Kurs ist der Startschuss für alle CAD-Belange.
 
 :::message  
 Viele Wege führen nach Rom und der Weg zu einem 3D-Objekt führt zwangsläufig über CAD, weswegen eine Kenntnis im Umgang mit CAD-Programmen von unschätzbarem Wert ist. Dieser Kurs wird dir den Weg zu deinem 3D-Objekt ebnen.    
