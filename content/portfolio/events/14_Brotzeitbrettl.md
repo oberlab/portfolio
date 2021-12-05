@@ -10,24 +10,24 @@ attributes:
   school_subject: NuT
   mobile: teilweise mobiles Angebot
 curriculum_reference:
-  Grundschule: WG3/4   
-  Mittelschule: NT5-10 IdiG2 T7-9 WiB 5-10
-  Förderschule: WG5-6 T7-9 IdiG
-  Realschule: Ph9-10 We5-8 It 2.4
-  Gymnasium: NT5 NT6+7 2
+  Grundschule:   
+  Mittelschule:
+  Förderschule:
+  Realschule:
+  Gymnasium:
 image_result: ../content/img/kurse/brettl_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Euer Brotzeitbrettl ist langweilig und bleibt häufig unbenutzt? Ihr wollt daran etwas ändern? Dann seid ihr bei unserem Workshop genau richtig! Wir gravieren gemeinsam euer Motiv auf ein Brotzeitbrettl, das auf jeden Fall der Hingucker für die nächste Brotzeit wird. Ihr könnt euch Motive aus unseren Vorlagen aussuchen, daraus ein individuelles Design für euer Brotzeitbrettl zusammenstellen und anschließend mit unserem Lasercutter in das Holz einbrennen.
+Ein Andenken, das Schnittfest und robust ist und deinen Fingerabdruck trägt wird bei diesem Event Wirklichkeit. Wir gravieren gemeinsam euer Motiv auf ein Brotzeitbrettl, das auf jeden Fall der Hingucker für die nächste Brotzeit wird. Ihr könnt euch Motive aus unseren Vorlagen aussuchen, daraus ein individuelles Design für euer Brotzeitbrettl zusammenstellen und anschließend mit unserem Lasercutter in das Holz einbrennen.
 :::
 
 :::message
-In diesem Kurs lernt ihr die Grundlagen von Grafikdesign. Wie tief ihr einsteigen möchtet bestimmt ihr! Außerdem zeigen wir euch, wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir eurem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Euer individuell gestaltetes Brotzeitbrettl dürft ihr natürlich mit nach Hause nehmen.
+Dieses Event liefert zudem einen Einstieg in das Designgn am PC. Wie tief ihr einsteigen möchtet bestimmt ihr! Außerdem zeigen wir euch, wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir eurem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Euer individuell gestaltetes Brotzeitbrettl dürft ihr natürlich mit nach Hause nehmen.
 :::  
 
 :::process
-Zunächst such ihr euch eueren Holzrohling aus. Bei Bedarf könnt ihr mit einer Oberfräse die Kanten des Brettes noch abschleifen. Ihr dürft selbst ein Motiv designen, das auf das Brett kommt, oder ihr sucht ein Motiv aus; wir haben reichlich vorgefertigte Motive dabei. Den letzten Schritt übernimmt der Lasercutter, dem natürlich ihr ganz genau sagt, was er zu tun hat. Aber wie redet man mit einer Maschine? Findet es heraus!
+Zunächst such ihr euch eueren Holzrohling aus. Bei Bedarf könnt ihr mit einer Oberfräse die Kanten des Brettes noch abschleifen. Ihr dürft selbst ein Motiv designen, das auf das Brett kommt, oder ihr sucht ein Motiv aus; wir haben reichlich vorgefertigte Motive dabei. Den letzten Schritt übernimmt der Lasercutter, dem natürlich ihr ganz genau sagt, was er zu tun hat.
 :::
 
 :::special_notes  

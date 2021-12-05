@@ -10,20 +10,20 @@ attributes:
   school_subject: MINT
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG1/2 WG3/4 HSU3/4  
-  Mittelschule: NT5-10
-  Förderschule: NT5-9   
-  Realschule: C8-9 4 C10 5
-  Gymnasium: C8-10
+  Grundschule:
+  Mittelschule:
+  Förderschule:    
+  Realschule:
+  Gymnasium:
 image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Du wolltet schon immer einmal dein ganz eigenes Design oder Logo auf einem T-Shirt haben? In diesem Kurs wird dieser Wunsch Wirklichkeit, denn mittels einem Designprogramm, einem Schneideplotter und einer Bügelpresse wird aus deinem T-Shirt etwas ganz einzigartiges, das garantiert niemand sonst besitzt. Wir liefern das Werkzeug, du den kreativen Input.            
+Bei einer Veranstaltung mit einem T-Shirt nach Hause gehen, das das eigene Design trägt und selbst bedruckt wurde? Wir bringen die nötige Ausstattung und Equipment mit, damit aus diesem tollen Gedanken Realität wird.
 :::
 
 :::message  
-"Matheprofi", oder "Einrad-Champ" auf einem Kleidungsstück muss man sich verdienen? Nein, du entwirfst, was du gerne auf deinem Shirt haben möchtest und zeigst der ganzen Welt, dass Fledermäuse mit Kopfhörern cool sind. Dein Design, deine Idee, dein T-Shirt!    
+Ein Elefant, der mit einem Hut auf einem Fahrrad fährt. Klingt etwas absurd, aber nichts spricht dagegen, der Welt so ein Motiv auf dem eigenen T-Shirt zu zeigen. Im Krieg und der Liebe ist alles erlaubt; so ist es auch beim Desginen!    
 :::  
 
 :::process
@@ -31,5 +31,5 @@ Zunächst muss die Idee in eurem Kopf digitalisiert werden. Solltet ihr unentsch
 :::
 
 :::special_notes  
-Gerne stellen wir T-Shirts gegen einen Preis von 10€. Markenlogos dürfen wir leider aus Datenschutzgründen nicht auf die T-Shirts drucken.      
+Gerne stellen wir T-Shirts gegen einen Preis von 10€. Markenlogos dürfen wir leider aus Datenschutzgründen nicht auf die T-Shirts drucken. Die Aufdrucke sind einfarbig.      
 :::

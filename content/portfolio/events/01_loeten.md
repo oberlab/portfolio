@@ -10,16 +10,16 @@ attributes:
   school_subject: NuT, Werken, Physik
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG3/4  
-  Mittelschule: WG5+6, WiB, T7-8
-  Förderschule: WG3/4+5+6, HSU3/4, NT   
-  Realschule: We5-9, Ph8-10
-  Gymnasium: NT5+6, Ph8
+  Grundschule:   
+  Mittelschule:
+  Förderschule:    
+  Realschule:
+  Gymnasium:
 image_result: ../content/img/kurse/solder_result.png
 image_process: ../content/img/kurse/solder_process.png
 ---
 ::: short_description
-Eine verrückte Fledermaus, ein gruseliger Geist oder ein netter Roboter. Wir schwingen den Lötkolben und bringen diese Figuren mit LEDs zum Blinken und zum Leuchten. Durch das Löten verbindet ihr verschiedene elektronische Bauteile und LEDs mit der Platine und kreiert so euren ganz eigenen Stromkreis.
+Eine verrückte Fledermaus, ein gruseliger Geist oder ein netter Roboter, all das steht bei unserem Lötkursen im Fokus. Dieses Event wird durch Platinen zum Anstecken erweitert. Durch das Löten verbindet ihr verschiedene elektronische Bauteile und LEDs mit der Platine und kreiert so euren ganz eigenen Stromkreis.
 :::
 
 :::message
@@ -27,9 +27,9 @@ In diesem Kurs lernt ihr etwas über die Grundlagen von Elektronik und dürft mi
 :::
 
 :::process
-Verschiedene Platinen stehen euch zur Verfügung und ihr könnt auswählen zwischen einfachen Lötplatinen und SMD-Platinen. Die SMD-Platinen sind für Fortgeschrittene und setzen einige Löterfahrung voraus. Zudem sind diese Platinen etwas kniffelig, aber nicht unmöglich. Wir stellen vier Lötstationen und ausreichend Material zur Verfügung, damit keiner ohne seine eigene Platine nach Hause gehen muss.
+Allerhand verschiedener Platinen stehen bei diesem Event zur Verfügung. Um zum echten Hingucker in der Dämmerung zu werden, stehen Platinen in Form des Autobots-Logos zur Verfügung; damit könnt ihr den Planeten mit Sicherheit von den Decepticons befreien.
 :::
 
 :::special_notes
-Unsere Platinen gibt es in unterschiedlichsten Ausführungen, sowohl Anfänger als auch Fortgeschrittene kommen auf ihre Kosten.
+Unsere Platinen gibt es in unterschiedlichsten Ausführungen, sowohl Anfänger als auch Fortgeschrittene kommen auf ihre Kosten. 
 :::
