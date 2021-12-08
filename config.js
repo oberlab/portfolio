@@ -6,6 +6,7 @@ module.exports = {
             class: 'school',
             group_size: 'users',
             duration: 'clock',
+            duration_school: 'clock',
             material_costs: 'coins',
             school_subject: 'chalkboard-teacher',
             mobile: 'bus',

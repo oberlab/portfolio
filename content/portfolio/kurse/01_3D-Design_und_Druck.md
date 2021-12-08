@@ -4,7 +4,7 @@ category: engineering
 attributes:
   age: Ab 12 Jahren
   class: Ab der 5. Klasse
-  group_size: 10 Personen
+  group_size: 6-10 Personen
   duration: 3-5 h Dauer
   duration_school: 4-12 UE
   material_costs: 5 EUR Materialkosten

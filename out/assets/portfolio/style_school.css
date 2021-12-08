@@ -18,6 +18,17 @@
     display:none;
 }
 
+.attribute-material_costs{
+    display:none;
+}
+
+.attribute-duration_school:after {
+    content: " Dauer";
+    display: inline;
+    font-size: 16pt;
+
+}
+
 
 .curriculum_reference {
     font-size: 12pt;
