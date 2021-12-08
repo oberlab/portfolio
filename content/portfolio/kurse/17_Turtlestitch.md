@@ -6,11 +6,12 @@ attributes:
   class: Ab der 3. Klasse
   group_size: 6 Personen
   duration: 2-3 h Dauer
+  duration_school: 3-5 UE
   material_costs: 5 EUR Materialkosten
   school_subject: Werken
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG1/2 WG3/4 HSU3/4 6
+  Grundschule: WG3/4 HSU3/4 6
   Mittelschule: WG5/6, WiB5-8, Inf5-10
   Förderschule: WG1-6, Inf5-7, NT  
   Realschule: TG 5-9, IT 2.6

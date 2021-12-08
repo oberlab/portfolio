@@ -2,15 +2,16 @@
 title: T-Shirts bedrucken
 category: engineering
 attributes:
-  age: Ab 7 Jahren
-  class: Ab der 4. Klasse
-  group_size: 6 Personen
-  duration: 3 h Dauer
+  age: Ab 8 Jahren
+  class: Ab der 3. Klasse
+  group_size: 6-8 Personen
+  duration: 3-4 h Dauer
+  duration_school: 4-6 UE
   material_costs: 15 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG1/2 WG3/4 HSU3/4  
+  Grundschule: WG3/4 HSU3/4  
   Mittelschule: NT5-10 IdiG 7-9
   Förderschule: NT5-9 IdiG 7-10   
   Realschule: IT LB 1-3 TG
@@ -31,5 +32,5 @@ Beim Kauf von Kleidungsstücken achten wir darauf, dass das Motiv unseren Vorste
 :::  
 
 :::special_notes  
-Gerne stellen wir T-Shirts gegen einen Preis von 5€. Markenlogos dürfen wir leider aus Datenschutzgründen nicht auf die T-Shirts drucken.      
+Gerne stellen wir T-Shirts gegen einen Preis von 5-10€. Markenlogos dürfen wir leider aus rechtlichen Gründen nicht auf die T-Shirts drucken.      
 :::

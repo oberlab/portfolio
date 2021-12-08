@@ -6,6 +6,7 @@ attributes:
   class: Ab der 8. Klasse
   group_size: 6-10 Personen
   duration: 6-10 h Dauer
+  duration_school: 8-12 UE
   material_costs: 20 EUR Materialkosten
   school_subject: Informatik, Werken
   mobile: mobiles Angebot

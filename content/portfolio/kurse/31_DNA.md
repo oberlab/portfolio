@@ -2,15 +2,15 @@
 title: Tatortanalyse
 category: science
 attributes:
-  age: Ab 7 Jahren
-  class: Ab der 4. Klasse
-  group_size: 6 Personen
+  age: Ab 10 Jahren
+  class: Ab der 5. Klasse
+  group_size: 6-8 Personen
   duration: 6-8 h Dauer
+  duration_school: 6-10 UE
   material_costs: 15 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: HSU3/4  
   Mittelschule: NT5-10
   Förderschule: NT5-9   
   Realschule: C8-10 B10
@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Der Mörder war wieder der Gärtner. Ja, ist dem wirklich so? Wer kann denn das Gegenteil behaupten? Schlüpft in die Rolle eines Forensikers und findet den Täter, denn wir sehen uns in diesem Kurs einmal genau die Bauanleitung allen Lebens an und wollen sie mittels einer PCR einwandfrei der Täter:in zuordnen. Das klingt Nach Anstrengung (DNA).             
+Der Mörder war wieder der Gärtner. Ja, ist dem wirklich so? Wer kann denn das Gegenteil behaupten? Schlüpft in die Rolle eines Forensikers und findet den Täter, denn wir sehen uns in diesem Kurs einmal genau die Bauanleitung allen Lebens an und wollen sie mittels einer PCR einwandfrei der Täter:in zuordnen.             
 :::
 
 :::learning_goals  

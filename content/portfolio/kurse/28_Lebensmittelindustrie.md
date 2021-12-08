@@ -3,16 +3,16 @@ title: Molekulare Küche
 category: science
 attributes:
   age: Ab 12 Jahren
-  class: Ab der 7. Klasse
-  group_size: 6 Personen
+  class: Ab der 6. Klasse
+  group_size: 6-8 Personen
   duration: 2-3 h Dauer
+  duration_school: 4-6 UE
   material_costs: 10 EUR Materialkosten
   school_subject: Biologie, Chemie
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG1/2 WG3/4 HSU3/4  
-  Mittelschule: NT5-10
-  Förderschule: NT5-9   
+  Mittelschule: NT6-10
+  Förderschule: NT6-9   
   Realschule: C8-9 4 C10 5
   Gymnasium: C8-10
 image_result: ../content/img/kurse/tricks_result.png

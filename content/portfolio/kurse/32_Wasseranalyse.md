@@ -2,17 +2,17 @@
 title: Wasseranalyse
 category: science
 attributes:
-  age: Ab 8 Jahren
+  age: Ab 10 Jahren
   class: Ab der 5. Klasse
   group_size: 6-10 Personen
   duration: 2-3 h Dauer
+  duration_school: 2-6 UE
   material_costs: 5 EUR Materialkosten
   school_subject: Natur und Technik
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: HSU3/4 3.3  
   Mittelschule: NT5, NT6 2, NT7-10  
-  Förderschule: NT   
+  Förderschule: NT5-8   
   Realschule: B6 4, B10, C8-10
   Gymnasium: NT6 1.5, B8, B12 4.2, C10, Q/K
 image_result: ../content/img/kurse/wasseranalyse_result.png

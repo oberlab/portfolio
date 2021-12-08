@@ -2,15 +2,16 @@
 title: Paper Circuits
 category: science
 attributes:
-  age: Ab 8 Jahren
-  class: Ab der 3. Klasse
+  age: Ab 7 Jahren
+  class: Ab der 1. Klasse
   group_size: 6-14 Personen
-  duration: 1.5 h Dauer
+  duration: 2 h Dauer
+  duration_school: 2-4 UE
   material_costs: 5 EUR Materialkosten
   school_subject: NuT
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG3/4, HSU3/4  
+  Grundschule: WG1/2, WG3/4, HSU3/4  
   Mittelschule: T7-9 3, NT6 4  
   Förderschule: HSU3/4, T7, NT5-6   
   Realschule: Ph8+9, We5-8

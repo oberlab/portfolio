@@ -6,6 +6,7 @@ attributes:
   class: Ab der 5. Klasse
   group_size: 6 Personen
   duration: 2-6 h Dauer
+  duration_school: 2-10 UE
   material_costs: 10 EUR Materialkosten
   school_subject: Informatik
   mobile: mobiles Angebot

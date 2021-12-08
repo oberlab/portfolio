@@ -6,6 +6,7 @@ attributes:
   class: Ab der 3. Klasse
   group_size: ab 6 Personen
   duration: 1.5 - 2.5 h pro Woche
+  duration_school: 2-3 UE pro Woche
   material_costs: keine Materialkosten
   school_subject: Informatik
   mobile: mobiles Angebot

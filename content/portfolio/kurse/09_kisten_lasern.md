@@ -3,9 +3,10 @@ title: Schatzkisten
 category: engineering
 attributes:
   age: Ab 8 Jahren
-  class: Ab der 2. Klasse
-  group_size: 6-18 Personen
+  class: Ab der 3. Klasse
+  group_size: 10 Personen
   duration: 3-5 h  Dauer
+  duration_school: 4-6 UE
   material_costs: 5 EUR Materialkosten
   school_subject: Kunst, Werken, Informatik
   mobile: teilweise mobiles Angebot

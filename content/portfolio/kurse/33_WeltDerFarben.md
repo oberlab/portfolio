@@ -3,9 +3,10 @@ title: Die Welt der Farben
 category: science
 attributes:
   age: Ab 7 Jahren
-  class: Ab der 4. Klasse
+  class: Ab der 3. Klasse
   group_size: 6 Personen
   duration: 2-3 h Dauer
+  duration_school: 2-4 UE
   material_costs: 8 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot
@@ -23,7 +24,7 @@ Nach manchem Regenschauer, wenn die Sonne lacht, erscheint ein Regenbogen am Him
 :::
 
 :::learning_goals  
-Schüler:innen können nach diesem Kurs Farbigkeit erklären und wie sich sämtliche Farben zusammensetzen, indem sie durch Chromatographie verschiedene Filzstifte untersuchen.                   
+Schüler:innen können nach diesem Kurs Farbigkeit erklären, wie sich sämtliche Farben zusammensetzen und wie man sie mit einer einfachen analytischen Methode (Chromatographie) die Farbestandteile von Filzsstiften auftrennen kann.                   
 :::
 
 :::message  

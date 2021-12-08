@@ -4,8 +4,9 @@ category: engineering
 attributes:
   age: Ab 6 Jahren
   class: Ab der 1. Klasse
-  group_size: 6-12 Personen
-  duration: 1.5-3 h Dauer
+  group_size: 6-10 Personen
+  duration: 1-3 h Dauer
+  duration_school: 2-4 UE
   material_costs: 5 EUR Materialkosten
   school_subject: NuT
   mobile: teilweise mobiles Angebot

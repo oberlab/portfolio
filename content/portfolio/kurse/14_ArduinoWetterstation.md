@@ -4,9 +4,10 @@ category: code
 attributes:
   age: Ab 12 Jahren
   class: Ab der 8. Klasse
-  group_size: 6 Personen
+  group_size: 6-8 Personen
   duration: 3-4 h Dauer
-  material_costs: 1000 EUR Materialkosten
+  duration_school: 4-6 UE
+  material_costs: 10 EUR Materialkosten
   school_subject: Werken
   mobile: mobiles Angebot
 curriculum_reference:

@@ -3,14 +3,15 @@ title: Coding unplugged
 category: code
 attributes:
   age: Ab 7 Jahren
-  class: Ab der 3. Klasse
-  group_size: 6-14 Personen
-  duration: 1 - 1.5 h Dauer
+  class: Ab der 1. Klasse
+  group_size: 6-12 Personen
+  duration: 1-2 h Dauer
+  duration_school: 2-3 UE
   material_costs: keine Materialkosten
   school_subject: Informatik
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: HSU3/4 6  
+  Grundschule: WG1/2, WG3/4, HSU3/4 6  
   Mittelschule: Inf5-6  
   Förderschule: Inf5-7, HSU  
   Realschule: IT 2.6  

@@ -4,15 +4,15 @@ category: engineering
 attributes:
   age: Ab 10 Jahren
   class: Ab der 5. Klasse
-  group_size: 6 Personen
-  duration: 3 h Dauer
+  group_size: 6-8 Personen
+  duration: 3-4 h Dauer
+  duration_school: 4-6 UE
   material_costs: 12 EUR Materialkosten
   school_subject: Werken
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG2 WG3/4
   Mittelschule: WG5/6
-  Förderschule: WG1-6   
+  Förderschule: WG5/6   
   Realschule: TG 5-9
 image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png

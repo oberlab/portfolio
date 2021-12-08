@@ -23,7 +23,7 @@ Ein Andenken, das Schnittfest und robust ist und deinen Fingerabdruck trägt wir
 :::
 
 :::message
-Dieses Event liefert zudem einen Einstieg in das Designgn am PC. Wie tief ihr einsteigen möchtet bestimmt ihr! Außerdem zeigen wir euch, wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir eurem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Euer individuell gestaltetes Brotzeitbrettl dürft ihr natürlich mit nach Hause nehmen.
+Dieses Event liefert zudem einen Einstieg in das Designen am PC. Wie tief ihr einsteigen möchtet bestimmt ihr! Außerdem zeigen wir euch, wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir eurem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Euer individuell gestaltetes Brotzeitbrettl dürft ihr natürlich mit nach Hause nehmen.
 :::  
 
 :::process

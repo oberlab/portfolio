@@ -2,15 +2,15 @@
 title: Brotzeitbrettl lasern
 category: engineering
 attributes:
-  age: Ab 12 Jahren
-  class: Ab der 6. Klasse
+  age: Ab 10 Jahren
+  class: Ab der 5. Klasse
   group_size: 6-12 Personen
   duration: 2-4 h Dauer
+  duration_school: 2-4 UE
   material_costs: 10 EUR Materialkosten
   school_subject: NuT
   mobile: teilweise mobiles Angebot
-curriculum_reference:
-  Grundschule: WG3/4   
+curriculum_reference:  
   Mittelschule: NT5-10 IdiG2 T7-9 WiB 5-10
   Förderschule: WG5-6 T7-9 IdiG
   Realschule: Ph9-10 We5-8 It 2.4

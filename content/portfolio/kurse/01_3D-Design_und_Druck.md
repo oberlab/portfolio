@@ -3,14 +3,14 @@ title: 3D-Design und -Druck
 category: engineering
 attributes:
   age: Ab 12 Jahren
-  class: Ab der 7. Klasse
-  group_size: 6-14 Personen
-  duration: 2-4 h Dauer
+  class: Ab der 5. Klasse
+  group_size: 10 Personen
+  duration: 3-5 h Dauer
+  duration_school: 4-12 UE
   material_costs: 5 EUR Materialkosten
   school_subject: Informatik, Kunst, Chemie, IdiG
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG3/4  
   Mittelschule: Inf5-10, IdiG, WiB5-10, T10 1  
   Förderschule: Inf5-9, IdiG   
   Realschule: IT 2.4, We5-10

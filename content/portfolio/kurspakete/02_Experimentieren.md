@@ -6,6 +6,7 @@ attributes:
   class: Ab der 1. Klasse
   group_size: 6 Personen
   duration: 1.5 - 2.5 h pro Woche
+  duration_school: 2-3 UE pro Woche
   material_costs: 5 EUR
   school_subject: NuT, Chemie, HSU
   mobile: mobiles Angebot
@@ -25,10 +26,6 @@ Der Experimentierklub ist das Paket mit der größten Bandbreite an Themengebiet
 :::learning_goals  
 Ziel ist es, dass durch praktisches Experimentieren, die Teilnehmer:innen früh eine eigene Expertise aufbauen und lernen, mit Informationen aus dem Alltag richtig umzugehen. Nur, wer etwas einmal persönlich erforscht und praktiziert hat, weiß, wie der Hase läuft und kann mit Falschinformation besser umgehen.
 :::
-
-:::message  
-"Eine PCR kann nicht funktionieren", "Gesalzenes Wasser kocht schneller", "Kellerasseln sind Käfer", "Feuer ist immer heiß". All diese Aussagen enthalten Falschinformation. Die Teilnehmer:innen sollen lernen, nicht immer der lautesten Stimme zuzuhören, sondern ihre eigene Expertise legen. Durch Forschen und Experimentieren an kontextbezogenen Themen wird der Grundstein für ein kritischeres Denken gelegt.
-:::  
 
 :::special_notes  
 In vielen Kurseinheiten werdet ihr etwas Herstellen, das ihr selbstverständlich mit nach Hause nehmen dürft.

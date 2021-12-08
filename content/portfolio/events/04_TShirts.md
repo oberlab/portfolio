@@ -31,5 +31,5 @@ Zunächst muss die Idee in eurem Kopf digitalisiert werden. Solltet ihr unentsch
 :::
 
 :::special_notes  
-Gerne stellen wir T-Shirts gegen einen Preis von 10€. Markenlogos dürfen wir leider aus Datenschutzgründen nicht auf die T-Shirts drucken. Die Aufdrucke sind einfarbig.      
+Gerne stellen wir T-Shirts gegen einen Preis von 10 EUR. Markenlogos dürfen wir leider aus rechtlichen Gründen nicht auf die T-Shirts drucken. Die Aufdrucke sind einfarbig.      
 :::

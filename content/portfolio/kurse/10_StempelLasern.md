@@ -2,15 +2,16 @@
 title: Stempel lasern
 category: engineering
 attributes:
-  age: Ab 7 Jahren
-  class: Ab der 4. Klasse
-  group_size: 6 Personen
-  duration: 3 h Dauer
+  age: Ab 8 Jahren
+  class: Ab der 3. Klasse
+  group_size: 6-8 Personen
+  duration: 3-4 h Dauer
+  duration_school: 3-6 UE
   material_costs: 15 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: HSU3/4 NuT  
+  Grundschule: HSU3/4 NuT
   Mittelschule: NT5-10 IdiG 7-9
   Förderschule: NT5-9 IdiG 7-10  
   Realschule: IT LB 1-3
@@ -23,7 +24,7 @@ Ein Stempel ist wie der persönliche Fingerabdruck am Ende eines Briefes, doch l
 :::
 
 :::learning_goals  
-Ob zu künstlerischen oder zu anderen Zwecken, ein Stempel lässt sich täglich verschieden einsetzen. Um Briefen oder Bildern im wahrsten Sinne euren "Stempel aufzudrücken", gestaltet ihr ganz nach euren Vorstellungen einen Stempel und lernt dabei, wie man mit Grafikprogrammen und dem Lasercutter umgeht.                   
+Ob zu künstlerischen oder zu anderen Zwecken, ein Stempel lässt sich täglich verschieden einsetzen. Um Briefen oder Bildern im wahrsten Sinne euren "Stempel aufzudrücken", gestaltet ihr ganz nach euren Vorstellungen einen Stempel und lernt dabei, wie man mit Grafikprogrammen und dem Lasercutter umgeht.
 :::
 
 :::message  

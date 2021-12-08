@@ -2,10 +2,11 @@
 title: M&M-Spender bauen
 category: engineering
 attributes:
-  age: Ab 7 Jahren
-  class: Ab der 4. Klasse
-  group_size: 6 Personen
+  age: Ab 8 Jahren
+  class: Ab der 3. Klasse
+  group_size: 6-8 Personen
   duration: 3-5 h Dauer
+  duration_school: 4-6 UE
   material_costs: 10 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot
@@ -23,13 +24,13 @@ Jeder wird schwach, wenn es um Naschereien beim beim Fernsehen geht. Wie wäre e
 :::
 
 :::learning_goals  
-Mit Holz kann man nicht nur ein gutes Feuer machen, sondern auch Kisten, Möbel und M&M-Automaten bauen. Hier werden die Schüler:innen Holz, Glas und Schrauben aus einem neuem Blickwinkel kennenlernen. Sowohl motorische als auch kreative Komponenten werden hier gefördert.                         
+Mit Holz kann man nicht nur ein gutes Feuer machen, sondern auch Kisten, Möbel und M&M-Automaten bauen. Hier werden die Schüler:innen Holz, Plexiglas und Schrauben aus einem neuem Blickwinkel kennenlernen. Sowohl motorische als auch kreative Kompetenzen werden hier gefördert.                         
 :::
 
 :::message  
-Holz als Werkstoff bietet mehr Facetten als man glauben mag. Dass man daraus auch einen Spender bauen kann, unterstreicht, dass Holz ein nachwachsender Rohstoff ist, der gerne auch dafür verwendet werden kann, um M&Ms gerecht zu portionieren. Trotzdem muss sich auch das Holz manchmal mit anderen Materialien verbrüdern; Holz, Glas und Schrauben werden zukünftige Fernsehabende unverwechselbar machen.     
+Holz als Werkstoff bietet mehr Facetten als man glauben mag. Dass man daraus auch einen Spender bauen kann, unterstreicht, dass Holz ein nachwachsender Rohstoff ist, der gerne auch dafür verwendet werden kann, um M&Ms gerecht zu portionieren. Trotzdem muss sich auch das Holz manchmal mit anderen Materialien verbrüdern; Holz, Plexiglas und Schrauben werden zukünftige Fernsehabende unverwechselbar machen.     
 :::  
 
 :::special_notes  
-Probiere doch den Spender auch mal mit Erdnüssen. Aber erzähle das bitte nicht weiter!       
+Probiere doch den Spender auch mal mit Erdnüssen. Aber erzähle das bitte nicht weiter!
 :::

@@ -2,10 +2,11 @@
 title: Digitaler Scherenschnitt
 category: engineering
 attributes:
-  age: Ab 8+ Jahren
+  age: Ab 8 Jahren
   class: Ab der 3. Klasse
-  group_size: 6 Personen
-  duration: 3 h Dauer
+  group_size: 6-10 Personen
+  duration: 2-3 h Dauer
+  duration_school: 3-4 UE
   material_costs: 10 EUR Materialkosten
   school_subject: MINT
   mobile: mobiles Angebot

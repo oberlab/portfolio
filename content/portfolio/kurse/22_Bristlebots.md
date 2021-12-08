@@ -4,8 +4,9 @@ category: science
 attributes:
   age: Ab 8 Jahren
   class: Ab der 3. Klasse
-  group_size: 6-20 Personen
-  duration: 1.5 h Dauer
+  group_size: 6-12 Personen
+  duration: 2 h Dauer
+  duration_school: 2 UE
   material_costs: 5 EUR Materialkosten
   school_subject: Natur und Technik
   mobile: mobiles Angebot

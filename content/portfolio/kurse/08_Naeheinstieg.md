@@ -2,15 +2,16 @@
 title: Reißverschlusstäschchen nähen
 category: engineering
 attributes:
-  age: Ab 7 Jahren
-  class: Ab der 2. Klasse
-  group_size: 6 Personen
-  duration: 3 h Dauer
+  age: Ab 8 Jahren
+  class: Ab der 3. Klasse
+  group_size: 6-8 Personen
+  duration: 3-4 h Dauer
+  duration_school: 4-6 UE
   material_costs: 8 EUR Materialkosten
   school_subject: Werken
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: WG2 WG3/4
+  Grundschule: WG3/4
   Mittelschule: WG5/6
   Förderschule: WG1-6   
   Realschule: TG 5-9
@@ -22,7 +23,7 @@ Ihr wolltet schon immer mal mit einer Nähmaschine kreativ werden? Hier lernt ih
 :::
 
 :::learning_goals  
- Die Teilnehmer:innen können nach dieser Einheit dich wichtigsten Teile einer Nähmaschine benennen. Geradstich, Zickzack und Nähte sichern ist kein Problem mehr, ebenso, wie das Nähen eines aufgesetzten Reißverschlusses.         
+Die Teilnehmer:innen können nach dieser Einheit dich wichtigsten Teile einer Nähmaschine benennen. Geradstich, Zickzack und Nähte sichern ist kein Problem mehr, ebenso, wie das Nähen eines aufgesetzten Reißverschlusses.         
 :::
 
 :::message  

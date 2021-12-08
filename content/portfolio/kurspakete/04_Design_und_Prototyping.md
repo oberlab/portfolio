@@ -6,6 +6,7 @@ attributes:
   class: Ab der 5. Klasse
   group_size: 6 Personen
   duration: 1.5 - 2.5 h pro Woche
+  duration_school: 2-3 UE pro Woche
   material_costs: keine Materialkosten
   school_subject: Informatik
   mobile: mobiles Angebot
@@ -25,7 +26,6 @@ Du hast eine geniale Erfindung im Kopf, die alle deine Probleme lösen wird? Wie
 :::learning_goals
 Die größten Innovationen unserer Zeit sind oftmals in Garagen entstanden. Ein Problem war da, aber kein Know-how, wie das Problem gelöst werden kann; lediglich das Handwerkszeug zur Problembewältigung war vorhanden. Dieser Kurs soll euch zeigen, dass man jedes Problem lösen kann, wenn man nur zu Beginn den richtigen Schubser bekommt und man seine Fühler in alle Richtungen austreckt.
 :::
-
 
 :::special_notes  
 Was konstruiert und entwickelt werden soll, bestimmt ihr! Deshalb passt dieser langzeit Kurs zu unterschiedlichsten Schulthemen. Von der 3D-Skulptur für den Kunstunterricht bis zum autonom fahrenden Auto für die Robotik AG -  Alles ist möglich!
