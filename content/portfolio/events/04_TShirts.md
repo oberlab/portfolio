@@ -23,7 +23,7 @@ Bei einer Veranstaltung mit einem T-Shirt nach Hause gehen, das das eigene Desig
 :::
 
 :::message  
-Ein Elefant, der mit einem Hut auf einem Fahrrad fährt. Klingt etwas absurd, aber nichts spricht dagegen, der Welt so ein Motiv auf dem eigenen T-Shirt zu zeigen. Im Krieg und der Liebe ist alles erlaubt; so ist es auch beim Desginen!    
+Ein Elefant, der mit einem Hut auf einem Fahrrad fährt. Klingt etwas absurd, aber nichts spricht dagegen, der Welt so ein Motiv auf dem eigenen T-Shirt zu zeigen. Im Krieg und der Liebe ist alles erlaubt; so ist es auch beim designen!    
 :::  
 
 :::process

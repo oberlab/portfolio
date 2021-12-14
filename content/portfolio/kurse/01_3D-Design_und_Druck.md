@@ -31,5 +31,5 @@ Wenn ihr eine coole Idee für eine Figur oder sogar ein ganzes Modell in eurem K
 :::  
 
 :::special_notes  
-Beim 3D-Druck gibt es quasi keine Grenzen. Der Kurs kann angepasst werden, sodass sowohl Anfänger als auch Fortgeschrittene auf ihre Kosten kommen.
+Beim 3D-Druck gibt es quasi keine Grenzen. Der Kurs kann so angepasst werden, dass sowohl Anfänger als auch Fortgeschrittene auf ihre Kosten kommen.
 :::

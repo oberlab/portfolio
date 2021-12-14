@@ -24,7 +24,7 @@ Ein Stempel ist wie der persönliche Fingerabdruck am Ende eines Briefes, doch l
 :::
 
 :::learning_goals  
-Ob zu künstlerischen oder zu anderen Zwecken, ein Stempel lässt sich täglich verschieden einsetzen. Um Briefen oder Bildern im wahrsten Sinne euren "Stempel aufzudrücken", gestaltet ihr ganz nach euren Vorstellungen einen Stempel und lernt dabei, wie man mit Grafikprogrammen und dem Lasercutter umgeht.
+Ob zu künstlerischen oder anderen Zwecken, ein Stempel lässt sich täglich verschieden einsetzen. Um Briefen oder Bildern im wahrsten Sinne euren "Stempel aufzudrücken", gestaltet ihr ganz nach euren Vorstellungen einen Stempel und lernt dabei, wie man mit Grafikprogrammen und dem Lasercutter umgeht.
 :::
 
 :::message  
@@ -32,5 +32,5 @@ Von der persönlichen Idee bis zur Umsetzung ist meist ein schwieriger Weg. In d
 :::  
 
 :::special_notes  
-Du musst keinen Stempel mitnehmen, denn deinen Stempel drucken wir mit dem 3D-Drucker und du darfst die Farbe aussuchen.      
+Ihr braucht keinen Stempelgriff mitnehmen, denn diesen drucken wir mit dem 3D-Drucker und ihr dürft die Farbe aussuchen.      
 :::

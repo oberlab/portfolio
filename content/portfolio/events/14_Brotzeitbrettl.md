@@ -27,7 +27,7 @@ Dieses Event liefert zudem einen Einstieg in das Designen am PC. Wie tief ihr ei
 :::  
 
 :::process
-Zunächst such ihr euch eueren Holzrohling aus. Bei Bedarf könnt ihr mit einer Oberfräse die Kanten des Brettes noch abschleifen. Ihr dürft selbst ein Motiv designen, das auf das Brett kommt, oder ihr sucht ein Motiv aus; wir haben reichlich vorgefertigte Motive dabei. Den letzten Schritt übernimmt der Lasercutter, dem natürlich ihr ganz genau sagt, was er zu tun hat.
+Zunächst sucht ihr euch eueren Holzrohling aus. Bei Bedarf könnt ihr mit einer Oberfräse die Kanten des Brettes noch abschleifen. Ihr dürft selbst ein Motiv designen, das auf das Brett kommt, oder ihr sucht ein Motiv aus; wir haben reichlich vorgefertigte Motive dabei. Den letzten Schritt übernimmt der Lasercutter, dem natürlich ihr ganz genau sagt, was er zu tun hat.
 :::
 
 :::special_notes  

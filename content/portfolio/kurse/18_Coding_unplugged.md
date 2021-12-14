@@ -24,7 +24,7 @@ Dass die Spielfigur in eurem Lieblingscomputerspiel nach rechts läuft, wenn ihr
 :::
 
 :::learning_goals  
-Mit den einfachsten Mitteln wird den Schüler:innen die Basiskenntnis von Programmieren vermittelt, indem sie das Prinzip hinter einem Algorithmus durch spielerische Auseinandersetzung mit Input-, und Outputbefehlen selbst ausprobieren und umsetzen.     
+Mit den einfachsten Mitteln wird den Schüler:innen die Basiskenntnis vom Programmieren vermittelt, indem sie das Prinzip hinter einem Algorithmus durch spielerische Auseinandersetzung mit Input- und Outputbefehlen selbst ausprobieren und umsetzen.     
 :::
 
 :::message  

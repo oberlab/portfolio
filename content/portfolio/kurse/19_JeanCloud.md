@@ -20,7 +20,7 @@ image_result: ../content/img/kurse/jean_result.png
 image_process: ../content/img/kurse/jean_process.png
 ---
 :::short_description
-Alles läuft heutzutage nur noch über die Cloud. Ihr möchtet mitreden und selbst eine bauen? Hier arbeiten wir an einer Version mit Uhr und LED-Beleuchtung, die eine Form deiner Wahl annehmen kann. Ob ihr damit Batman zur Hilfe ruft oder euch in der Früh sanft mit Licht wecken laßt, ist euch selbst überlassen. Die Formen schneiden wir am Lasercutter aus, verbinden Display und LED-Streifen mit einem Mikrocontroller (mit WLAN und Bluetooth) und programmieren ihn nach euren Belieben.
+Alles läuft heutzutage nur noch über die Cloud. Ihr möchtet mitreden und selbst eine bauen? Hier arbeiten wir an einer Version mit Uhr und LED-Beleuchtung, die eine Form deiner Wahl annehmen kann. Ob ihr damit Batman zur Hilfe ruft oder euch morgens sanft mit Licht wecken laßt, ist euch selbst überlassen. Die Formen schneiden wir am Lasercutter aus, verbinden Display und LED-Streifen mit einem Mikrocontroller (mit WLAN und Bluetooth) und programmieren ihn nach euren Belieben.
 :::
 
 :::learning_goals

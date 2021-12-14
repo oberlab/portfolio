@@ -24,7 +24,7 @@ image_process: ../content/img/kurse/paper_process.png
 :::
 
 :::learning_goals  
-Den Schüler:innen soll hier nahegelegt werden, wie einfache Stromkreise, wie sie auch zu Hause zu finden sind, funktionieren. Im Fokus steht das selbst angeleitete Legen des Stromkreises und das Verständnis über die Fließrichtung von Strom.
+Den Schüler:innen soll hier nahegelegt werden, wie einfache Stromkreise, wie sie auch zu Hause zu finden sind, funktionieren. Im Fokus steht das angeleitete Legen des Stromkreises und das Verständnis über die Fließrichtung von Strom.
 :::
 
 :::message  

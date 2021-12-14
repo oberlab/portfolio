@@ -20,7 +20,7 @@ image_result: ../content/img/kurse/bristle_result.png
 image_process: ../content/img/kurse/bristle_process.png
 ---
 :::short_description  
-Elektrische Zahnbürste? Ja! Elektrische Zahnbürste mit Augen? JAA! Elektrischer Zahnbürstenkopf mit Fühlern, Augen, Glitzer, der über den Tisch krabbelt? AUF JEDEN FALL!! In diesem Kurs ist eure Kreativität gefragt. Ein Zahnbürstenkopf wird mit einer Batterie und einem Vibrationsmotor versehen. Da dies aber ein eher trauriges Krabbeltierchen wäre, dürft ihr mit Wackelaugen, Pfeifenreinigern und Wattekügelchen eurem Tier das fantastischste Aussehen verleihen und das große Krabbeln kann beginnen.  
+Elektrische Zahnbürste? Ja! Elektrische Zahnbürste mit Augen? JAA! Elektrischer Zahnbürstenkopf mit Fühlern, Augen, Glitzer, der über den Tisch krabbelt? AUF JEDEN FALL!! In diesem Kurs ist eure Kreativität gefragt. Ein Zahnbürstenkopf wird mit einer Batterie und einem Vibrationsmotor versehen. Da dies aber ein eher trauriges Krabbeltierchen wäre, dürft ihr mit Wackelaugen, Pfeifenreinigern und Wattekügelchen eurem Tier ein fantastisches Aussehen verleihen und das große Krabbeln kann beginnen.  
 :::
 
 :::learning_goals  

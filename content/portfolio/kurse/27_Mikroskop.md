@@ -24,7 +24,7 @@ Dass Bl채tter gr체n sind, ist lange kein Geheimnis mehr. Aber wo kommt diese gr�
 :::
 
 :::learning_goals  
-Sch채ler:innen wird hier die Welt des Unsichtbaren gezeigt. Sie bauen ein 3D-gedrucktes Mikroskop zusammen und steuern es 체ber eine Computersoftware an, sodass ihnen die komplette Kontrolle 체ber das Mikroskop gegeben wird.               
+Sch체ler:innen wird hier die Welt des Unsichtbaren gezeigt. Sie bauen ein 3D-gedrucktes Mikroskop zusammen und steuern es 체ber eine Computersoftware an, sodass ihnen die komplette Kontrolle 체ber das Mikroskop gegeben wird.               
 :::
 
 :::message  

@@ -1,5 +1,5 @@
 ---
-title: CAD für Fortgeschrittne
+title: CAD für Fortgeschrittene
 category: engineering
 attributes:
   age: Ab 12 Jahren

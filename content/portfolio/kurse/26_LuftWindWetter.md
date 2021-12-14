@@ -20,7 +20,7 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Was ist eigentlich Luft und was hat sie mit dem Wind zu tun? Ist sie mehr als nichts? In diesem Kurs erforscht ihr die Eigenschaften von Luft und findet heraus ob ein leeres Glas wirklich leer ist. Außerdem untersucht ihr welche Kraft haben kann, wenn sie erstmal in Bewegung gekommen ist.
+Was ist eigentlich Luft und was hat sie mit dem Wind zu tun? Ist sie mehr als nichts? In diesem Kurs erforscht ihr die Eigenschaften von Luft und findet heraus ob ein leeres Glas wirklich leer ist. Außerdem untersucht ihr welche Kraft Luft haben kann, wenn sie erstmal in Bewegung gekommen ist.
 :::
 
 :::learning_goals  
@@ -32,5 +32,5 @@ Ihr wollten schon immer einmal wissen wie ein richtiger Forscher arbeitet? Dann 
 :::  
 
 :::special_notes  
-Wir bringen ein paar Experimente mit dir wir entweder gemeinsam oder ihr selbst durchführen dürfen. Dem Entdeckergeist sind aber keine Grenzen gesetzt und wir können uns gemeinsam neue Experimente überlegen um unsere Umwelt zu erkunden und besser zu verstehen.
+Wir bringen ein paar Experimente mit, die wir entweder gemeinsam oder einzeln durchführen. Dem Entdeckergeist sind aber keine Grenzen gesetzt und wir können uns gemeinsam neue Experimente überlegen um unsere Umwelt zu erkunden und besser zu verstehen.
 :::

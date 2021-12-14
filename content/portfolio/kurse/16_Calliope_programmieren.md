@@ -24,7 +24,7 @@ image_process: ../content/img/kurse/calliope_process.png
 :::
 
 :::learning_goals  
- Schüler:innen werden in diesem Kurs an die komplexe Welt der Programmiersprache, bzw. des Programmierens herangeführt. Die Einheit umfasst sowohl das Schreiben eines Codes mit der Calliope-mini-Oberfläche, als auch das Austesten von diversen Befehlsketten, die die Schüler:innen selbst programmieren dürfen.      
+ Schüler:innen werden in diesem Kurs an die komplexe Welt der Programmiersprache, bzw. des Programmierens herangeführt. Die Einheit umfasst sowohl das Schreiben eines Codes mit der Calliope-mini-Oberfläche, als auch das Austesten von diversen Befehlsketten, welche die Schüler:innen selbst programmieren dürfen.      
 :::
 
 :::message  
@@ -32,5 +32,5 @@ Computerprogramme unter anderem machen genau das, was ihr ihnen sagt, das sie ma
 :::  
 
 :::special_notes
-Beim Programmieren gibt es keine Grenzen. Der Kurs kann angepasst werden, sodass sowohl Anfänger als auch Fortgeschrittene auf ihre Kosten kommen.
+Beim Programmieren gibt es keine Grenzen. Der Kurs kann so angepasst werden, dass sowohl Anfänger als auch Fortgeschrittene auf ihre Kosten kommen.
 :::

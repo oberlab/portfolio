@@ -20,7 +20,7 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Stellt euch vor, in eurem Zimmer hängt ein Profilbild von euch aus einem sehr großen Stück Papier, das ihr sowohl selbst gestaltet und mit einem Laser ausgeschnitten habt. Klingt nach einer Vorstellung, die sich nie erfüllen wird, es sei denn, ihr nehmt an diesem Kurs teil, indem ihr genau das macht, um eure Schokoladenseite zu verewigen. Lächeln, bitte!         
+Stellt euch vor, in eurem Zimmer hängt ein Profilbild von euch aus einem sehr großen Stück Papier, das ihr sowohl selbst gestaltet und mit einem Laser ausgeschnitten habt. Klingt nach einer Vorstellung, die sich nie erfüllen wird? Nehmt an diesem Kurs teil, indem ihr genau das macht, um eure Schokoladenseite zu verewigen. Lächeln, bitte!         
 :::
 
 :::learning_goals  

@@ -20,11 +20,11 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Jeder wird schwach, wenn es um Naschereien beim beim Fernsehen geht. Wie wäre es aber mit einem selbstgebauten Gerät, das nur eine handvoll M&Ms durchlässt, so dass man kein schlechtes Gewissen haben muss? Komm in diesen Kurs und beende das Dilemma um die Verführung, unkontrolliert nach Schokolinsen zu greifen. Baue einen M&M-Automaten aus Holz.             
+Jeder wird schwach, wenn es um Naschereien beim Fernsehen geht. Wie wäre es aber mit einem selbstgebauten Gerät, das nur eine handvoll M&Ms durchlässt, so dass man kein schlechtes Gewissen haben muss? Komm in diesen Kurs und beende das Dilemma um die Verführung, unkontrolliert nach Schokolinsen zu greifen. Baue einen M&M-Automaten aus Holz.             
 :::
 
 :::learning_goals  
-Mit Holz kann man nicht nur ein gutes Feuer machen, sondern auch Kisten, Möbel und M&M-Automaten bauen. Hier werden die Schüler:innen Holz, Plexiglas und Schrauben aus einem neuem Blickwinkel kennenlernen. Sowohl motorische als auch kreative Kompetenzen werden hier gefördert.                         
+Mit Holz kann man nicht nur ein gutes Feuer machen, sondern auch Kisten, Möbel und M&M-Automaten bauen. Hier werden die Schüler:innen Holz, Plexiglas und Schrauben aus einem neuen Blickwinkel kennenlernen. Sowohl motorische als auch kreative Kompetenzen werden hier gefördert.                         
 :::
 
 :::message  
@@ -32,5 +32,5 @@ Holz als Werkstoff bietet mehr Facetten als man glauben mag. Dass man daraus auc
 :::  
 
 :::special_notes  
-Probiere doch den Spender auch mal mit Erdnüssen. Aber erzähle das bitte nicht weiter!
+Probier doch den Spender auch mal mit Erdnüssen. Aber erzähle das bitte nicht weiter!
 :::

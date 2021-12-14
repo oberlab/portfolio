@@ -24,7 +24,7 @@ Nach einem anstrengenden Tag ein schönes Bad nehmen, das nur so blubbert, bitze
 :::
 
 :::learning_goals  
- Die Schüler:innen lernen in diesem Kurs eine Parallele zwischen Brausetabletten und sprudelnden Bademittel kennen, nämlich die Zusammensetzung aus Natron und Zitronensäure, die beim Aufeinandertreffen mit Wasser zum charakteristischen Kitzeln auf Zunge und Haut führt.          
+ Die Schüler:innen lernen in diesem Kurs eine Parallele zwischen Brausetabletten und sprudelnden Bademitteln kennen, nämlich die Zusammensetzung aus Natron und Zitronensäure, die beim Aufeinandertreffen mit Wasser zum charakteristischen Kitzeln auf Zunge und Haut führt.          
 :::
 
 :::message  

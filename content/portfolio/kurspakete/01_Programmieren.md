@@ -20,11 +20,11 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-In diesem Kurs tauchen wir in die Welt des Programmierens ein und schreiben einen einfachen Code zunächst ganz ohne Computer und Strom. Später schicken wir Online-Spielfiguren mit Programmierbefehlen auf Entdeckungstour, schreiben eigene kleine Programme für einen Minicomputer, um z.B. auf Knopfdruck Emojis anzuzeigen und Melodien abzuspielen oder generiert digital Muster, die wir dann mit einer Stickmaschine auf Filz sticken.
+In diesem Kurs tauchen wir in die Welt des Programmierens ein und schreiben einen einfachen Code zunächst ganz ohne Computer und Strom. Später schicken wir Online-Spielfiguren mit Programmierbefehlen auf Entdeckungstour, schreiben eigene kleine Programme für einen Minicomputer, um z.B. auf Knopfdruck Emojis anzuzeigen und Melodien abzuspielen oder generieren digitale Muster, die wir dann mit einer Stickmaschine auf Filz sticken.
 :::
 
 :::learning_goals  
-Mit dem Programmieren kann man garnicht früh genug beginnen. So gut wie alles in unserer digitalen Welt begann mit einer ersten Code-Zeile. In diesem Kurs lernen die Schüler:innen die Grundlagen des Programmierens kennen und dürft selbst kleine Projekte umsetzen.     
+Mit dem Programmieren kann man garnicht früh genug beginnen. So gut wie alles in unserer digitalen Welt begann mit einer ersten Code-Zeile. In diesem Kurs lernen die Schüler:innen die Grundlagen des Programmierens kennen und dürfen selbst kleine Projekte umsetzen.     
 :::
 
 :::special_notes  

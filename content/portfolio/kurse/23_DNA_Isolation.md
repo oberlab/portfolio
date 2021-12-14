@@ -20,7 +20,7 @@ image_result: ../content/img/kurse/DNA_result.png
 image_process: ../content/img/kurse/DNA_process.png
 ---
 :::short_description  
-Die Erbinformation (DNA) ist der Bauplan allen Lebens auf diesem Planeten. Die DNA befindet sich im Zellkern einer jeden tierischen und pflanzlichen Zelle, wo sie geschützt ist und sich vervielfachen kann. Ihr werdet der DNA einen kleinen Besuch abstatten, jedoch kommt sie nicht gerne aus ihrem Versteck heraus, weswegen ihr die DNA mit einfachen Mitteln aus ihrem Häuschen herauslockt, um ihr einmal "Hallo" sagen zu können. Hierzu werdet ihr eine Erdbeere zerkleinern und von einer ganz neuen Seite kennenlernen.  
+Die Erbinformation (DNA) ist der Bauplan allen Lebens auf diesem Planeten. Die DNA befindet sich im Zellkern einer jeden tierischen und pflanzlichen Zelle, wo sie geschützt ist und sich vervielfachen kann. Ihr werdet der DNA einen kleinen Besuch abstatten, jedoch kommt sie nicht gerne aus ihrem Versteck heraus. Ihr lockt die DNA mit einfachen Mitteln aus ihrem Häuschen, um ihr einmal "Hallo" sagen zu können. Hierzu werdet ihr eine Erdbeere zerkleinern und von einer ganz neuen Seite kennenlernen.  
 :::
 
 :::learning_goals  

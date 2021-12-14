@@ -19,11 +19,11 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Ihr wolltet schon immer mal mit einer Nähmaschine kreativ werden? Hier lernt ihr alle Teile und ihre Funktion kennen. Das erste Projekt ist ein bunter Spüllappen, an dem wir alle Sticharten ausprobieren. Danach nähen wir ein Stiftemäppchen mit Reißverschluss und ihr könnt es anschließend nach Wunsch verzieren.  
+Ihr wolltet schon immer mal mit einer Nähmaschine kreativ werden? Hier lernt ihr alle Teile und ihre Funktion kennen. Das erste Projekt ist ein bunter Spüllappen, an dem wir alle Sticharten ausprobieren. Danach nähen wir ein Stiftemäppchen mit Reißverschluss das ihr anschließend nach Wunsch verzieren könnt.  
 :::
 
 :::learning_goals  
-Die Teilnehmer:innen können nach dieser Einheit dich wichtigsten Teile einer Nähmaschine benennen. Geradstich, Zickzack und Nähte sichern ist kein Problem mehr, ebenso, wie das Nähen eines aufgesetzten Reißverschlusses.         
+Die Teilnehmer:innen können nach dieser Einheit die wichtigsten Teile einer Nähmaschine benennen. Geradstich, Zickzack und Nähte sichern ist kein Problem mehr, sowie das Nähen eines aufgesetzten Reißverschlusses.         
 :::
 
 :::message  

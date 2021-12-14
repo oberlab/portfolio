@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Der Mörder war wieder der Gärtner. Ja, ist dem wirklich so? Wer kann denn das Gegenteil behaupten? Schlüpft in die Rolle eines Forensikers und findet den Täter, denn wir sehen uns in diesem Kurs einmal genau die Bauanleitung allen Lebens an und wollen sie mittels einer PCR einwandfrei der Täter:in zuordnen.             
+Der Mörder war wieder der Gärtner. Ja, ist dem wirklich so? Wer kann denn das Gegenteil behaupten? Schlüpft in die Rolle eines Forensikers und findet den Täter, denn wir sehen uns in diesem Kurs einmal genau die Bauanleitung allen Lebens an und wollen sie mittels einer PCR einwandfrei der Täterin oder dem Täter zuordnen.             
 :::
 
 :::learning_goals  

@@ -20,11 +20,11 @@ image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---
 :::short_description  
-Die kleine Schildkröte Turtle hört auf euer Kommando. Sie zeichnet einzigartige Muster, die später von der Nähmaschine auf Filzuntersetzer nachgezeichnet werden.    
+Die kleine Schildkröte Turtle hört auf euer Kommando. Sie zeichnet einzigartige Muster, die später von der Nähmaschine auf Filzuntersetzern nachgestickt werden.    
 :::
 
 :::learning_goals  
- Mit Hilfe einer Block-basierten Programmiersprache wird mit der Maus ein Ablaufprogramm gebaut, das den Bewegungsablauf einer Schildkröte vorgibt. Dabei probieren wir viel aus und lernen die Bedeutung von Drehwinkeln und relative Bewegungen. Jedes Kind kann ein Muster auf einen Filzuntersetzer sticken (lassen) und mit nach Hause nehmen oder bekommt diesen ein paar Tage später nachgereicht.            
+ Mit Hilfe einer Block-basierten Programmiersprache wird mit der Maus ein Ablaufprogramm gebaut, das den Bewegungsablauf einer Schildkröte vorgibt. Dabei probieren wir viel aus und lernen die Bedeutung von Drehwinkeln und relativen Bewegungen. Jedes Kind kann ein Muster auf einen Filzuntersetzer sticken (lassen) und mit nach Hause nehmen oder bekommt diesen ein paar Tage später nachgereicht.            
 :::
 
 :::message  
