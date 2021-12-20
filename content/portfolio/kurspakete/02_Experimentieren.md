@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule:
   Realschule:
   Gymnasium:
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/IMG_1617.jpg
+image_process: ../content/img/kurse/IMG_0941.jpg
 ---
 :::short_description  
 Der Experimentierklub ist das Paket mit der größten Bandbreite an Themengebieten. Von Programmieren, Designen, 3D-Druck, spannenden chemischen Experimenten und viel Naturwissenschaft ist alles dabei, was das Forscher:innenherz höher schlagen lässt. Das Angebot eignet sich perfekt um an Schulen bestimmte MINT-Bereiche zu erweitern.   
