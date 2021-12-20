@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: Inf5-7, NT  
   Realschule: IT 2.6  
   Gymnasium: NT6 2, Inf9
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/Wetterstation_2.png
+image_process: ../content/img/kurse/Wetterstation.png
 ---
 :::short_description  
 Ihr möchtet euch eine Wetterstation selber bauen? Dann seid ihr hier richtig. Das Holz-Gehäuse erstellen wir mit einem Lasercutter und danach geht es an das Innenleben der Wetterstation. Wir programmieren einen Arduino NANO und verbinden einen Sensor, sowie ein Display mit dem Microcontroller. Das Display zeigt euch die Temperatur, die Luftfeuchtigkeit und den Luftdruck an, dabei werden die Sensorwerte in regelmäßigen Abständen aktualisiert.        

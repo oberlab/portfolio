@@ -10,13 +10,13 @@ attributes:
   school_subject: MINT
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule: 
+  Grundschule:
   Mittelschule:
   Förderschule:    
   Realschule:
   Gymnasium:
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/Münzen_2.png
+image_process: ../content/img/kurse/Münzen_frei.png
 ---
 :::short_description  
 "Es ist nicht alles Gold, was glänzt", nun, diese Behauptung mag wohl stimmen, aber wie wäre es, wenn du einfach aus einer Kupfermünze eine Goldmünze machst? Wenn das so einfach wäre, dann würde die Welt ja nur so funkeln; zumindest kann man Kupfermünzen mit einer gold-glänzenden Schicht überziehen und damit den Eindruck erwecken, dass es sich um Gold handelt. Das bleibt aber unser Geheimnis ;)          

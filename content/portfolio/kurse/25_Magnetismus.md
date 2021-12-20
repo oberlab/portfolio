@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: NT5-9 SIU  
   Realschule: Ph7-8
   Gymnasium: NT7 1.1
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/Magnet.png
+image_process: ../content/img/kurse/Magnet_2.png
 ---
 :::short_description   
 "Ob du wirklich richtig stehst, siehst du, wenn das Licht an geht!" Aber wo steht ihr denn überhaupt? Wieso liegt Hamburg im Norden und was bedeutet das eigentlich? Dieser Kurs wird eure Segel auf richtigen Kurs bringen und euch mit den Himmelsrichtungen und einem selbstgebauten Magneten sicher ans Ziel bringen.            

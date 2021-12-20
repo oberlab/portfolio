@@ -17,7 +17,7 @@ curriculum_reference:
   Realschule: C8-9 4 C10 5
   Gymnasium: C8-10
 image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_process: ../content/img/kurse/Scherenschnitt_process.png
 ---
 :::short_description  
 Stellt euch vor, in eurem Zimmer hängt ein Profilbild von euch aus einem sehr großen Stück Papier, das ihr sowohl selbst gestaltet und mit einem Laser ausgeschnitten habt. Klingt nach einer Vorstellung, die sich nie erfüllen wird? Nehmt an diesem Kurs teil, indem ihr genau das macht, um eure Schokoladenseite zu verewigen. Lächeln, bitte!         

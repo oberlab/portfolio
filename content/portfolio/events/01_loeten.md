@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule:    
   Realschule:
   Gymnasium:
-image_result: ../content/img/kurse/solder_result.png
-image_process: ../content/img/kurse/solder_process.png
+image_result: ../content/img/kurse/Badge_result.png
+image_process: ../content/img/kurse/Badge_process.png
 ---
 ::: short_description
 Eine verrückte Fledermaus, ein gruseliger Geist oder ein netter Roboter, all das steht bei unserem Lötkursen im Fokus. Dieses Event wird durch Platinen zum Anstecken erweitert. Durch das Löten verbindet ihr verschiedene elektronische Bauteile und LEDs mit der Platine und kreiert so euren ganz eigenen Stromkreis.
@@ -31,5 +31,5 @@ Allerhand verschiedener Platinen stehen bei diesem Event zur Verfügung. Um zum 
 :::
 
 :::special_notes
-Unsere Platinen gibt es in unterschiedlichsten Ausführungen, sowohl Anfänger als auch Fortgeschrittene kommen auf ihre Kosten. 
+Unsere Platinen gibt es in unterschiedlichsten Ausführungen, sowohl Anfänger als auch Fortgeschrittene kommen auf ihre Kosten.
 :::

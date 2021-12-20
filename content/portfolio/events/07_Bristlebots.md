@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule:    
   Realschule:
   Gymnasium:
-image_result: ../content/img/kurse/bristle_result.png
-image_process: ../content/img/kurse/bristle_process.png
+image_result: ../content/img/kurse/Bristle.png
+image_process: ../content/img/kurse/Bristle_2.png
 ---
 :::short_description  
 Zahnbürsten sind unser ständiger Begleiter in verschiedenen Facetten: aus Bamubs, aus Plastik oder gar elektrisch. Einer Zahnbürste einen neuen Nutzen zu geben und sie in ein krabbelndes Fantasiewesen zu verwandeln ist genau das, was bei diesem Event geschehen wird. Je verrückter dein Bristlbot, desto besser!  

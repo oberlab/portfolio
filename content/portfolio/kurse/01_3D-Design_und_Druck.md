@@ -16,7 +16,7 @@ curriculum_reference:
   Realschule: IT 2.4, We5-10
   Gymnasium: BO9, Inf9+10, C9+10
 image_result: ../content/img/kurse/3D-print_result.png
-image_process: ../content/img/kurse/3D-print_process.png
+image_process: ../content/img/kurse/3D_Druck.png
 ---
 :::short_description  
 Jeder hat schon einmal Texte oder Bilder auf ein Blatt Papier gedruckt. Doch was ist, wenn das Objekt, das man auf ein Papier druckt auf einmal dreidimensional ist und gut an den Schlüsselbund gehängt werden kann? Das klingt nach Science-Fiction, gehört aber inzwischen zur gängigen Praxis in additiver Fertigung. Ihr habt eine Lieblingsfigur oder wollt eurem Haustier ein Namensschild gestalten? In diesem Workshop werdet ihr ein Objekt eurer Wahl selbst designen und am 3D-Drucker ausdrucken.

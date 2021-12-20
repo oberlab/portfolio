@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: WG5-6 T7-9 IdiG
   Realschule: Ph9-10 We5-8 It 2.4
   Gymnasium: NT5 NT6+7 2
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/Stiftehalter_2.png
+image_process: ../content/img/kurse/Stifte_3.png
 ---
 :::short_description  
 Ordnung ist das halbe Leben... Schön und gut, aber wenn es keinen Platz für Ordnung, sondern nur für Chaos gibt, was dann? In diesem Kurs werdet ihr einen Ort für Struktur schaffen, indem ihr euren Stiften ein Zuhause gebt, das sie nie wieder verlassen werden, denn ihr habt dieses Zuhause designed und zusammengebaut; hier geht sicherlich nichts mehr stiften.             

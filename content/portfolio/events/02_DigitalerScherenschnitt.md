@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule:    
   Realschule:
   Gymnasium:
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/Scherenschnitt_process.jpg
+image_process: ../content/img/kurse/Scherenschnitt_process.jpg
 ---
 :::short_description  
 Stellt euch vor, in eurem Zimmer hängt ein Profilbild von euch aus einem sehr großen Stück Papier, das ihr sowohl selbst gestaltet und mit einem Laser ausgeschnitten habt. Klingt nach einer Vorstellung, die sich nie erfüllen wird, es sei denn, ihr nehmt an diesem Kurs teil, indem ihr genau das macht, um eure Schokoladenseite zu verewigen. Lächeln, bitte!

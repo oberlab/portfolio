@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: NT5-9   
   Realschule: C8-10 5
   Gymnasium: C8-11
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/Tinte_2.png
+image_process: ../content/img/kurse/Tinte.png
 ---
 :::short_description  
 Ihr habt eine Erfindung, die die Welt verändern wird, aber es darf niemand davon wissen? Ihr möchtet jemandem einen Liebesbrief schreiben, den sonst niemand lesen darf? Dann werdet mit Hilfe des Oberlab-Geheimdienstes zum secret agent und entwickelt eure eigene Geheimtinte aus Hausmitteln.          
