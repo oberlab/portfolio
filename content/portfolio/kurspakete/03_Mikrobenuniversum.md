@@ -12,9 +12,9 @@ attributes:
 curriculum_reference:
   Grundschule: HSU3/4
   Mittelschule: NT6, M6, GPG6, D6, WiB
-  Förderschule:
-  Realschule:
-  Gymnasium:
+  Förderschule: GPG7, NT6-7
+  Realschule: B, Geo7
+  Gymnasium: B9, B11-12, NT5-6
 image_result: ../content/img/kurse/dummy_result.png
 image_process: ../content/img/kurse/dummy_process.png
 ---

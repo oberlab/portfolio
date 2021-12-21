@@ -11,11 +11,11 @@ attributes:
   school_subject: NuT, Chemie, HSU
   mobile: mobiles Angebot
 curriculum_reference:
-  Grundschule:  
-  Mittelschule:
-  Förderschule:
-  Realschule:
-  Gymnasium:
+  Grundschule: HSU, WG, M  
+  Mittelschule: NT, T, Inf, IdiG, WiB  
+  Förderschule: WG, HSU, Inf, M  
+  Realschule: B, C, Ph, Inf, We, M, TG
+  Gymnasium: B, C, Ph, Inf, NuT, M
 image_result: ../content/img/kurse/IMG_1617.jpg
 image_process: ../content/img/kurse/IMG_0941.jpg
 ---
