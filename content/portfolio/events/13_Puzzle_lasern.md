@@ -27,7 +27,7 @@ Zu sämtlichen Anlässen ein persönliches und individuellen Geschenk parat zu h
 :::
 
 :::process
-Aus kleinen Fichtenplatten wird euer Puzzle gefertigt. Das Puzzlemuster wird zufällig generiert, darum müsst ihr euch also nicht kümmern. Lediglich das Gestalten und Auslasern wird eure Aufgabe sein. Ihr gestaltet das Muster auf einem Papier, scannt es ein, digitalisiert es und der Laser hat die ehrenhafte Aufgabe, euer Meisterwerk letztlich umzusetzen.
+Du suchst dir deine Holzplatte bei uns aus, das Puzzle-Design und etwas, das auf das Puzzle gelasert wird. Hier kann nur gleichzeitig designt und gelasert werden.
 :::
 
 :::special_notes  

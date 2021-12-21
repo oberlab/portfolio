@@ -23,11 +23,11 @@ image_process: ../content/img/kurse/Münzen_frei.png
 :::
 
 :::message  
-Klar ist, dass man aus Kupfer nicht einfach Gold machen kann. In der Verbindung mit Zink wird jedoch eine Legierung geboren, die das Licht genau so bricht, dass man von Gold ausgehen könnte. Dieser Kurs bietet zudem einen Einstieg in chemisch-technisches Arbeiten und einen Einblick, was es mit Legierungen auf sich hat. Kennst du eine weitere Legierung? Kleiner Tipp: Platz 3 beim Sport.      
+Klar ist, dass man aus Kupfer nicht einfach Gold machen kann. In der Verbindung mit Zink wird jedoch eine Legierung geboren, die das Licht genau so bricht, dass man von Gold ausgehen könnte. Dieser Kurs bietet zudem einen Einstieg in chemisch-technisches Arbeiten und einen Einblick, was es mit Legierungen auf sich hat.      
 :::  
 
 :::process
-Zunächst werden eure Münzen ordentlich mit Salzsäure gereinigt, um dann letztlich in einem heißen Laugenbad mit Zink überzogen zu werden. Nach diesem Schritt sind die Münzen kräftig silbrig. Wer also lieber ein Silbermünzchen haben möchte, hört nach diesem Schritt auf, für Goldgräber:innen: Ihr fönt eure Münzen danach ordentlich ab und werdet von der Magie der Chemie erstaunt werden.
+Du kommst einfach mit deiner Münze vorbei und vergoldest sie mit unserer Hilfe. 
 :::
 
 :::special_notes  

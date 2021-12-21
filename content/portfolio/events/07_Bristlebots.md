@@ -27,9 +27,9 @@ Egal ob im Handy, in Controllern von Spielekonsolen oder elektrischen Zahnbürst
 :::  
 
 :::process
-Zuerst wirst du eine Bambus-Zahnbürste köpfen und den Kopf etwas in Form bringen. Der Motor und der Sockel für die Batterie werden mit Heißkleber aufgebracht. Jetzt sieht eure Figur noch sehr nach einem Zahnbürstenkopf mit Batterie aus, das ändert sich im nächsten Schritt: Wir haben allerhand Bastelmaterial, Glitzerkleber, Pfeifenreiniger und Wackelaugen dabei, damit euer Tier so einzigartig wie möglich werden kann. Zum Schluss lassen wir die Bots in einer kleinen Arena gegeneinander antreten, möge der Bessere gewinnen.
+Du baust bei uns deinen Bot zusammen und wenn du noch an einem kleinen Wettkampf teilnehmen möchtest, dann warte bis genügend Kontrahent:innen ihren Bot fertig haben und tritt gegen sie in der Arena an.
 :::
 
 :::special_notes  
-Der Sockel, in dem die Batterie angebracht wird, wurde von uns designed und 3D-gedruckt.
+Der Sockel, in dem die Batterie angebracht wird, wurde von uns designt und 3D-gedruckt.
 :::

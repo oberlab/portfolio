@@ -27,7 +27,7 @@ Dieser Kurs zeigt, wie einfach es ist, aus einem echten Portrait eine digitale K
 :::
 
 :::process
-Mit großen Kartonpapieren verschiedener Farben, einer Kamera, einem Lasercutter und einem Schneideplotter kommen wir angerollt, um euer Profilbild zu verwirklichen. Moment, wir verwirklichen das? Nein, wir stellen das Wissen und das Equipment, aber der Weg von Bild zu digitalem Pfad bestreitet ihr mit unserer Hilfe.
+Du kommst einfach zu uns und lässt ein Profilbild von dir machen. Danach darfst du das vektorisierte Bild in den Laser geben und ausschneiden.
 :::
 
 :::special_notes  

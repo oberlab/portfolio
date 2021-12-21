@@ -27,7 +27,7 @@ In diesem Kurs lernt ihr etwas über die Grundlagen von Elektronik und dürft mi
 :::
 
 :::process
-Allerhand verschiedener Platinen stehen bei diesem Event zur Verfügung. Um zum echten Hingucker in der Dämmerung zu werden, stehen Platinen in Form des Autobots-Logos zur Verfügung; damit könnt ihr den Planeten mit Sicherheit von den Decepticons befreien.
+Du suchst dir zu Beginn eine Platine aus und darfst auch schon anfangen. Solltest du anschließend noch eine löten wollen, dann probiere dich an einer schwereren aus.
 :::
 
 :::special_notes

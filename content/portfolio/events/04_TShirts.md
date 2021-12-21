@@ -27,7 +27,7 @@ Ein Elefant, der mit einem Hut auf einem Fahrrad fährt. Klingt etwas absurd, ab
 :::  
 
 :::process
-Zunächst muss die Idee in eurem Kopf digitalisiert werden. Solltet ihr unentschlossen sein, haben wir eine breite Auswahl an Motiven und Texten dabei. Anschließend könnt ihr aus verschiedenen Farben und Folien auswählen, was auf euer Shirt soll. Von Glitzer bis lila-blass-blau ist alles dabei. Zuletzt bügelt ihr dann noch euer Motiv mit einer Presse auf und zack, euer Shirt ist nun etwas ganz einzigartiges.
+Komm mit deinem T-Shirt zu uns und leg los. Gerne können mehrere gleichzeitig ein T-Shirt bedrucken.
 :::
 
 :::special_notes  
