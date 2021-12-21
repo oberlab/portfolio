@@ -28,7 +28,7 @@ Die Schüler:innen lernen zu experimentieren, das heißt Vermutungen aufstellen,
 :::
 
 :::message  
-Ihr wollten schon immer einmal wissen wie ein richtiger Forscher arbeitet? Dann ist dieser Kurs genau das richtige für euch. Wir zeigen euch wie man ein gutes Experiment aufbaut. Eins sei schon verraten: Es fordert viel Kopfarbeit und einen scharfen Beobachtungssinn.
+Du wolltest schon immer einmal wissen, wie ein richtiger Forscher arbeitet? Dann ist dieser Kurs genau das richtige für dich. Wir zeigen dir, wie man ein gutes Experiment aufbaut. Eins sei schon verraten: Es fordert viel Kopfarbeit und einen scharfen Beobachtungssinn.
 :::  
 
 :::special_notes  
