@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: WG1-6, Inf5-7, NT  
   Realschule: TG 5-9, IT 2.6
   Gymnasium: NT6 2, Inf9
-image_result: ../content/img/kurse/Turtle.jpg
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/Turtle_result.jpg
+image_process: ../content/img/kurse/Turtle_process.png
 ---
 :::short_description  
 Die kleine Schildkröte Turtle hört auf euer Kommando. Sie zeichnet einzigartige Muster, die später von der Nähmaschine auf Filzuntersetzern nachgestickt werden.    

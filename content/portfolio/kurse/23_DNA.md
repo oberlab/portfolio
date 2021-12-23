@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: NT5-9   
   Realschule: C8-10 B10
   Gymnasium: C8-10 B8-10 C11 SpG9
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/DNA_result.png
+image_process: ../content/img/kurse/PCR_process.png
 ---
 :::short_description  
 Der Mörder war wieder der Gärtner. Ja, ist dem wirklich so? Wer kann denn das Gegenteil behaupten? Schlüpft in die Rolle eines Forensikers und findet den Täter, denn wir sehen uns in diesem Kurs einmal genau die Bauanleitung allen Lebens an und wollen sie mittels einer PCR einwandfrei der Täterin oder dem Täter zuordnen.             

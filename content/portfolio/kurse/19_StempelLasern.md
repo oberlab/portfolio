@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: NT5-9 IdiG 7-10  
   Realschule: IT LB 1-3
   Gymnasium: BO9 NuT Inf9-10
-image_result: ../content/img/kurse/Stempel_2.png
-image_process: ../content/img/kurse/Stempel.png
+image_result: ../content/img/kurse/Stempel_result.png
+image_process: ../content/img/kurse/Stempel_process.png
 ---
 :::short_description  
 Ein Stempel ist wie der persönliche Fingerabdruck am Ende eines Briefes, doch leider sind die Motive oft schon vorgegeben. In diesem Workshop gestaltet ihr einen ganz persönlichen Stempel am Computer und schneidet ihn danach mit dem Lasercutter aus.  Ein Kätzchen, ein Pokémon, ein Palatschinken oder dein Name, alles geschieht nach euren Vorstellungen.            

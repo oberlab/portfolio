@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule:    
   Realschule:
   Gymnasium:
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/T-Shirts_result.png
+image_process: ../content/img/kurse/T-Shirts_process.png
 ---
 :::short_description  
 Bei einer Veranstaltung mit einem T-Shirt nach Hause gehen, das das eigene Design trägt und selbst bedruckt wurde? Wir bringen die nötige Ausstattung und Equipment mit, damit aus diesem tollen Gedanken Realität wird.

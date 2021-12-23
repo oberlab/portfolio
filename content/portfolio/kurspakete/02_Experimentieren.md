@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: WG, HSU, Inf, M  
   Realschule: B, C, Ph, Inf, We, M, TG
   Gymnasium: B, C, Ph, Inf, NuT, M
-image_result: ../content/img/kurse/IMG_1617.jpg
-image_process: ../content/img/kurse/IMG_0941.jpg
+image_result: ../content/img/kurse/Experimentierklub_result.jpg
+image_process: ../content/img/Experimentierklub_process.jpg
 ---
 :::short_description  
 Der Experimentierklub ist das Paket mit der größten Bandbreite an Themengebieten. Von Programmieren, Designen, 3D-Druck, spannenden chemischen Experimenten und viel Naturwissenschaft ist alles dabei, was das Forscher:innenherz höher schlagen lässt. Das Angebot eignet sich perfekt um an Schulen bestimmte MINT-Bereiche zu erweitern.   

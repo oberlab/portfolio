@@ -15,7 +15,7 @@ curriculum_reference:
   Mittelschule: WG5/6
   Förderschule: WG1-6   
   Realschule: TG 5-9
-image_result: ../content/img/kurse/dummy_result.png
+image_result: ../content/img/kurse/Reißverschluss_result.png
 image_process: ../content/img/kurse/Reißverschluss.jpg
 ---
 :::short_description  

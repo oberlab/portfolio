@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: NT6-9   
   Realschule: C8-9 4 C10 5
   Gymnasium: C8-10
-image_result: ../content/img/kurse/Lebensmittel_1.png
-image_process: ../content/img/kurse/tricks_process.png
+image_result: ../content/img/kurse/Lebensmittel_result.png
+image_process: ../content/img/kurse/Lebensmittel1_process.png
 ---
 :::short_description  
 _"Ohne Zusatz von Geschmacksverstärkern und Konservierungsstoffen"_. Sicher ist euch diese Aussage schon auf diversen Lebensmittelverpackungen aufgefallen. Doch was genau meinen die Lebensmittelhersteller mit diesem Satz, der uns letztlich zum Kauf animiert? In diesem Kurs stellt ihr diverse Aromen her, lernt Zusatzstoffe kennen und baut - ja, ihr baut - euch euren eigenen Kochschinken, der mit einem Enzym und Fleischstücken zusammengeklebt und mit der Farbe eurer Wahl (gerne auch grün) eingefärbt wird.

@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: WG5-6 T7-9 IdiG
   Realschule: Ph9-10 We5-8 It 2.4
   Gymnasium: NT5 NT6+7 2
-image_result: ../content/img/kurse/MundM.png
-image_process: ../content/img/kurse/MundM_2.png
+image_result: ../content/img/kurse/MundM_result.png
+image_process: ../content/img/kurse/MundM_2_process.png
 ---
 :::short_description  
 Jeder wird schwach, wenn es um Naschereien beim Fernsehen geht. Wie wäre es aber mit einem selbstgebauten Gerät, das nur eine handvoll M&Ms durchlässt, so dass man kein schlechtes Gewissen haben muss? Komm in diesen Kurs und beende das Dilemma um die Verführung, unkontrolliert nach Schokolinsen zu greifen. Baue einen M&M-Automaten aus Holz.             

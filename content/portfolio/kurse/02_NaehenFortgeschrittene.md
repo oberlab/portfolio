@@ -15,7 +15,7 @@ curriculum_reference:
   Förderschule: WG5/6   
   Realschule: TG 5-9
 image_result: ../content/img/kurse/Rucksack_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_process: ../content/img/kurse/Rucksack_process.png
 ---
 :::short_description  
 Ihr arbeitet schon ab und zu mal selbstständig an einer Nähmaschine und möchtet jetzt mal richtig nach einem Schnitt nähen? Wir nähen einen Turnbeutel oder auch Matchsack aus zwei verschiedenen Stoffen, der ab jetzt euer täglicher Begleiter sein wird.    

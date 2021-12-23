@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: WG3/4 NT5-9   
   Realschule: C8-9 4 C10 5
   Gymnasium: C8-10
-image_result: ../content/img/kurse/Farben_1.png
-image_process: ../content/img/kurse/Experimentieren.png
+image_result: ../content/img/kurse/Farben_result.png
+image_process: ../content/img/kurse/Farben_process.png
 ---
 :::short_description  
 Nach manchem Regenschauer, wenn die Sonne lacht, erscheint ein Regenbogen am Himmel in allen Farben. Alle Farben? Was ist mit Weiß, Grau und Schwarz? Sind das keine Farben? Und wohin "geht" eigentlich die Farbe, wenn die Tinte mit einem Tintenkiller überstrichen wird? Diesen Fragen gehen wir experimentell auf den Grund und untersuchen zudem den "Fingerabdruck" von Filzstiften.          

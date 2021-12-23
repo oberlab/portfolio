@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: GPG7, NT6-7
   Realschule: B, Geo7
   Gymnasium: B9, B11-12, NT5-6
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/Mikroben_result.png
+image_process: ../content/img/kurse/Mikroben_process.png
 ---
 :::short_description  
 Wasseranalysen zeigen, dass Wasser nicht gleich Wasser und Boden nicht einfach nur Boden ist. Mit unseren 3D-gedruckten digitalen Mikroskopen ist es außerdem möglich, die Welt der Mikroben zu erkunden. Es wird auch das Thema Umweltverschmutzung, Eingriff in Lebensräume und das Thema Mikroplastik besprochen. Denn die mikroskopischen Kunststoffpartikel sind nicht nur ein Problem der Ozeane, sondern verschmutzen auch unsere heimischen Wälder, Flüsse und Seen.
