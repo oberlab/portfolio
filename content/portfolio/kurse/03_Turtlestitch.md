@@ -16,7 +16,7 @@ curriculum_reference:
   Förderschule: WG1-6, Inf5-7, NT  
   Realschule: TG 5-9, IT 2.6
   Gymnasium: NT6 2, Inf9
-image_result: ../content/img/kurse/Turtle_result.jpg
+image_result: ../content/img/kurse/Turtle_result.png
 image_process: ../content/img/kurse/Turtle_process.png
 ---
 :::short_description  
