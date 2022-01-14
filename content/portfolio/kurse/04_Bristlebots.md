@@ -16,7 +16,7 @@ curriculum_reference:
   Förderschule: WG3/4+5+6, T7   
   Realschule: We5-7
   Gymnasium: NT5-7, Ph8
-image_result: ../content/img/kurse/bristle_result.png
+image_result: ../content/img/kurse/bristle_result1.png
 image_process: ../content/img/kurse/bristle_process.png
 ---
 :::short_description  

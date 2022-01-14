@@ -17,7 +17,7 @@ curriculum_reference:
   Realschule: IT 2.6  
   Gymnasium: NT6 2, Inf9
 image_result: ../content/img/kurse/calliope_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_process: ../content/img/kurse/calliope2_process.png
 ---
 :::short_description  
 Die Kurse "Coding unplugged" und "Calliope programmieren" sind nur die Spitze des Eisbergs. Dieser Kurs richtet sich an fortgeschrittene Coder:innen, die schon einige Erfahrung mit Open Roberta und dem Calliope gesammelt haben. In diesem Kurs werdet ihr verschiedene alltägliche Einsatzgebiete des Calliopes kennenlernen und programmieren, von denen ihr zuvor nicht wusstet, dass ihr sie mit dem Calliope bewerkstelligen könnt.     

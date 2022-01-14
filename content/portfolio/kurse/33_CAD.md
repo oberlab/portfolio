@@ -15,8 +15,8 @@ curriculum_reference:
   Förderschule: BLOP T T9   
   Realschule: IT 2.4
   Gymnasium: T10 IT
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/CAD_result.png
+image_process: ../content/img/kurse/CAD_process.png
 ---
 :::short_description  
 Computer Aided Design, computergestütztes Design, ein Designverfahren, bei dem man am Anfang ohne Anleitung wie der Ochs vorm Berg steht. Gemeinsam werden wir in diesem Kurs das nötige mathematische Werkzeug mit Programmierung verknüpfen, damit ihr nicht mehr vor 2D-, oder 3D-Designhürden steht.                

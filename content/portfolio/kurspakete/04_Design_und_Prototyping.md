@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: IdiG DB 6.3   
   Realschule: IT 1.2, 2.7
   Gymnasium: T10 IT NT7 2.3
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/Design_result.png
+image_process: ../content/img/kurse/Design_process.png
 ---
 :::short_description  
 Du hast eine geniale Erfindung im Kopf, die alle deine Probleme lösen wird? Wie kann aus deiner Idee Wirklichkeit werden? Wir zeigen dir, wie man mit Hilfe von CAD-(computer-aided design) Programmen wie die Profis Entwürfe erstellt und einen Prototypen baut, der weiter verbessert werden kann. Die nötigen Grundlagen in 3D-Design & Druck, Elektronik und Programmieren bringen wir dir bei!

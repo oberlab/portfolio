@@ -16,7 +16,7 @@ curriculum_reference:
   Förderschule: WG1-6   
   Realschule: TG 5-9
 image_result: ../content/img/kurse/Reißverschluss_result.png
-image_process: ../content/img/kurse/Reißverschluss.jpg
+image_process: ../content/img/kurse/Reißverschluss_process.png
 ---
 :::short_description  
 Ihr wolltet schon immer mal mit einer Nähmaschine kreativ werden? Hier lernt ihr alle Teile und ihre Funktion kennen. Das erste Projekt ist ein bunter Spüllappen, an dem wir alle Sticharten ausprobieren. Danach nähen wir ein Stiftemäppchen mit Reißverschluss das ihr anschließend nach Wunsch verzieren könnt.  
