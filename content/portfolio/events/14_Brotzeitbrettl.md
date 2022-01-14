@@ -16,7 +16,7 @@ curriculum_reference:
   Realschule:
   Gymnasium:
 image_result: ../content/img/kurse/brettl_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_process: ../content/img/kurse/brettl_process.png
 ---
 :::short_description  
 Ein Andenken, das Schnittfest und robust ist und deinen Fingerabdruck trägt wird bei diesem Event Wirklichkeit. Wir gravieren gemeinsam euer Motiv auf ein Brotzeitbrettl, das auf jeden Fall der Hingucker für die nächste Brotzeit wird. Ihr könnt euch Motive aus unseren Vorlagen aussuchen, daraus ein individuelles Design für euer Brotzeitbrettl zusammenstellen und anschließend mit unserem Lasercutter in das Holz einbrennen.

@@ -15,7 +15,7 @@ curriculum_reference:
   Förderschule:    
   Realschule:
   Gymnasium:
-image_result: ../content/img/kurse/bristle_result.png
+image_result: ../content/img/kurse/bristle_result1.png
 image_process: ../content/img/kurse/bristle_process1.png
 ---
 :::short_description  
