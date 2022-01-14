@@ -24,6 +24,7 @@ Computer Aided Design, computergestütztes Design, ein Designverfahren, bei dem 
 
 :::learning_goals  
 Um die Ecke denken will gelernt sein. In diesem Kurs wird der Grundstein für ein mathematisches Grundverständnis in der Konstruktion am Computer gelegt. Egal, ob 2D oder 3D, dieser Kurs ist der Startschuss für alle CAD-Belange.
+:::
 
 :::message  
 Viele Wege führen nach Rom und der Weg zu einem 3D-Objekt führt zwangsläufig über CAD, weswegen eine Kenntnis im Umgang mit CAD-Programmen von unschätzbarem Wert ist. Dieser Kurs wird dir den Weg zu deinem 3D-Objekt ebnen.    
