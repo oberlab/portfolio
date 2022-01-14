@@ -19,11 +19,11 @@ image_result: ../content/img/kurse/brettl_result.png
 image_process: ../content/img/kurse/brettl_process.png
 ---
 :::short_description  
-Ein Andenken, das Schnittfest und robust ist und deinen Fingerabdruck trägt wird bei diesem Event Wirklichkeit. Wir gravieren gemeinsam euer Motiv auf ein Brotzeitbrettl, das auf jeden Fall der Hingucker für die nächste Brotzeit wird. Ihr könnt euch Motive aus unseren Vorlagen aussuchen, daraus ein individuelles Design für euer Brotzeitbrettl zusammenstellen und anschließend mit unserem Lasercutter in das Holz einbrennen.
+Wir gravieren gemeinsam euer Motiv auf ein Brotzeitbrettl, das auf jeden Fall der Hingucker für die nächste Brotzeit wird. Ihr könnt euch Motive aus unseren Vorlagen aussuchen, daraus ein individuelles Design für euer Brotzeitbrettl zusammenstellen und anschließend mit unserem Lasercutter in das Holz einbrennen.
 :::
 
 :::message
-Dieses Event liefert zudem einen Einstieg in das Designen am PC. Wie tief ihr einsteigen möchtet bestimmt ihr! Außerdem zeigen wir euch, wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir eurem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Euer individuell gestaltetes Brotzeitbrettl dürft ihr natürlich mit nach Hause nehmen.
+ Wir zeigen euch, wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir eurem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Euer individuell gestaltetes Brotzeitbrettl dürft ihr natürlich mit nach Hause nehmen.
 :::  
 
 :::process
