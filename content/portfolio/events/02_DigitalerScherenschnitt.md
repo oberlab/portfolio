@@ -15,7 +15,7 @@ curriculum_reference:
   Förderschule:    
   Realschule:
   Gymnasium:
-image_result: ../content/img/kurse/Scherenschnitt_result.jpg
+image_result: ../content/img/kurse/Scherenschnitt_result.png
 image_process: ../content/img/kurse/Scherenschnitt_process.jpg
 ---
 :::short_description  
