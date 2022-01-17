@@ -23,7 +23,7 @@ Wir gravieren gemeinsam euer Motiv auf ein Brotzeitbrettl, das auf jeden Fall de
 :::
 
 :::message
- Wir zeigen euch, wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir eurem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff. Euer individuell gestaltetes Brotzeitbrettl dürft ihr natürlich mit nach Hause nehmen.
+ Wir zeigen euch, wie ein Lasercutter funktioniert und wofür er nützlich sein kann. Am Schluss verpassen wir eurem Brotzeitbrettl mit einer Kantenfräse noch den letzten Schliff.
 :::  
 
 :::process
