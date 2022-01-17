@@ -15,7 +15,7 @@ curriculum_reference:
   Förderschule: NT5-9   
   Realschule: C8-10 B10
   Gymnasium: C8-10 B8-10 C11 SpG9
-image_result: ../content/img/kurse/DNA_result.png
+image_result: ../content/img/kurse/Tatort_result.png
 image_process: ../content/img/kurse/PCR_process.png
 ---
 :::short_description  
