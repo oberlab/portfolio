@@ -19,11 +19,11 @@ image_result: ../content/img/kurse/Münzen_result.png
 image_process: ../content/img/kurse/Münzen_process.png
 ---
 :::short_description  
-"Es ist nicht alles Gold, was glänzt", nun, diese Behauptung mag wohl stimmen, aber wie wäre es, wenn du einfach aus einer Kupfermünze eine Goldmünze machst? Wenn das so einfach wäre, dann würde die Welt ja nur so funkeln; zumindest kann man Kupfermünzen mit einer gold-glänzenden Schicht überziehen und damit den Eindruck erwecken, dass es sich um Gold handelt. Das bleibt aber unser Geheimnis ;)          
+"Es ist nicht alles Gold, was glänzt", nun, diese Behauptung mag wohl stimmen, aber wie wäre es, wenn du einfach aus einer Kupfermünze eine Goldmünze machst? So leicht geht das nun leider nicht; zumindest kann man Kupfermünzen mit einer gold-glänzenden Schicht überziehen und damit den Eindruck erwecken, dass es sich um Gold handelt. Das bleibt aber unser Geheimnis ;)          
 :::
 
 :::message  
-Klar ist, dass man aus Kupfer nicht einfach Gold machen kann. In der Verbindung mit Zink wird jedoch eine Legierung geboren, die das Licht genau so bricht, dass man von Gold ausgehen könnte. Dieser Kurs bietet zudem einen Einstieg in chemisch-technisches Arbeiten und einen Einblick, was es mit Legierungen auf sich hat.      
+In Verbindung mit Zink wird eine Legierung geboren, die das Licht genau so bricht, dass man von Gold ausgehen könnte. Dieser Kurs bietet zudem einen Einstieg in chemisch-technisches Arbeiten und einen Einblick, was es mit Legierungen auf sich hat.      
 :::  
 
 :::process
