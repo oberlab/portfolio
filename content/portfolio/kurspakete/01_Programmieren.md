@@ -1,5 +1,5 @@
 ---
-title: CodingKids
+title: CodingKids - Spielerisch Programmieren Lernen
 category: code
 attributes:
   age: Ab 8 Jahren
@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: Inf5-7, HSU
   Realschule: IT 2.6  
   Gymnasium: NT6 2
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/codingkids_process.png
+image_process: ../content/img/kurse/codingkids_process.png
 ---
 :::short_description  
 In diesem Kurs tauchen wir in die Welt des Programmierens ein und schreiben einen einfachen Code zunächst ganz ohne Computer und Strom. Später schicken wir Online-Spielfiguren mit Programmierbefehlen auf Entdeckungstour, schreiben eigene kleine Programme für einen Minicomputer, um z.B. auf Knopfdruck Emojis anzuzeigen und Melodien abzuspielen oder generieren digitale Muster, die wir dann mit einer Stickmaschine auf Filz sticken.

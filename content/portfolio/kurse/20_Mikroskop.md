@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: NT5-9    
   Realschule: C8-9 4 C10 5
   Gymnasium: C8-10
-image_result: ../content/img/kurse/Mikroben_process.png
-image_process: ../content/img/kurse/Mikroskop_process.png
+image_result: ../content/img/kurse/mikroskop_result.jpg
+image_process: ../content/img/kurse/Mikroben_process.png
 ---
 :::short_description  
 Dass Blätter grün sind, ist lange kein Geheimnis mehr. Aber wo kommt diese grüne Farbe her? Oder wo ist eigentlich die Flüssigkeit in Zwiebeln gespeichert, die euch beim Schneiden die Tränen in die Augen treibt? Unser Auge ist für so kleine Gebilde nicht geeignet, weswegen wir uns das Mikroskop zur Hilfe nehmen werden. In diesem Kurs werdet ihr ein 3D-gedrucktes Mikroskop zusammenbauen und die Welt aus einem ganz neuen Blickwinkel kennenlernen.      

@@ -1,11 +1,11 @@
 ---
-title: Lebensgrundlage Wasser und Boden – Entdecke das Mikrobenuniversum
+title: Entdecke das Mikrobenuniversum
 category: science
 attributes:
   age: Ab 8 Jahren
   class: Ab der 3. Klasse
   group_size: 6-10 Personen
-  duration_school: 6-10 UE (Projekt-/Wandertag)
+  duration_school: 6-10 UE
   material_costs: 5 EUR
   school_subject: NuT, Chemie, HSU
   mobile: mobiles Angebot
@@ -15,7 +15,7 @@ curriculum_reference:
   Förderschule: GPG7, NT6-7
   Realschule: B, Geo7
   Gymnasium: B9, B11-12, NT5-6
-image_result: ../content/img/kurse/Mikroben_result.png
+image_result: ../content/img/kurse/Mikroben_result.jpeg
 image_process: ../content/img/kurse/Mikroben_process.png
 ---
 :::short_description  
