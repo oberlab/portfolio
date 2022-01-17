@@ -172,7 +172,7 @@ img#process {
 
 #process-spacer{
     float: right;
-    height: calc(100% - 270px);
+    height: calc(100% - 290px);
 }
 
 img#portrait {
