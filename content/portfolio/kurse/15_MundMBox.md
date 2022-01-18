@@ -16,7 +16,7 @@ curriculum_reference:
   Förderschule: WG5-6 T7-9 IdiG
   Realschule: Ph9-10 We5-8 It 2.4
   Gymnasium: NT5 NT6+7 2
-image_result: ../content/img/kurse/MundM_result.png
+image_result: ../content/img/kurse/MundM_result_1.png
 image_process: ../content/img/kurse/MundM_2_process.png
 ---
 :::short_description  
