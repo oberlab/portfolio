@@ -16,7 +16,7 @@ curriculum_reference:
   Förderschule: WG, HSU, Inf, M  
   Realschule: B, C, Ph, Inf, We, M, TG
   Gymnasium: B, C, Ph, Inf, NuT, M
-image_result: ../content/img/kurse/Experimentierklub_result.jpg
+image_result: ../content/img/kurse/Experimentierklub_result.png
 image_process: ../content/img/kurse/Experimentierklub_process.png
 ---
 :::short_description  
