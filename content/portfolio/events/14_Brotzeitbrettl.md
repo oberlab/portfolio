@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/brettl_result.png
 image_process: ../content/img/kurse/brettl_process.png
 ---
 :::short_description  
-Wir gravieren gemeinsam euer Motiv auf ein Brotzeitbrettl, das auf jeden Fall der Hingucker für die nächste Brotzeit wird. Ihr könnt euch Motive aus unseren Vorlagen aussuchen, daraus ein individuelles Design für euer Brotzeitbrettl zusammenstellen und anschließend mit unserem Lasercutter in das Holz einbrennen.
+Wir gravieren gemeinsam euer Motiv auf ein Brotzeitbrettl, das auf jeden Fall der Hingucker für die nächste Brotzeit wird.
 :::
 
 :::message
