@@ -15,7 +15,7 @@ curriculum_reference:
   Förderschule: Inf5-7, NT  
   Realschule: IT 2.6  
   Gymnasium: NT6 2, Inf9
-image_result: ../content/img/kurse/Wetterstation1_result.png
+image_result: ../content/img/kurse/Wetterstation_result.png
 image_process: ../content/img/kurse/Wetterstation_process.png
 ---
 :::short_description  
