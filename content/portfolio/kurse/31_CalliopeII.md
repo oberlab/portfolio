@@ -16,7 +16,7 @@ curriculum_reference:
   Förderschule: Inf5-7, NT  
   Realschule: IT 2.6  
   Gymnasium: NT6 2, Inf9
-image_result: ../content/img/kurse/Calliope2_result.png
+image_result: ../content/img/kurse/codingkids_process.png
 image_process: ../content/img/kurse/calliope2_process.png
 ---
 :::short_description  
