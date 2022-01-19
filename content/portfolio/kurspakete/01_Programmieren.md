@@ -16,7 +16,7 @@ curriculum_reference:
   Förderschule: Inf5-7, HSU
   Realschule: IT 2.6  
   Gymnasium: NT6 2
-image_result: ../content/img/kurse/codingkids_process.png
+image_result: ../content/img/kurse/codingkids_result.png
 image_process: ../content/img/kurse/codingkids_process.png
 ---
 :::short_description  

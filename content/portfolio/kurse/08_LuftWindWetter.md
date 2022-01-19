@@ -16,8 +16,8 @@ curriculum_reference:
   Förderschule: NT5-9   
   Realschule: C8-9 4 C10 5
   Gymnasium: C8-10
-image_result: ../content/img/kurse/dummy_result.png
-image_process: ../content/img/kurse/dummy_process.png
+image_result: ../content/img/kurse/wind_result.png
+image_process: 
 ---
 :::short_description  
 Was ist eigentlich Luft und was hat sie mit dem Wind zu tun? Ist sie mehr als nichts? In diesem Kurs erforscht ihr die Eigenschaften von Luft und findet heraus ob ein leeres Glas wirklich leer ist. Außerdem untersucht ihr welche Kraft Luft haben kann, wenn sie erstmal in Bewegung gekommen ist.
