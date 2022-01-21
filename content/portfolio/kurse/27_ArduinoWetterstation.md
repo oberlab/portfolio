@@ -19,11 +19,11 @@ image_result: ../content/img/kurse/Wetterstation_result.png
 image_process: ../content/img/kurse/Wetterstation_process.png
 ---
 :::short_description  
-Ihr möchtet euch eine Wetterstation selber bauen? Dann seid ihr hier richtig. Das Holz-Gehäuse erstellen wir mit einem Lasercutter und danach geht es an das Innenleben der Wetterstation. Wir programmieren einen Arduino NANO und verbinden einen Sensor, sowie ein Display mit dem Microcontroller. Das Display zeigt euch die Temperatur, die Luftfeuchtigkeit und den Luftdruck an, dabei werden die Sensorwerte in regelmäßigen Abständen aktualisiert.        
+Ihr möchtet euch eine Wetterstation selber bauen? Dann seid ihr hier richtig. Das Holzgehäuse erstellen wir mit einem Lasercutter und für das Innenleben programmieren wir einen Arduino NANO und verbinden einen Sensor, sowie ein Display mit dem Microcontroller. Das Display zeigt euch die Temperatur, die Luftfeuchtigkeit und den Luftdruck an, dabei werden die Sensorwerte in regelmäßigen Abständen aktualisiert.        
 :::
 
 :::learning_goals  
-Beobachtet das Wetter in eurem Ort oder deiner Umgebung und seid euer eigener Wetterfrosch, der noch vor allen anderen Medien das aktuelle Wetter verkündet. Die Besonderheit: Die Schüler:innen haben alles selbst gebaut und programmiert, was sonst keiner im Wetterdienst von sich behaupten kann.              
+Beobachtet das Wetter in eurem Ort oder deiner Umgebung und seid euer eigener Wetterfrosch, der noch vor allen anderen Medien das aktuelle Wetter verkündet. Die Besonderheit: Die Schüler:innen haben alles selbst gebaut und programmiert, was wahrscheinlich niemand im Wetterdienst von sich behaupten kann.              
 :::
 
 :::message  

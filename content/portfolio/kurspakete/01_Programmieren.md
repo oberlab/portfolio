@@ -28,5 +28,5 @@ Mit dem Programmieren kann man garnicht früh genug beginnen. So gut wie alles i
 :::
 
 :::special_notes  
-Programmieren wird zunehmend populärer und hat nicht mehr das eingestaubte Klischee von früher. Ihr werdet hier mit der digitalen Welt konfrontiert und macht sie ganz zu eurer, denn letztlich ist Programmieren genau das: bringe eine Maschine dazu, das zu tun, was du möchtest.
+Programmieren wird zunehmend populärer und hat nicht mehr das eingestaubte Klischee von früher. Ihr werdet hier mit der digitalen Welt konfrontiert und macht sie ganz zu eurer, denn letztlich ist Programmieren genau das: bringe eine Maschine dazu, das zu tun, was ihr möchtet.
 :::

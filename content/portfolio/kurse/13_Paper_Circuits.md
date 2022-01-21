@@ -32,5 +32,5 @@ Dass das Licht zu Hause angeht, wenn man den Lichtschalter betätigt ist mit Sic
 :::  
 
 :::special_notes  
-Ihr habt die Wahl aus einem Creeper-, einem Super-Mario-Geist- oder einem Kürbisstromkreis, den ihr mit nach Hause nehmen könnt, um euer Zimmer zu erhellen.
+Ihr habt die Wahl aus verschiedensten vorgefertigten Stromkreisen, die ihr mit nach Hause nehmen könnt, um euer Zimmer zu erhellen.
 :::

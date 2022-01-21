@@ -32,5 +32,5 @@ Es muss kein teures Mikroskop sein, um seine Umgebung erforschen zu können. Ein
 :::  
 
 :::special_notes  
-Wie wärs denn mal mit einem Mikroskop zu Weihnachten als Geschenk? Druck es dir doch einfach aus.     
+Wie wärs denn mal mit einem Mikroskop zu Weihnachten als Geschenk? Druckt es euch doch einfach aus.     
 :::

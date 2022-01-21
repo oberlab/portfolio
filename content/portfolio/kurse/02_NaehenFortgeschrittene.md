@@ -18,7 +18,7 @@ image_result: ../content/img/kurse/Rucksack_result.png
 image_process: ../content/img/kurse/Rucksack_process.png
 ---
 :::short_description  
-Ihr arbeitet schon ab und zu mal selbstständig an einer Nähmaschine und möchtet jetzt mal richtig nach einem Schnitt nähen? Wir nähen einen Turnbeutel oder auch Matchsack aus zwei verschiedenen Stoffen, der ab jetzt euer täglicher Begleiter sein wird.    
+Ihr arbeitet schon ab und zu mal selbstständig mit einer Nähmaschine und möchtet jetzt mal richtig nach einem Schnitt nähen? Wir nähen einen Turnbeutel oder auch Matchsack aus zwei verschiedenen Stoffen, der ab jetzt euer täglicher Begleiter sein wird.    
 :::
 
 :::learning_goals  
@@ -30,5 +30,5 @@ Dieser Erweiterungskurs bietet eine erste praktische Einsatzmöglichkeit der ber
 :::  
 
 :::special_notes  
-Kunstleder und SnapPap kann selbst mitgebracht werden oder ist im Kursraum für 6€ erhältlich. Ebenso Canvas (fester Stoff so ähnlich wie Jeans).    
+Kunstleder und SnapPap kann selbst mitgebracht werden oder ist im Kursraum für 6€ erhältlich. Ebenso Canvas (fester Stoff, so ähnlich wie Jeans).    
 :::

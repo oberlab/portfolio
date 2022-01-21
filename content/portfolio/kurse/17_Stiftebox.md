@@ -20,7 +20,7 @@ image_result: ../content/img/kurse/Stiftehalter_result.png
 image_process: ../content/img/kurse/Stifte_process.png
 ---
 :::short_description  
-Ordnung ist das halbe Leben... Schön und gut, aber wenn es keinen Platz für Ordnung, sondern nur für Chaos gibt, was dann? In diesem Kurs werdet ihr einen Ort für Struktur schaffen, indem ihr euren Stiften ein Zuhause gebt, das sie nie wieder verlassen werden, denn ihr habt dieses Zuhause designed und zusammengebaut; hier geht sicherlich nichts mehr stiften.             
+Ordnung ist das halbe Leben... Schön und gut, aber wenn es keinen Platz für Ordnung, sondern nur für Chaos gibt, was dann? In diesem Kurs werdet ihr einen Ort für Struktur schaffen, indem ihr euren Stiften ein Zuhause gebt, das sie nie wieder verlassen werden, denn ihr habt dieses Zuhause designt und zusammengebaut; hier geht sicherlich nichts mehr stiften.             
 :::
 
 :::learning_goals  

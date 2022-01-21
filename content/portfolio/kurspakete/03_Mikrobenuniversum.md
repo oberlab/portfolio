@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/Mikroben_result.jpeg
 image_process: ../content/img/kurse/Mikroben_process.png
 ---
 :::short_description  
-Wasseranalysen zeigen, dass Wasser nicht gleich Wasser und Boden nicht einfach nur Boden ist. Mit unseren 3D-gedruckten digitalen Mikroskopen ist es außerdem möglich, die Welt der Mikroben zu erkunden. Es wird auch das Thema Umweltverschmutzung, Eingriff in Lebensräume und das Thema Mikroplastik besprochen. Denn die mikroskopischen Kunststoffpartikel sind nicht nur ein Problem der Ozeane, sondern verschmutzen auch unsere heimischen Wälder, Flüsse und Seen.
+Wasseranalysen zeigen, dass Wasser nicht gleich Wasser und Boden nicht einfach nur Boden ist. Mit unseren 3D-gedruckten digitalen Mikroskopen ist es außerdem möglich, die Welt der Mikroben zu erkunden. Es wird auch das Thema Umweltverschmutzung, Mikroplastik und  Eingriff in Lebensräume erforscht. Mikroskopische Kunststoffpartikel sind nicht nur ein Problem der Ozeane, sondern verschmutzen auch unsere heimischen Wälder, Flüsse und Seen.
 :::
 
 :::learning_goals  
@@ -27,5 +27,5 @@ Die Schüler:innen experimentieren und forschen zum Thema „Wasser und Boden“
 :::
 
 :::special_notes  
-Je nach Jahreszeiut bietet es sich für diesen Kurs an einen Ausflug zum See, Fluss oder in den Wald zu machen und vor Ort zu experimentieren und entdecken.
+Je nach Jahreszeit bietet es sich für diesen Kurs an, einen Ausflug zum See, Fluss oder in den Wald zu machen und vor Ort zu experimentieren und zu entdecken.
 :::

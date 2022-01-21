@@ -31,5 +31,5 @@ In diesem Kurs lernt ihr die Grundlagen von Grafikdesign. Wie tief ihr einsteige
 :::  
 
 :::special_notes  
-Natürlich dürfen auch Holzbrotzeitbrettl von zu Hause mitgebracht werden (Materialkosten entfallen entsprechend). Ansonsten bekommt ihr von uns einen unserer Brotzeitbrettlrohlinge aus Ahornholz, die wir von unserer lokalen Schreinerei beziehen.
+Natürlich dürfen auch Holzbrotzeitbrettl von zu Hause mitgebracht werden (Materialkosten entfallen entsprechend). Ansonsten bekommt ihr von uns einen Brotzeitbrettlrohlinge aus Ahornholz, die wir von unserer lokalen Schreinerei beziehen.
 :::

@@ -20,11 +20,11 @@ image_result: ../content/img/kurse/Experimentierklub_result.png
 image_process: ../content/img/kurse/Experimentierklub_process.png
 ---
 :::short_description  
-Der Experimentierklub ist das Paket mit der größten Bandbreite an Themengebieten. Von Programmieren, Designen, 3D-Druck, spannenden chemischen Experimenten und viel Naturwissenschaft ist alles dabei, was das Forscher:innenherz höher schlagen lässt. Das Angebot eignet sich perfekt um an Schulen bestimmte MINT-Bereiche zu erweitern.   
+Der Experimentierklub ist das Paket mit der größten Bandbreite an Themengebieten. Von Programmieren, Designen, 3D-Druck, spannenden naturwissenschaftlichen Experimenten ist alles dabei, was das Forscher:innenherz höher schlagen lässt. Das Angebot eignet sich perfekt um an Schulen bestimmte MINT-Bereiche zu erweitern oder zu vertiefen.   
 :::
 
 :::learning_goals  
-Ziel ist es, dass durch praktisches Experimentieren, die Teilnehmer:innen früh eine eigene Expertise aufbauen und lernen, mit Informationen aus dem Alltag richtig umzugehen. Nur, wer etwas einmal persönlich erforscht und praktiziert hat weiß, wie der Hase läuft und kann mit Falschinformation besser umgehen.
+Ziel ist es, dass durch praktisches Experimentieren, die Teilnehmer:innen früh eine eigene Expertise aufbauen und lernen, mit Informationen aus dem Alltag richtig umzugehen. Nur, wer etwas einmal persönlich erforscht und praktiziert hat, weiß, wie der Hase läuft und kann mit Falschinformation besser umgehen.
 :::
 
 :::special_notes  

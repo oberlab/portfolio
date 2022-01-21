@@ -19,7 +19,7 @@ image_result: ../content/img/kurse/Tinte_result.png
 image_process: ../content/img/kurse/Tinte_process.png
 ---
 :::short_description  
-Ihr habt eine Erfindung, die die Welt verändern wird, aber es darf niemand davon wissen? Ihr möchtet jemandem einen Liebesbrief schreiben, den sonst niemand lesen darf? Dann werdet mit Hilfe des Oberlab-Geheimdienstes zum secret agent und entwickelt eure eigene Geheimtinte aus Hausmitteln.          
+Ihr habt eine Erfindung, die die Welt verändern wird, aber niemand davon erfahren darf? Ihr möchtet jemandem einen Liebesbrief schreiben, den sonst niemand lesen darf? Dann werdet mit Hilfe des Oberlab-Geheimdienstes zum secret agent und entwickelt eure eigene Geheimtinte aus Hausmitteln.          
 :::
 
 :::learning_goals  

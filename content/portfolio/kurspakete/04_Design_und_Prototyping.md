@@ -20,11 +20,11 @@ image_result: ../content/img/kurse/Design_result.png
 image_process: ../content/img/kurse/Design_process.png
 ---
 :::short_description  
-Du hast eine geniale Erfindung im Kopf, die alle deine Probleme lösen wird? Wie kann aus deiner Idee Wirklichkeit werden? Wir zeigen dir, wie man mit Hilfe von CAD-(computer-aided design) Programmen wie die Profis Entwürfe erstellt und einen Prototypen baut, der weiter verbessert werden kann. Die nötigen Grundlagen in 3D-Design & Druck, Elektronik und Programmieren bringen wir dir bei!
+Ihr habt eine geniale Erfindung im Kopf, die alle eure Probleme lösen wird? Wie kann aus eurer Idee Wirklichkeit werden? Wir zeigen euch, wie man mit Hilfe von CAD-(computer-aided design) Programmen Entwürfe wie die Profis erstellt und einen Prototypen baut, der die Basis eurer Idee sein wird. Die nötigen Grundlagen in 3D-Design & Druck, Elektronik und Programmieren bringen wir euch bei!
 :::
 
 :::learning_goals
-Die größten Innovationen unserer Zeit sind oftmals in Garagen entstanden. Ein Problem war da, aber kein Know-how, wie das Problem gelöst werden kann; lediglich das Handwerkszeug zur Problembewältigung war vorhanden. Dieser Kurs soll euch zeigen, dass man jedes Problem lösen kann, wenn man nur zu Beginn den richtigen Schubser bekommt und man seine Fühler in alle Richtungen austreckt.
+Die größten Innovationen unserer Zeit sind oftmals in Garagen entstanden. Ein Problem war zugegen, aber das nötige Know-how, wie das Problem gelöst werden kann, fehlte; lediglich das Handwerkszeug zur Problembewältigung war vorhanden. Dieser Kurs soll euch zeigen, dass man jedes Problem lösen kann, wenn man nur zu Beginn den richtigen Schubser bekommt und man seine Fühler in alle Richtungen austreckt.
 :::
 
 :::special_notes  

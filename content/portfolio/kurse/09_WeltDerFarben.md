@@ -20,11 +20,11 @@ image_result: ../content/img/kurse/Farben_result.png
 image_process: ../content/img/kurse/Farben_process.png
 ---
 :::short_description  
-Nach manchem Regenschauer, wenn die Sonne lacht, erscheint ein Regenbogen am Himmel in allen Farben. Alle Farben? Was ist mit Weiß, Grau und Schwarz? Sind das keine Farben? Und wohin "geht" eigentlich die Farbe, wenn die Tinte mit einem Tintenkiller überstrichen wird? Diesen Fragen gehen wir experimentell auf den Grund und untersuchen zudem den "Fingerabdruck" von Filzstiften.          
+Nach manchem Regenschauer, wenn die Sonne lacht, erscheint ein Regenbogen am Himmel in allen Farben. Allen Farben? Was ist mit Weiß, Grau und Schwarz? Sind das keine Farben? Und wohin "geht" eigentlich die Farbe, wenn die Tinte mit einem Tintenkiller überstrichen wird? Diesen Fragen gehen wir experimentell auf den Grund und untersuchen zudem den "Fingerabdruck" von Filzstiften.          
 :::
 
 :::learning_goals  
-Schüler:innen können nach diesem Kurs Farbigkeit erklären, wie sich sämtliche Farben zusammensetzen und wie man sie mit einer einfachen analytischen Methode (Chromatographie) die Farbestandteile von Filzsstiften auftrennen kann.                   
+Schüler:innen können nach diesem Kurs Farbigkeit erklären und wie sich sämtliche Farben zusammensetzen. Zudem sind sie in der Lage, mittels einer einfachen analytischen Methode (Chromatographie) die Farbstoffe von Filzstiften in ihre Bestandteile aufzutrennen.                   
 :::
 
 :::message  
@@ -32,5 +32,5 @@ Forscher:innen stellen sich Fragen aus dem alltäglichen Leben, die sie versuche
 :::  
 
 :::special_notes  
-Bitte nehmt zu dem Kurs einen schwarzen Filzstift mit.     
+Bitte nehmt zu dem Kurs verschiedene Filzstifte.     
 :::

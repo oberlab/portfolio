@@ -32,5 +32,5 @@ Klar ist, dass man aus Kupfer nicht einfach Gold machen kann. In der Verbindung 
 :::  
 
 :::special_notes  
-Bringt gerne mehrere Kupfermünzen mit oder sogar ein wenig Kupferblech, um euren eigenen Geldbeutel in eine wahrhaftige Schatzkiste zu verwandeln.     
+Bringt gerne mehrere Kupfermünzen oder sogar ein wenig Kupferblech mit, um euren eigenen Geldbeutel in eine wahrhaftige Schatzkiste zu verwandeln.     
 :::
