@@ -24,7 +24,7 @@ Ihr habt eine geniale Erfindung im Kopf, aber wie kann aus eurer Idee Wirklichke
 :::
 
 :::learning_goals
-Die größten Innovationen unserer Zeit sind oftmals in Garagen entstanden. Ein Problem war zugegen, aber das nötige Know-how, wie das Problem gelöst werden kann, fehlte; lediglich das Handwerkszeug zur Problembewältigung war vorhanden. Dieser Kurs soll euch zeigen, dass man jedes Problem lösen kann, wenn man nur zu Beginn den richtigen Schubser bekommt und man seine Fühler in alle Richtungen austreckt.
+Die größten Innovationen unserer Zeit sind oftmals in Garagen entstanden. Ein Problem war zugegen, aber das nötige Know-how, wie das Problem gelöst werden kann, fehlte; lediglich das Handwerkszeug zur Problembewältigung war vorhanden. Dieser Kurs soll euch zeigen, dass man jedes Problem lösen kann, wenn man nur zu Beginn den richtigen Schubser bekommt.
 :::
 
 :::special_notes  
