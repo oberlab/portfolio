@@ -20,7 +20,7 @@ image_result: ../content/img/kurse/Design_result.png
 image_process: ../content/img/kurse/Design_process.png
 ---
 :::short_description  
-Ihr habt eine geniale Erfindung im Kopf, die alle eure Probleme lösen wird? Wie kann aus eurer Idee Wirklichkeit werden? Wir zeigen euch, wie man mit Hilfe von CAD-(computer-aided design) Programmen Entwürfe wie die Profis erstellt und einen Prototypen baut, der die Basis eurer Idee sein wird. Die nötigen Grundlagen in 3D-Design & Druck, Elektronik und Programmieren bringen wir euch bei!
+Ihr habt eine geniale Erfindung im Kopf, aber wie kann aus eurer Idee Wirklichkeit werden? Wir zeigen euch, wie man mit Hilfe von CAD-Programmen Entwürfe wie die Profis erstellt und einen Prototypen baut, der die Basis eurer Idee sein wird. Die nötigen Grundlagen in 3D-Design & Druck, Elektronik und Programmieren bringen wir euch bei!
 :::
 
 :::learning_goals
