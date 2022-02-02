@@ -32,5 +32,5 @@ Forscher:innen stellen sich Fragen aus dem alltäglichen Leben, die sie versuche
 :::  
 
 :::special_notes  
-Bitte nehmt zu dem Kurs verschiedene Filzstifte.     
+Bitte nehmt zu dem Kurs verschiedene Filzstifte mit.     
 :::
